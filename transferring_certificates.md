@@ -3,11 +3,6 @@ Transferring Certificates
 
 How to Transfer a Certificate
 
-![Sean avatar](https://static.intercomassets.com/avatars/2285607/square_128/Headshot-1533755730.JPG?1533755730)
-
-Written by Sean\
-Updated over a week ago
-
 M-RETS users may transfer active Certificates to:
 -------------------------------------------------
 
