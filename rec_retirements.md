@@ -3,12 +3,12 @@ REC Retirement Types
 
 Available options to select when retiring RECs
 
-#### BeneficialOwnership (BBO)
+#### Beneficial Ownership (BBO)
 
 -   **Formal Definition**: With respect to any Credit, Beneficial Ownership Rights means any contractual or other right to direct or control the sale or other disposition of, or the Retirement of, such Credit or (ii) any contractual or other right to receive the benefits of such Credit or any proceeds from the sale or other disposition of such Credit.
 -   **M-RETS Uses**: All retirements for the benefit of an individual owner of for a general environmental reason (i.e. company purchasing RECs to green their operation) An Additional Details field is provided to allow the account holder to provide specific information about the sale (i.e. customer name, retirement year) Note: Compliance or Green-e Voluntary programs should not use the Beneficial Ownership retirement type. All RPS retirements (IncludingIL ARES Retirements) should use the State-Regulated Utility RenewablePortfolio Standard/Provincial Utility Portfolio Standard (RPS)Retirement Type. Green-e Voluntary Retirements should use the Green-e EnergyCertified Voluntary Market Sale Retirement Type 
 
-#### Green-eEnergy Certified Voluntary Market Sale (GRN)
+#### Green-e Energy Certified Voluntary Market Sale (GRN)
 
 -   **M-RETS Uses**: All Green-e Retirements. In order to retire Certificates to substantiate sales made in a given calendar year as "Green-eEnergy certified", the party retiring Certificates must have a contract in place with Center for Resource Solutions to make Green-e Energy certified sales in that year of sale. 
 
