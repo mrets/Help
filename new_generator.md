@@ -3,11 +3,6 @@ Register a New Generator
 
 Learn how to register a new generator or project in M-RETS.
 
-![Sean avatar](https://static.intercomassets.com/avatars/2285607/square_128/Headshot-1533755730.JPG?1533755730)
-
-Written by Sean\
-Updated over a week ago
-
 The following information will guide you through the steps necessary to register a Project in your M-RETS® organization account. M-RETS is available to assist you throughout the registration process. Please call 651-900-7891, or email at <systemadmin@mrets.org>.
 
 Review Registry Operating Documents
