@@ -1,6 +1,5 @@
 Within the System
 =================
-
 This list contains help guides for the M-RETS, broken down by sidebar categories. NOTE: Your organization may not see all of these categories.
 
 Exporting From ERCOT to M-RETS
@@ -16,8 +15,6 @@ Filtering and Downloading Tables
 How to filter and manipulate data across the data display and report interface
 
 Certificates
-
-[
 
 Certificates Tab: An Introduction
 -------------------------
