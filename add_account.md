@@ -7,14 +7,14 @@ Accounts act as folders for Certificates. There are two types of accounts in M-R
 
 -   In the navigation bar on the left side, click on accounts.
 
-![](https://downloads.intercomcdn.com/i/o/102993208/57eb405526a1a631779fb234/2019-02-13_09-36-20.png)
+![](https://github.com/mrets/photos/blob/master/createaccount1.png?raw=true)
 
 -   Click on  'Add New Account'
 
-![](https://downloads.intercomcdn.com/i/o/102993712/7aca6b5c07a75dd84e41eb5a/2019-02-13_09-37-18.png)
+![](https://github.com/mrets/photos/blob/master/createaccount2.png?raw=true)
 
 -   Select the Account Type and give the Account a snappy name like "RPS 2019". or, "Erica's Awesome RECs".
 
-![](https://downloads.intercomcdn.com/i/o/102993915/55955f83d9cf6f9f17bd98ce/Screen+Shot+2019-02-13+at+9.39.53+AM.png)
+![](https://github.com/mrets/photos/blob/master/createaccount3.png?raw=true)
 
 Once you fill in the information make sure you hit save. You can then verify that your new account is set up and ready to go!
