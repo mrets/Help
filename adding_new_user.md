@@ -10,15 +10,15 @@ Adding A User
 
 1.  Click on your user name in the upper right corner, then click on 'Organization Info'.
 
-![](https://downloads.intercomcdn.com/i/o/71340045/667784fcb73d89255694bb75/2018-08-09_13-18-37.gif)
+![](https://github.com/mrets/photos/blob/master/adding_new_user1.gif?raw=true)
 
 2\. Click on Users in the interface and then Add New User
 
-![](https://downloads.intercomcdn.com/i/o/71354550/c4bf971b02289ca81dd1edb5/2018-08-09_15-00-59.gif)
+![](https://github.com/mrets/photos/blob/master/adding_new_user2.gif?raw=true)
 
 3\. Fill in the Add New User Fields - Please DOUBLE CHECK your work to ensure the details are correct before you send the invitation to the new user.
 
-![](https://downloads.intercomcdn.com/i/o/71194183/7d8e41f82d3b26dfd3658e54/2018-08-08_16-04-05.png)
+![](https://github.com/mrets/photos/blob/master/adding_new_user3.png?raw=true)
 
 4\. Hit Send Invitation and Celebrate!
 
