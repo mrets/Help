@@ -14,7 +14,7 @@ Step 1: Begin a Recurring Transfer
 
 -   Click on 'Add Recurring Transfer'
 
-![](https://downloads.intercomcdn.com/i/o/77447968/1054fe24cb385723a853beb1/2018-09-21_11-46-24.png)
+![](https://github.com/mrets/photos/blob/master/automatic_recurring_transfers1.png?raw=true)
 
 -   You will now see a list of your generators and a calendar. Once a generator is selected, you will see fuel(s) related to said generator.
 
