@@ -3,11 +3,6 @@ Adding a New User to an Organization
 
 This article will help you figure out how to add a new user to your organization
 
-![Ben avatar](https://static.intercomassets.com/avatars/1676487/square_128/RET_Web_72dpi-1513099141.jpg?1513099141)
-
-Written by Ben\
-Updated over a week ago
-
 M-RETS does not allow the sharing of user accounts. ***M-RETS requires every person that logs into the system to have their own separate user login credentials.*** M-RETS tracks the specific activities of each user through the unique user ID and password. There is no limit to the number of users an organization can have.
 
 Adding A User
