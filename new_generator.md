@@ -15,17 +15,17 @@ Register a Generator/Project
 
 -   After logging in, click on the 'Projects' tab on the left.
 
-![](https://downloads.intercomcdn.com/i/o/119922059/0fd77e92cba05e50d1a96985/2019-05-08_10-52-13.png)
+![](https://github.com/mrets/photos/blob/master/new_generator1.png)
 
 You will now see any Active generators in your Organization. For a full walkthrough of this page, please see our Projects Tab: An Introduction Article. *(coming soon)*
 
 -   Click on 'Add New Project' on the right side.
 
-![](https://downloads.intercomcdn.com/i/o/119925579/1092fea7739024181af104a2/2019-05-08_10-41-09.png)
+![](https://github.com/mrets/photos/blob/master/new_generator2.png)
 
 -   Give your generator a name and click 'Create Project'. You can change the name later in the process.
 
-![](https://downloads.intercomcdn.com/i/o/119926232/123f4a78e01ed3ca1e04a89e/2019-05-08_10-47-10.png)
+![](https://github.com/mrets/photos/blob/master/new_generator3.png)
 
 B. Once you access the screen your project is now in "Draft" mode. You can continue to update your project, however, make sure you save changes by clicking on the save project button. Once you have filled in all of the information required (indicated by an *), you will be able to submit the project registration to the system administrator for approval. If you are not sure what a field is asking, please consult the table at the bottom of this article. If you are still unsure after consulting the Operating Procedures please contact the M-RETS System Administrator. 
 
@@ -46,7 +46,7 @@ Uploading Supporting Documents
 
 Use the Documents tab interface to upload documents. By clicking the blue "Upload Document" a local search function can be accessed. 
 
-![](https://downloads.intercomcdn.com/i/o/119987120/0ddb2bfac77c9dcc20906820/2019-05-08_15-10-29.png)
+![](https://github.com/mrets/photos/blob/master/new_generator4.png)
 
 Submission and Review
 ---------------------
@@ -61,4 +61,4 @@ Static Data Field Information
 
 -------------------------------
 
-![](https://downloads.intercomcdn.com/i/o/119933789/90389ba0aec1da45cd40f1e1/2019-05-08_11-32-07.png)
+![](https://github.com/mrets/photos/blob/master/new_generator5.png)
