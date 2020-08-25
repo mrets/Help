@@ -3,7 +3,6 @@ Register a New Organization Account
 
 Learn how to register a new organization in M-RETS.
 
-####\
 The following will guide you through the steps necessary to create an M-RETS account. M-RETS is available to assist you throughout the registration process. Please call 651-900-7891, or email at <systemadmin@mrets.org>.
 
 **STEP 1 -- Complete the online registration.**
