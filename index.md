@@ -28,236 +28,64 @@ Learn how to sell RECs on M-RETS
 ### [Certificate Retirement Types](https://github.com/mrets/articles/blob/master/certificate_retirements.md)
 Available options to select when retiring RECs
 
-Exporting RECs
---------------
+### [Exporting RECs](https://github.com/mrets/articles/blob/master/certificates_exporting_certifcates.md)
 
-This guide will walk you through the process to Export RECs
+## Transactions
 
-![Sean avatar](https://static.intercomassets.com/avatars/2285607/square_128/Headshot-1533755730.JPG?1533755730)
-
-Written by Sean\
-Updated over a week ago
-
-](https://help.mrets.org/en/articles/2873628-exporting-recs)
-
-Transactions
-
-[
-
-Transfer to Multiple Active Accounts
-------------------------------------
-
+### Transfer to Multiple Active Accounts
 Learn how to transfer a batch of RECs to multiple active accounts
 
-![Ben avatar](https://static.intercomassets.com/avatars/1676487/square_128/RET_Web_72dpi-1513099141.jpg?1513099141)
-
-Written by Ben\
-Updated over a week ago
-
-](https://help.mrets.org/en/articles/2042902-transfer-to-multiple-active-accounts)[
-
-How-To: Automatic Recurring Transfers and Irrevocable Transfers
----------------------------------------------------------------
-
+### How-To: Automatic Recurring Transfers and Irrevocable Transfers
 Automatic Recurring Transfers (ARTs) are now available. Here's how to use them! (Formerly known as Forward Transfers and Standing Orders)
 
-![Sean avatar](https://static.intercomassets.com/avatars/2285607/square_128/Headshot-1533755730.JPG?1533755730)
-
-Written by Sean\
-Updated over a week ago
-
-](https://help.mrets.org/en/articles/2353204-how-to-automatic-recurring-transfers-and-irrevocable-transfers)[
-
-Withdrawing/Accepting/Rejecting Transfers
------------------------------------------
-
+### Withdrawing/Accepting/Rejecting Transfers
 This article explains how to withdraw, accept, and reject a transfer
 
-![Sean avatar](https://static.intercomassets.com/avatars/2285607/square_128/Headshot-1533755730.JPG?1533755730)
+## Accounts
 
-Written by Sean\
-Updated over a week ago
-
-](https://help.mrets.org/en/articles/2247007-withdrawing-accepting-rejecting-transfers)
-
-Accounts
-
-[
-
-Add Active or Retirement Account
---------------------------------
-
+### Add Active or Retirement Account
 This article describes how to add an active or retirement account to your organization
 
-![Ben avatar](https://static.intercomassets.com/avatars/1676487/square_128/RET_Web_72dpi-1513099141.jpg?1513099141)
+## Projects
 
-Written by Ben\
-Updated over a week ago
-
-](https://help.mrets.org/en/articles/1554617-add-active-or-retirement-account)
-
-Projects
-
-[
-
-Register a New Generator
-------------------------
-
+### Register a New Generator
 Learn how to register a new generator or project in M-RETS.
 
-![Sean avatar](https://static.intercomassets.com/avatars/2285607/square_128/Headshot-1533755730.JPG?1533755730)
-
-Written by Sean\
-Updated over a week ago
-
-](https://help.mrets.org/en/articles/1314909-register-a-new-generator)[
-
-Transferring or Reassigning Generators/Projects
------------------------------------------------
-
+### Transferring or Reassigning Generators/Projects
 This article will detail how a transfer or reassign of generator/project is completed.
 
-![Sean avatar](https://static.intercomassets.com/avatars/2285607/square_128/Headshot-1533755730.JPG?1533755730)
+## Generation
 
-Written by Sean\
-Updated over a week ago
-
-](https://help.mrets.org/en/articles/2306010-transferring-or-reassigning-generators-projects)
-
-Generation
-
-[
-
-Upload Generation Data
-----------------------
-
+### Upload Generation Data
 Learn how to upload generation data.
 
-![Rosie avatar](https://static.intercomassets.com/avatars/1644462/square_128/headshot-1512590138.png?1512590138)
-
-Written by Rosie\
-Updated over a week ago
-
-](https://help.mrets.org/en/articles/1327717-upload-generation-data)[
-
-Multi-Fuel Issuance: Entering Fuel Splits for Multi-Fuel Generators
--------------------------------------------------------------------
-
+### Multi-Fuel Issuance: Entering Fuel Splits for Multi-Fuel Generators
 This article will walk you through the multi-fuel issuance split process required before issuance
 
-![Ben avatar](https://static.intercomassets.com/avatars/1676487/square_128/RET_Web_72dpi-1513099141.jpg?1513099141)
-
-Written by Ben\
-Updated over a week ago
-
-](https://help.mrets.org/en/articles/1567715-multi-fuel-issuance-entering-fuel-splits-for-multi-fuel-generators)[
-
-Feasibility Failures
---------------------
-
+### Feasibility Failures
 What to do if you get a feasibility analysis failure upon upload
 
-![Ben avatar](https://static.intercomassets.com/avatars/1676487/square_128/RET_Web_72dpi-1513099141.jpg?1513099141)
+### Generation Upload Data Format
 
-Written by Ben\
-Updated over a week ago
+## Programs
 
-](https://help.mrets.org/en/articles/1563724-feasibility-failures)[
-
-Generation Upload Data Format
------------------------------
-
-![Rosie avatar](https://static.intercomassets.com/avatars/1644462/square_128/headshot-1512590138.png?1512590138)
-
-Written by Rosie\
-Updated over a week ago
-
-](https://help.mrets.org/en/articles/1370087-generation-upload-data-format)
-
-Programs
-
-[
-
-Adding a Program
-----------------
-
+### Adding a Program
 This article will describe the basics of Programs
 
-![Sean avatar](https://static.intercomassets.com/avatars/2285607/square_128/Headshot-1533755730.JPG?1533755730)
-
-Written by Sean\
-Updated over a week ago
-
-](https://help.mrets.org/en/articles/2513477-adding-a-program)[
-
-Participating in a Program
---------------------------
-
+### Participating in a Program
 A Guide to Participating in Compliance or Voluntary Programs
 
-![Sean avatar](https://static.intercomassets.com/avatars/2285607/square_128/Headshot-1533755730.JPG?1533755730)
+## Billing
 
-Written by Sean\
-Updated over a week ago
-
-](https://help.mrets.org/en/articles/2670692-participating-in-a-program)
-
-Billing
-
-[
-
-Adding a New User to an Organization
-------------------------------------
-
+### Adding a New User to an Organization
 This article will help you figure out how to add a new user to your organization
 
-![Ben avatar](https://static.intercomassets.com/avatars/1676487/square_128/RET_Web_72dpi-1513099141.jpg?1513099141)
-
-Written by Ben\
-Updated over a week ago
-
-](https://help.mrets.org/en/articles/1560758-adding-a-new-user-to-an-organization)[
-
-Removing a User from your Organization
---------------------------------------
-
+### Removing a User from your Organization
 This article will walk through how to remove a user by setting them to Inactive.
 
-![Sean avatar](https://static.intercomassets.com/avatars/2285607/square_128/Headshot-1533755730.JPG?1533755730)
+### Update/Add your Billing Contact Information
 
-Written by Sean\
-Updated over a week ago
-
-](https://help.mrets.org/en/articles/2775470-removing-a-user-from-your-organization)[
-
-Update/Add your Billing Contact Information
--------------------------------------------
-
-![Sean avatar](https://static.intercomassets.com/avatars/2285607/square_128/Headshot-1533755730.JPG?1533755730)
-
-Written by Sean\
-Updated over a week ago
-
-](https://help.mrets.org/en/articles/2222107-update-add-your-billing-contact-information)[
-
-Email Notifications
--------------------
-
+### Email Notifications
 Learn how to add or remove email notifications as a user
 
-![Ben avatar](https://static.intercomassets.com/avatars/1676487/square_128/RET_Web_72dpi-1513099141.jpg?1513099141)
-
-Written by Ben\
-Updated over a week ago
-
-](https://help.mrets.org/en/articles/2034693-email-notifications)[
-
-View the Status of Current and Past Invoices
---------------------------------------------
-
-![Sean avatar](https://static.intercomassets.com/avatars/2285607/square_128/Headshot-1533755730.JPG?1533755730)
-
-Written by Sean\
-Updated over a week ago
-
-](https://help.mrets.org/en/articles/2222264-view-the-status-of-current-and-past-invoices)
+### View the Status of Current and Past Invoices
