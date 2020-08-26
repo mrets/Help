@@ -78,10 +78,10 @@ What to do if you get a feasibility analysis failure upon upload
 
 ## Programs
 
-### Adding a Program
+### [Adding a Program](https://github.com/mrets/articles/blob/master/program_adding_program.md)
 This article will describe the basics of Programs
 
-### Participating in a Program
+### [Participating in a Program](https://github.com/mrets/articles/blob/master/program_participating_programs.md)
 A Guide to Participating in Compliance or Voluntary Programs
 
 ## Billing
