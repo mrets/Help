@@ -235,30 +235,30 @@ Service shall be effective on the earlier of actual receipt or the second busine
 
 Principal is not released from and shall remain liable to M-RETS for compliance with all of the terms and conditions of the M-RETS Agreements, including without limitation indemnification of M-RETS, defaults of the M-RETS Terms of Use and Agreements committed by Subscriber's Agent, and payment of all amounts due or to become due to M-RETS under the M-RETS Agreements or Terms of Use. Subscriber Agent's authorization to make payment of any such amounts hereunder shall not release Subscriber from liability for any obligations to M-RETS not satisfied by Subscriber's Agent, financial or otherwise.
 
-**29\.  Definitions.**
+**29. Definitions.**
 
 Capitalized terms used herein shall have the meanings ascribed to such terms in the M-RETS Operating Procedures or as follows:
 
-**Account:**Any and all accounts maintained in the M-RETS System in accordance with the M-RETS Operating Procedures.
+**Account:** Any and all accounts maintained in the M-RETS System in accordance with the M-RETS Operating Procedures.
 
-**User Attribute/Generation Attribute:**A non-Energy characteristic of a generator, such as location, vintage, fuel, state RPS program eligibility, etc.
+**User Attribute/Generation Attribute:** A non-Energy characteristic of a generator, such as location, vintage, fuel, state RPS program eligibility, etc.
 
-**Energy:**The physical electricity commodity of the electrons transmitted through the power grid.
+**Energy:** The physical electricity commodity of the electrons transmitted through the power grid.
 
-**Generator Owner:**The person or entity holding legal title to a particular generating unit.
+**Generator Owner:** The person or entity holding legal title to a particular generating unit.
 
-**M-RETS Administrator:**The M-RETS Administrator is the entity with the authority to administer or oversee the administration and implementation of the M-RETS Operating Procedures.
+**M-RETS Administrator:** The M-RETS Administrator is the entity with the authority to administer or oversee the administration and implementation of the M-RETS Operating Procedures.
 
-M-RETS: M-RETS, Inc., the Wisconsin non-profit corporation named Midwest Renewable Energy Tracking System, Inc. 
+**M-RETS:** M-RETS, Inc., the Wisconsin non-profit corporation named Midwest Renewable Energy Tracking System, Inc. 
 
-M-RETS Operating Procedures:The Midwestern Renewable Energy Tracking System Operating Procedures, dated December 6, 2006, as amended from time to time.
+**M-RETS Operating Procedures:** The Midwestern Renewable Energy Tracking System Operating Procedures, dated December 6, 2006, as amended from time to time.
 
-**M-RETS Region:**The region located within the state and provincial boundaries of those states and provinces that are included within the M-RETS footprint from time to time, as set forth in the M-RETS Operating Procedures.
+**M-RETS Region:** The region located within the state and provincial boundaries of those states and provinces that are included within the M-RETS footprint from time to time, as set forth in the M-RETS Operating Procedures.
 
-M-RETS System:  The software application program that (i) creates Certificates to uniquely define Attributes; and (ii) tracks said Certificates. 
+**M-RETS System:**  The software application program that (i) creates Certificates to uniquely define Attributes; and (ii) tracks said Certificates. 
 
-Regulator:A person or agency executing and delivering to M-RETS a Consent of Non-Transacting State Regulator in the form of Schedule B-2 and thereafter using the M-RETS System with limited level 4 access to generate compliance or informational reports.
+**Regulator:** A person or agency executing and delivering to M-RETS a Consent of Non-Transacting State Regulator in the form of Schedule B-2 and thereafter using the M-RETS System with limited level 4 access to generate compliance or informational reports.
 
-Renewable:Meeting the definition of "renewable" in any of the states or provinces comprising the M-RETS footprint.
+**Renewable:** Meeting the definition of "renewable" in any of the states or provinces comprising the M-RETS footprint.
 
-**User Agent:**An agent of User who shall be designated either on a Schedule C-1 - Declaration of Agency, Level 1 Access, or on a Schedule C-2 -- Declaration of Agency, Level 2, Level 3 or Level 4 Access.
+**User Agent:** An agent of User who shall be designated either on a Schedule C-1 - Declaration of Agency, Level 1 Access, or on a Schedule C-2 -- Declaration of Agency, Level 2, Level 3 or Level 4 Access.
