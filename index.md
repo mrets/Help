@@ -115,3 +115,12 @@ Wisconsin Compliance Assistance - Link to PSC Website
 
 ### [Minnesota Compliance Training](https://github.com/mrets/articles/blob/master/compliance_mn_compliance.md)
 Assistance with Completing Minnesota RPS and Green Pricing Retirements in M-RETS
+
+# Platform Documents
+Terms of Use, Privacy Policy, and other legal documents
+
+### [M-RETS Privacy Policy](https://github.com/mrets/articles/blob/master/platorm_privacy_policy.md)
+Policies guiding use of user information
+
+### [Terms of Use](https://github.com/mrets/articles/blob/master/platform_terms_of_use.md)
+Rules for using the M-RETS system
