@@ -86,15 +86,15 @@ A Guide to Participating in Compliance or Voluntary Programs
 
 ## Billing
 
-### Adding a New User to an Organization
+### [Adding a New User to an Organization](https://github.com/mrets/articles/blob/master/billing_adding_new_user.md)
 This article will help you figure out how to add a new user to your organization
 
-### Removing a User from your Organization
+### [Removing a User from your Organization](https://github.com/mrets/articles/blob/master/billing_removing_user.md)
 This article will walk through how to remove a user by setting them to Inactive.
 
-### Update/Add your Billing Contact Information
+### [Update/Add your Billing Contact Information](https://github.com/mrets/articles/blob/master/billing_add_update_billing_info.md)
 
-### Email Notifications
+### [Email Notifications](https://github.com/mrets/articles/blob/master/billing_email_notifications.md)
 Learn how to add or remove email notifications as a user
 
 ### View the Status of Current and Past Invoices
