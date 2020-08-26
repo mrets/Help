@@ -48,24 +48,24 @@ This article describes how to add an active or retirement account to your organi
 
 ## Projects
 
-### Register a New Generator
+### [Register a New Generator](https://github.com/mrets/articles/blob/master/projects_new_generator.md)
 Learn how to register a new generator or project in M-RETS.
 
-### Transferring or Reassigning Generators/Projects
+### [Transferring or Reassigning Generators/Projects](https://github.com/mrets/articles/blob/master/projects_transferring_generator.md)
 This article will detail how a transfer or reassign of generator/project is completed.
 
 ## Generation
 
-### Upload Generation Data
+### [Upload Generation Data](https://github.com/mrets/articles/blob/master/generation_upload_data.md)
 Learn how to upload generation data.
 
-### Multi-Fuel Issuance: Entering Fuel Splits for Multi-Fuel Generators
+### [Multi-Fuel Issuance: Entering Fuel Splits for Multi-Fuel Generators](https://github.com/mrets/articles/blob/master/generation_multi_fuel.md)
 This article will walk you through the multi-fuel issuance split process required before issuance
 
-### Feasibility Failures
+### [Feasibility Failures](https://github.com/mrets/articles/blob/master/generation_feasibility_failures.md)
 What to do if you get a feasibility analysis failure upon upload
 
-### Generation Upload Data Format
+### [Generation Upload Data Format](https://github.com/mrets/articles/blob/master/generation_upload_format.md)
 
 ## Programs
 
