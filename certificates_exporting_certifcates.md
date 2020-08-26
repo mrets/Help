@@ -1,16 +1,16 @@
-Exporting RECs
+Exporting Certificates
 ==============
 
-This guide will walk you through the process to Export RECs
+This guide will walk you through the process to Export Certificates
 
-M-RETS supports exporting RECs to Compatible Tracking Systems (CTS). Currently approved Compatible Tracking Systems for exporting are:
+M-RETS supports exporting Certificates to Compatible Tracking Systems (CTS). Currently approved Compatible Tracking Systems for exporting are:
 
 -   Michigan Renewable Energy Certification System (MIRECS)
 -   North American Renewables Registry (NAR)
 -   North Carolina Renewable Energy Tracking System (NC-RETS)
 
 ***Exports from M-RETS to other registries carry a $0.01/REC fee.***\
-To begin the Export process, select your RECs that you wish to Export and click 'Transfer'.
+To begin the Export process, select your Certificates that you wish to Export and click 'Transfer'.
 
 ![](https://github.com/mrets/photos/blob/master/exporting_recs1.png)
 
