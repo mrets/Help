@@ -32,18 +32,18 @@ Available options to select when retiring RECs
 
 ## Transactions
 
-### Transfer to Multiple Active Accounts
+### [Transfer to Multiple Active Accounts](https://github.com/mrets/articles/blob/master/transactions_transfer_to_multiple.md)
 Learn how to transfer a batch of RECs to multiple active accounts
 
-### How-To: Automatic Recurring Transfers and Irrevocable Transfers
+### [How-To: Automatic Recurring Transfers and Irrevocable Transfers](https://github.com/mrets/articles/blob/master/transactions_automatic_recurring_transfers.md)
 Automatic Recurring Transfers (ARTs) are now available. Here's how to use them! (Formerly known as Forward Transfers and Standing Orders)
 
-### Withdrawing/Accepting/Rejecting Transfers
+### [Withdrawing/Accepting/Rejecting Transfers](https://github.com/mrets/articles/blob/master/transactions_withdrawing_accepting_rejecting_transfers.md)
 This article explains how to withdraw, accept, and reject a transfer
 
 ## Accounts
 
-### Add Active or Retirement Account
+### [Add Active or Retirement Account](https://github.com/mrets/articles/blob/master/add_account.md)
 This article describes how to add an active or retirement account to your organization
 
 ## Projects
