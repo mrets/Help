@@ -98,3 +98,20 @@ This article will walk through how to remove a user by setting them to Inactive.
 Learn how to add or remove email notifications as a user
 
 ### View the Status of Current and Past Invoices
+
+# Invoices
+
+### [Invoices](https://github.com/mrets/articles/blob/master/invoices.md)
+Where might I find my invoice in the tracking system?
+
+# Compliance
+Learn more about how RECs are used for compliance.
+
+### [Illinois Alternative Retail Electric Supplier (ARES) Information](https://github.com/mrets/articles/blob/master/compliance_il_ares.md)
+IL ARES Information
+
+### [Wisconsin Compliance](https://github.com/mrets/articles/blob/master/compliance_wi_compliance.md)
+Wisconsin Compliance Assistance - Link to PSC Website
+
+### [Minnesota Compliance Training](https://github.com/mrets/articles/blob/master/compliance_mn_compliance.md)
+Assistance with Completing Minnesota RPS and Green Pricing Retirements in M-RETS
