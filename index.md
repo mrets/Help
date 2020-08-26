@@ -1,112 +1,32 @@
-Within the System
-=================
+# Within the System
 
 This list contains help guides for the M-RETS, broken down by sidebar categories. NOTE: Your organization may not see all of these categories.
 
-![Rosie avatar](https://static.intercomassets.com/avatars/1644462/square_128/headshot-1512590138.png?1512590138) ![Ben avatar](https://static.intercomassets.com/avatars/1676487/square_128/RET_Web_72dpi-1513099141.jpg?1513099141) ![Sean avatar](https://static.intercomassets.com/avatars/2285607/square_128/Headshot-1533755730.JPG?1533755730)
-
-26 articles in this collection\
-Written by Rosie, Ben, and Sean
-
-[
-
-Exporting From ERCOT to M-RETS
-------------------------------
-
+### [Exporting From ERCOT to M-RETS](https://github.com/mrets/articles/blob/master/ercot.md)
 This article will walk through the process of exporting from ERCOT to M-RETS
 
-![Sean avatar](https://static.intercomassets.com/avatars/2285607/square_128/Headshot-1533755730.JPG?1533755730)
-
-Written by Sean\
-Updated over a week ago
-
-](https://help.mrets.org/en/articles/3625109-exporting-from-ercot-to-m-rets)[
-
-Annual Project Review Process
------------------------------
-
+### [Annual Project Review Process](https://github.com/mrets/articles/blob/master/annual_project_review.md)
 Please reference this walk through for the Annual Review Process. This will describe the process to review and update your projects.
 
-![Sean avatar](https://static.intercomassets.com/avatars/2285607/square_128/Headshot-1533755730.JPG?1533755730)
-
-Written by Sean\
-Updated over a week ago
-
-](https://help.mrets.org/en/articles/2583542-annual-project-review-process)[
-
-Filtering and Downloading Tables
---------------------------------
+### [Filtering and Downloading Tables](https://github.com/mrets/articles/blob/master/filtering_tables.md)
 
 How to filter and manipulate data across the data display and report interface
 
-![Sean avatar](https://static.intercomassets.com/avatars/2285607/square_128/Headshot-1533755730.JPG?1533755730)
+## Certificates
 
-Written by Sean\
-Updated over a week ago
+### [Certificates Tab: An Introduction](https://github.com/mrets/articles/blob/master/certificates_tab.md)
 
-](https://help.mrets.org/en/articles/1772434-filtering-and-downloading-tables)
-
-RECs
-
-[
-
-RECs Tab: An Introduction
--------------------------
-
-![Sean avatar](https://static.intercomassets.com/avatars/2285607/square_128/Headshot-1533755730.JPG?1533755730)
-
-Written by Sean\
-Updated over a week ago
-
-](https://help.mrets.org/en/articles/2434278-recs-tab-an-introduction)[
-
-Transferring Certificates
--------------------------
-
+### [Transferring Certificates](https://github.com/mrets/articles/blob/master/certificates_transferring_certificates.md)
 How to Transfer a Certificate
 
-![Sean avatar](https://static.intercomassets.com/avatars/2285607/square_128/Headshot-1533755730.JPG?1533755730)
-
-Written by Sean\
-Updated over a week ago
-
-](https://help.mrets.org/en/articles/1327691-transferring-certificates)[
-
-Retiring Certificates
----------------------
-
+### [Retiring Certificates](https://github.com/mrets/articles/blob/master/certificates_retiring_certificates.md)
 How to retire Certificates in M-RETS
 
-![Sean avatar](https://static.intercomassets.com/avatars/2285607/square_128/Headshot-1533755730.JPG?1533755730)
-
-Written by Sean\
-Updated over a week ago
-
-](https://help.mrets.org/en/articles/1327709-retiring-certificates)[
-
-Selling RECs
-------------
-
+### [Selling Certificates](https://github.com/mrets/articles/blob/master/certificates_selling_certificates.md)
 Learn how to sell RECs on M-RETS
 
-![Rosie avatar](https://static.intercomassets.com/avatars/1644462/square_128/headshot-1512590138.png?1512590138)
-
-Written by Rosie\
-Updated over a week ago
-
-](https://help.mrets.org/en/articles/1405062-selling-recs)[
-
-REC Retirement Types
---------------------
-
+### [Certificate Retirement Types](https://github.com/mrets/articles/blob/master/certificate_retirements.md)
 Available options to select when retiring RECs
-
-![Rosie avatar](https://static.intercomassets.com/avatars/1644462/square_128/headshot-1512590138.png?1512590138)
-
-Written by Rosie\
-Updated over a week ago
-
-](https://help.mrets.org/en/articles/1396217-rec-retirement-types)[
 
 Exporting RECs
 --------------
