@@ -9,7 +9,7 @@ There are two ways to access the multi-fuel issuance fuel split screen. 
 
 ![](https://github.com/mrets/photos/blob/master/generation_multi_fuel1.png)
 
-2\. You can also access this interface by going to the RECs tab and clicking on Transaction History and then clicking on each transaction listed in the Pending Transactions box that has a Fuel Split notification next to the quantity. 
+2. You can also access this interface by going to the RECs tab and clicking on Transaction History and then clicking on each transaction listed in the Pending Transactions box that has a Fuel Split notification next to the quantity. 
 
 ![](https://github.com/mrets/photos/blob/master/generation_multi_fuel2.png)
 
