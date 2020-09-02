@@ -97,7 +97,7 @@ This article will walk through how to remove a user by setting them to Inactive.
 ### [Email Notifications](https://github.com/mrets/articles/blob/master/billing_email_notifications.md)
 Learn how to add or remove email notifications as a user
 
-### View the Status of Current and Past Invoices
+### [View the Status of Current and Past Invoices](https://github.com/mrets/Help/blob/master/billing_viewing_invoices.md)
 
 # Invoices
 
