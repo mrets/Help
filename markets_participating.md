@@ -6,7 +6,7 @@ This guide will walk you through participating in a Market in M-RETS.
 ![](https://github.com/mrets/photos/blob/master/markets_participating1.png)
 
 2. Once you log into M-RETS, you should see the following message on your dashboard.
-![](https://github.com/mrets/photos/blob/master/markets_participating1.png2)
+![](https://github.com/mrets/photos/blob/master/markets_participating2.png)
 
 3. Click on "Answer". You should now see this.
 ![](https://github.com/mrets/photos/blob/master/markets_participating3.png)
