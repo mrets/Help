@@ -13,3 +13,5 @@ This guide will walk you through participating in a Market in M-RETS.
 
 4. You should now see Markets on the taskbar. After clicking on Markets, you will see any Markets in which you have accepted an invitation to participate. 
 ![](https://github.com/mrets/photos/blob/master/markets_participating4.png)
+
+Next, we are taking a look at how to put Certificates on the Market. A guide to this process can be found here.
