@@ -8,7 +8,7 @@ Multi-factor authentication has rapidly become a security best practice, and we 
 
 # How to Turn On Multifactor Authentication (MFA)
 
-1. Once logged in, click on your name in the upper corner. THen, click 'Profile'.
+1. Once logged in, click on your name in the upper corner. Then, click 'Profile'.
 
-[](https://github.com/mrets/photos/blob/master/MFA_setup1.png)
+![](https://github.com/mrets/photos/blob/master/MFA_setup1.png)
 
