@@ -6,6 +6,9 @@ MFA will be an opt-in process for Organizations for the time being. Our implemen
 
 Multi-factor authentication has rapidly become a security best practice, and we want to encourage all organizations and users to consider opting into its use in the M-RETS. MFA protects against the risks associated with compromised passwords by adding a layer of security to system authentication. The reality is that employees do fall for phishing scams, and they do share passwords. If you're not using multi-factor authentication (MFA), your organization is wide open to attacks. A vast, if not one of the biggest, security threat today is the risk of compromised credentials.
 
+![Authy App in App Store](https://apps.apple.com/us/app/twilio-authy/id494168017)
+![Authy App in Play Store](https://play.google.com/store/apps/details?id=com.authy.authy&hl=en_US)
+
 # How to Turn On Multifactor Authentication (MFA)
 
 1. Once logged in, click on your name in the upper corner. Then, click 'Profile'.
@@ -16,8 +19,14 @@ Multi-factor authentication has rapidly become a security best practice, and we 
 
 ![](https://github.com/mrets/photos/blob/master/MFA_setup2.png)
 
-3. 
+3. Now, you will choose an MFA setting. They are as follows: 
 
 * Disabled. Do not require a verification code.
 * Every login. Always ask for verification code.
 * Once per computer. Trust computers and only ask for verification code every 30 days.
+
+![](https://github.com/mrets/photos/blob/master/MFA_setup3.png)
+
+4. Enter your phone number. If you have previously the Authy app on your phone, you will see M-RETS automatically added you your account.
+
+![](https://github.com/mrets/photos/blob/master/MFA_Authy.png)
