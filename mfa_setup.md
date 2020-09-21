@@ -15,9 +15,11 @@ Multi-factor authentication has rapidly become a security best practice, and we 
 
 ![](https://github.com/mrets/photos/blob/master/MFA_setup1.png)
 
-2. You will notice the new MFA field under your profile. Click on 'Update 2FA Settings'
+2. You will notice the new MFA field under your profile. Click on 'Edit'. Then, click on 'Update 2FA Settings'
 
 ![](https://github.com/mrets/photos/blob/master/MFA_setup2.png)
+
+![](https://github.com/mrets/photos/blob/master/MFA_setup3.png)
 
 3. Now, you will choose an MFA setting. They are as follows: 
 
@@ -25,7 +27,7 @@ Multi-factor authentication has rapidly become a security best practice, and we 
 * Every login. Always ask for verification code.
 * Once per computer. Trust computers and only ask for verification code every 30 days.
 
-![](https://github.com/mrets/photos/blob/master/MFA_setup3.png)
+![](https://github.com/mrets/photos/blob/master/MFA_setup4.png)
 
 4. Enter your phone number. If you have previously the Authy app on your phone, you will see M-RETS automatically added you your account.
 
