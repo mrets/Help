@@ -28,7 +28,7 @@ Multi-factor authentication has rapidly become a security best practice, and we 
 * Every login. Always ask for verification code.
 * Once per computer. Trust computers and only ask for verification code every 30 days.
 
-![](https://github.com/mrets/photos/blob/master/MFA_setup4.png)
+![](https://github.com/mrets/photos/blob/master/Screen%20Shot%202020-09-21%20at%201.28.52%20PM.png)
 
 4. Enter your phone number. If you have previously the Authy app on your phone, you will see M-RETS automatically added you your account.
 
