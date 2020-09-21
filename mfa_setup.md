@@ -12,3 +12,12 @@ Multi-factor authentication has rapidly become a security best practice, and we 
 
 ![](https://github.com/mrets/photos/blob/master/MFA_setup1.png)
 
+2. You will notice the new MFA field under your profile. Click on 'Update 2FA Settings'
+
+![](https://github.com/mrets/photos/blob/master/MFA_setup2.png)
+
+3. 
+
+* Disabled. Do not require a verification code.
+* Every login. Always ask for verification code.
+* Once per computer. Trust computers and only ask for verification code every 30 days.
