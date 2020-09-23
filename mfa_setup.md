@@ -30,7 +30,7 @@ Multi-factor authentication has rapidly become a security best practice, and we 
 
 ![](https://github.com/mrets/photos/blob/master/Screen%20Shot%202020-09-21%20at%201.28.52%20PM.png)
 
-4. Enter your phone number and click save. If you have previously the Authy app on your phone, you will see M-RETS automatically added you your account.
+4. Enter your phone number and click save. If you have previously installed the Authy app on your phone, you will see M-RETS automatically added you your account.
 
 ![](https://github.com/mrets/photos/blob/master/MFA_Authy.png)
 
