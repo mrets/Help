@@ -2,30 +2,25 @@
   <img align="center" src="https://www.mrets.org/wp-content/uploads/2019/08/mrets_logo_@2x-2.png">
 </p>
 
-# Registration
-
-### [Register a New Organization Account](https://github.com/mrets/articles/blob/master/registration_new_org.md)
-Learn how to register a new organization in M-RETS.
-
 # Within the System
 
 This list contains help guides for the M-RETS, broken down by sidebar categories. NOTE: Your organization may not see all of these categories.
 
-### [Exporting From ERCOT to M-RETS](https://github.com/mrets/articles/blob/master/ercot.md)
+### [Exporting From ERCOT to M-RETS](https://mrets.github.io/Help/ercot)
 This article will walk through the process of exporting from ERCOT to M-RETS
 
-### [Annual Project Review Process](https://github.com/mrets/articles/blob/master/annual_project_review.md)
+### [Annual Project Review Process](https://mrets.github.io/Help/annual_project_review)
 Please reference this walk through for the Annual Review Process. This will describe the process to review and update your projects.
 
-### [Filtering and Downloading Tables](https://github.com/mrets/articles/blob/master/filtering_tables.md)
+### [Filtering and Downloading Tables](https://mrets.github.io/Help/filtering_tables)
 
 How to filter and manipulate data across the data display and report interface
 
 ## Certificates
 
-### [Certificates Tab: An Introduction](https://github.com/mrets/articles/blob/master/certificates_tab.md)
+### [Certificates Tab: An Introduction](https://mrets.github.io/Help/certificates_tab)
 
-### [Transferring Certificates](https://github.com/mrets/articles/blob/master/certificates_transferring_certificates.md)
+### [Transferring Certificates](https://mrets.github.io/Help/certificates_transferring_certificates)
 How to Transfer a Certificate
 
 ### [Retiring Certificates](https://github.com/mrets/articles/blob/master/certificates_retiring_certificates.md)
