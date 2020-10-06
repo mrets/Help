@@ -9,14 +9,14 @@ In order to maintain data integrity, the user will be set to 'Inactive' status. 
 
 -   Click on your user name in the upper right corner, then click on 'Organization Info'.
 
-![](https://downloads.intercomcdn.com/i/o/71340045/667784fcb73d89255694bb75/2018-08-09_13-18-37.gif)
+![](https://downloads.intercomcdn.com/i/o/71340045/667784fcb73d89255694bb75/2018-08-09_13-18-37.gif?raw=true)
 
 -   Click on Users in the interface and click 'Edit User' 
 
-![](https://downloads.intercomcdn.com/i/o/106361437/ce7e42157b4abda23df57598/2019-03-01_14-30-13.png)
+![](https://downloads.intercomcdn.com/i/o/106361437/ce7e42157b4abda23df57598/2019-03-01_14-30-13.png?raw=true)
 
 -   Set the user to 'Inactive'
 
-![](https://downloads.intercomcdn.com/i/o/106364295/093daeb4231fca6c99f0b81a/2019-03-01_14-31-15.png)
+![](https://downloads.intercomcdn.com/i/o/106364295/093daeb4231fca6c99f0b81a/2019-03-01_14-31-15.png?raw=true)
 
 -   Click 'Save' and you are done!
