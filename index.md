@@ -23,99 +23,99 @@ How to filter and manipulate data across the data display and report interface
 ### [Transferring Certificates](https://mrets.github.io/Help/certificates_transferring_certificates)
 How to Transfer a Certificate
 
-### [Retiring Certificates](https://github.com/mrets/articles/blob/master/certificates_retiring_certificates.md)
+### [Retiring Certificates](https://mrets.github.io/Help/certificates_retiring_certificates)
 How to retire Certificates in M-RETS
 
-### [Selling Certificates](https://github.com/mrets/articles/blob/master/certificates_selling_certificates.md)
+### [Selling Certificates](https://mrets.github.io/Help/certificates_selling_certificates)
 Learn how to sell RECs on M-RETS
 
-### [Certificate Retirement Types](https://github.com/mrets/articles/blob/master/certificate_retirements.md)
+### [Certificate Retirement Types](https://mrets.github.io/Help/certificate_retirements)
 Available options to select when retiring RECs
 
-### [Exporting RECs](https://github.com/mrets/articles/blob/master/certificates_exporting_certifcates.md)
+### [Exporting RECs](https://mrets.github.io/Help/certificates_exporting_certifcates)
 
 ## Transactions
 
-### [Transfer to Multiple Active Accounts](https://github.com/mrets/articles/blob/master/transactions_transfer_to_multiple.md)
+### [Transfer to Multiple Active Accounts](https://mrets.github.io/Help/transactions_transfer_to_multiple)
 Learn how to transfer a batch of RECs to multiple active accounts
 
-### [How-To: Automatic Recurring Transfers and Irrevocable Transfers](https://github.com/mrets/articles/blob/master/transactions_automatic_recurring_transfers.md)
+### [How-To: Automatic Recurring Transfers and Irrevocable Transfers](https://mrets.github.io/Help/transactions_automatic_recurring_transfers)
 Automatic Recurring Transfers (ARTs) are now available. Here's how to use them! (Formerly known as Forward Transfers and Standing Orders)
 
-### [Withdrawing/Accepting/Rejecting Transfers](https://github.com/mrets/articles/blob/master/transactions_withdrawing_accepting_rejecting_transfers.md)
+### [Withdrawing/Accepting/Rejecting Transfers](https://mrets.github.io/Help/transactions_withdrawing_accepting_rejecting_transfers)
 This article explains how to withdraw, accept, and reject a transfer
 
 ## Accounts
 
-### [Add Active or Retirement Account](https://github.com/mrets/articles/blob/master/add_account.md)
+### [Add Active or Retirement Account](https://mrets.github.io/Help/add_account)
 This article describes how to add an active or retirement account to your organization
 
 ## Projects
 
-### [Register a New Generator](https://github.com/mrets/articles/blob/master/projects_new_generator.md)
+### [Register a New Generator](https://mrets.github.io/Help/projects_new_generator)
 Learn how to register a new generator or project in M-RETS.
 
-### [Transferring or Reassigning Generators/Projects](https://github.com/mrets/articles/blob/master/projects_transferring_generator.md)
+### [Transferring or Reassigning Generators/Projects](https://mrets.github.io/Help/projects_transferring_generator)
 This article will detail how a transfer or reassign of generator/project is completed.
 
 ## Generation
 
-### [Upload Generation Data](https://github.com/mrets/articles/blob/master/generation_upload_data.md)
+### [Upload Generation Data](https://mrets.github.io/Help/generation_upload_data)
 Learn how to upload generation data.
 
-### [Multi-Fuel Issuance: Entering Fuel Splits for Multi-Fuel Generators](https://github.com/mrets/articles/blob/master/generation_multi_fuel.md)
+### [Multi-Fuel Issuance: Entering Fuel Splits for Multi-Fuel Generators](https://mrets.github.io/Help/generation_multi_fuel)
 This article will walk you through the multi-fuel issuance split process required before issuance
 
-### [Feasibility Failures](https://github.com/mrets/articles/blob/master/generation_feasibility_failures.md)
+### [Feasibility Failures](https://mrets.github.io/Help/generation_feasibility_failures)
 What to do if you get a feasibility analysis failure upon upload
 
-### [Generation Upload Data Format](https://github.com/mrets/articles/blob/master/generation_upload_format.md)
+### [Generation Upload Data Format](https://mrets.github.io/Help/generation_upload_format)
 
 ## Programs
 
-### [Adding a Program](https://github.com/mrets/articles/blob/master/program_adding_program.md)
+### [Adding a Program](https://mrets.github.io/Help/program_adding_program)
 This article will describe the basics of Programs
 
-### [Participating in a Program](https://github.com/mrets/articles/blob/master/program_participating_programs.md)
+### [Participating in a Program](https://mrets.github.io/Help/program_participating_programs)
 A Guide to Participating in Compliance or Voluntary Programs
 
 ## Billing
 
-### [Adding a New User to an Organization](https://github.com/mrets/articles/blob/master/billing_adding_new_user.md)
+### [Adding a New User to an Organization](https://mrets.github.io/Help/billing_adding_new_user)
 This article will help you figure out how to add a new user to your organization
 
-### [Removing a User from your Organization](https://github.com/mrets/articles/blob/master/billing_removing_user.md)
+### [Removing a User from your Organization](https://mrets.github.io/Help/billing_removing_user)
 This article will walk through how to remove a user by setting them to Inactive.
 
-### [Update/Add your Billing Contact Information](https://github.com/mrets/articles/blob/master/billing_add_update_billing_info.md)
+### [Update/Add your Billing Contact Information](https://mrets.github.io/Help/billing_add_update_billing_info)
 
-### [Email Notifications](https://github.com/mrets/articles/blob/master/billing_email_notifications.md)
+### [Email Notifications](https://mrets.github.io/Help/billing_email_notifications)
 Learn how to add or remove email notifications as a user
 
-### [View the Status of Current and Past Invoices](https://github.com/mrets/Help/blob/master/billing_viewing_invoices.md)
+### [View the Status of Current and Past Invoices](https://mrets.github.io/Help/billing_viewing_invoices)
 
 # Invoices
 
-### [Invoices](https://github.com/mrets/articles/blob/master/invoices.md)
+### [Invoices](https://mrets.github.io/Help/invoices)
 Where might I find my invoice in the tracking system?
 
 # Compliance
 Learn more about how RECs are used for compliance.
 
-### [Illinois Alternative Retail Electric Supplier (ARES) Information](https://github.com/mrets/articles/blob/master/compliance_il_ares.md)
+### [Illinois Alternative Retail Electric Supplier (ARES) Information](https://mrets.github.io/Help/compliance_il_ares)
 IL ARES Information
 
-### [Wisconsin Compliance](https://github.com/mrets/articles/blob/master/compliance_wi_compliance.md)
+### [Wisconsin Compliance](https://mrets.github.io/Help/compliance_wi_compliance)
 Wisconsin Compliance Assistance - Link to PSC Website
 
-### [Minnesota Compliance Training](https://github.com/mrets/articles/blob/master/compliance_mn_compliance.md)
+### [Minnesota Compliance Training](https://mrets.github.io/Help/compliance_mn_compliance)
 Assistance with Completing Minnesota RPS and Green Pricing Retirements in M-RETS
 
 # Platform Documents
 Terms of Use, Privacy Policy, and other legal documents
 
-### [M-RETS Privacy Policy](https://github.com/mrets/articles/blob/master/platorm_privacy_policy.md)
+### [M-RETS Privacy Policy](https://mrets.github.io/Help/platorm_privacy_policy)
 Policies guiding use of user information
 
-### [Terms of Use](https://github.com/mrets/articles/blob/master/platform_terms_of_use.md)
+### [Terms of Use](https://mrets.github.io/Help/platform_terms_of_use)
 Rules for using the M-RETS system
