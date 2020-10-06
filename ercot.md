@@ -11,11 +11,11 @@ In 2018 ERCOT added a process whereby Account holders can identify the reason fo
 
 This is what the retirement should look like in the ERCOT system. 
 
-![](https://github.com/mrets/photos/blob/master/ercot1.png)
+![](https://github.com/mrets/photos/blob/master/ercot1.png?raw=true)
 
 Once the action is complete in the ERCOT system the User must submit a Summary Report to M-RETS (<systemadmin@mrets.org>). In May 2018, ERCOT posted updates they made to the system that includes how to access and send the reports which is [accessible here](http://www.ercot.com/content/wcm/key_documents_lists/139215/13._Texas_REC_Trading_Program_Updates_May_2018.pptx). The email sent should look like the below example posted by ERCOT:
 
-![](https://github.com/mrets/photos/blob/master/ercot2.png)
+![](https://github.com/mrets/photos/blob/master/ercot2.png?raw=true)
 
 The ERCOT Account Holder must also send an email to M-RETS with the following information:
 
