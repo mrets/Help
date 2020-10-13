@@ -26,6 +26,10 @@ tipue_search_active: true
 # Build settings
 theme: jekyll-theme-slate
 
+tipue_search:
+  include:
+    pages: true
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
