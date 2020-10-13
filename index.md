@@ -1,7 +1,3 @@
-<p align="center">
-  <img align="center" src="https://www.mrets.org/wp-content/uploads/2019/08/mrets_logo_@2x-2.png">
-</p>
-
 # Within the System
 
 This list contains help guides for the M-RETS, broken down by sidebar categories. NOTE: Your organization may not see all of these categories.
