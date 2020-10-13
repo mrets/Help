@@ -7,14 +7,14 @@ In this article we are going to look at an overview of the RECs tab. I will atte
 
 Your RECs view should look something like this. ***Please note, your tabs on the left may vary. ***
 
-![](https://github.com/mrets/photos/blob/master/certificates_tab1.png)
+![](https://github.com/mrets/photos/blob/master/certificates_tab1.png?raw=true)
 
 Let's start at the top!
 
 The Top
 -------
 
-![](https://github.com/mrets/photos/blob/master/certificates_tab2.png)
+![](https://github.com/mrets/photos/blob/master/certificates_tab2.png?raw=true)
 
 You will see options to change from 'Active' to 'Retired'. Below these buttons, you will see the total corresponding RECs under each status. Which brings us to...
 
@@ -39,7 +39,7 @@ The Table: Rearranging Columns
 
 If you prefer a different layout of columns, then click on the header and drag it to a new location. 
 
-![](https://github.com/mrets/photos/blob/master/certificates_tab3.gif)
+![](https://github.com/mrets/photos/blob/master/certificates_tab3.gif?raw=true)
 
 The Table: Filtering
 --------------------
@@ -51,11 +51,11 @@ Settings: The Gear
 
 Don't want to see all of these columns? No problem! Click on the gear icon.
 
-![](https://github.com/mrets/photos/blob/master/certificates_tab4.png)
+![](https://github.com/mrets/photos/blob/master/certificates_tab4.png?raw=true)
 
 You should see the following window:
 
-![](https://github.com/mrets/photos/blob/master/certificates_tab5.png)
+![](https://github.com/mrets/photos/blob/master/certificates_tab5.png?raw=true)
 
 Un-check any columns that you do not want included in the table.
 
@@ -64,7 +64,7 @@ Downloading your RECs: The Arrow
 
 Do you need to download your RECs? Maybe send them to colleague? Just click on this icon:
 
-![](https://github.com/mrets/photos/blob/master/certificates_tab6.png)
+![](https://github.com/mrets/photos/blob/master/certificates_tab6.png?raw=true)
 
 Note: It will download everything that is currently displayed. This means any unchecked columns will not be included in the download.\
 Congratulations! You just passed RECs tab 101!

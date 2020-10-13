@@ -3,11 +3,6 @@ Minnesota Compliance Training
 
 Assistance with Completing Minnesota RPS and Green Pricing Retirements in M-RETS
 
-![Sean avatar](https://static.intercomassets.com/avatars/2285607/square_128/Headshot-1533755730.JPG?1533755730)
-
-Written by Sean\
-Updated over a week ago
-
 ***This information is provided for informational purposes only and Minnesota Statutes and Rules are subject to change. Please verify all instructions with the most recent Minnesota Public Utilities Commission Filings. Legal Compliance must be consistent with Minnesota Statutes and Rules. Always Consult the following Minnesota Public Utilities Commission Dockets:**
 
 **In the Matter of Commission Consideration and Determination on Compliance with Renewable Energy Standards Docket Number E-999/M-18-78 (for MN Compliance Year 2018)**
