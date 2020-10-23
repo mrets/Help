@@ -7,20 +7,20 @@ Learn how to upload generation data.
 
 1.  Navigate to the Generation tab and select the "Upload" button.
 
-![](https://github.com/mrets/photos/blob/master/generation_upload_data1.png)
+![](https://github.com/mrets/photos/blob/master/generation_upload_data1.png?raw=true)
 
 2\.  Under "Select File for Upload", click 'Choose File' navigate to a local file on your computer and select it. You should see the file name change in the upload window. 
 
 Not sure how to format your file? No problem! [Check out this walkthrough on file formats!](https://help.mrets.org/within-the-system/generation/generation-upload-data-format)
 
-![](https://github.com/mrets/photos/blob/master/generation_upload_data2.png)
+![](https://github.com/mrets/photos/blob/master/generation_upload_data2.png?raw=true)
 
 3\. Select your 'Upload Granularity'. By default, Monthly will be selected. You will see examples of how your file should be formatted below.
 
 Monthly Generation:
 -------------------
 
-![](https://github.com/mrets/photos/blob/master/generation_upload_data3.png)
+![](https://github.com/mrets/photos/blob/master/generation_upload_data3.png?raw=true)
 
 1.  Generator ID (M-RETS ID)
 2.  Reporting Unit ID (Use the M-RETS ID if your generator does not have a Reporting Unit ID)
@@ -32,7 +32,7 @@ Monthly Generation:
 Hourly Generation:
 ------------------
 
-![](https://github.com/mrets/photos/blob/master/generation_upload_data4.png)
+![](https://github.com/mrets/photos/blob/master/generation_upload_data4.png?raw=true)
 
 1.  Generator ID (M-RETS ID)
 2.  Reporting Unit ID (Use the M-RETS ID if your generator does not have a Reporting Unit ID)
@@ -44,6 +44,6 @@ Hourly Generation:
 ***\
 3\. The file will be uploaded and the generation will be verified. If your upload file contains multiple generators, you should see the following window.
 
-![](https://github.com/mrets/photos/blob/master/generation_upload_data5.png)
+![](https://github.com/mrets/photos/blob/master/generation_upload_data5.png?raw=true)
 
 Please note: This dialog box only confirms your file was uploaded correctly. A more detailed report of your file will be emailed to you. ***This report may contain detailed errors.***
