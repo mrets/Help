@@ -1,3 +1,5 @@
+[Back](https://mrets.github.io/Help/index)
+
 Upload Generation Data
 ======================
 
@@ -11,7 +13,7 @@ Learn how to upload generation data.
 
 2\.  Under "Select File for Upload", click 'Choose File' navigate to a local file on your computer and select it. You should see the file name change in the upload window. 
 
-Not sure how to format your file? No problem! [Check out this walkthrough on file formats!](https://help.mrets.org/within-the-system/generation/generation-upload-data-format)
+Not sure how to format your file? No problem! [Check out this walkthrough on file formats!](https://mrets.github.io/Help/generation_upload_format)
 
 ![](https://github.com/mrets/photos/blob/master/generation_upload_data2.png?raw=true)
 
@@ -47,3 +49,5 @@ Hourly Generation:
 ![](https://github.com/mrets/photos/blob/master/generation_upload_data5.png?raw=true)
 
 Please note: This dialog box only confirms your file was uploaded correctly. A more detailed report of your file will be emailed to you. ***This report may contain detailed errors.***
+
+[Back](https://mrets.github.io/Help/index)
