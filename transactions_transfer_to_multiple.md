@@ -11,25 +11,25 @@ To utilize this feature, simply select the RECs for transfer as you normally wou
 
 **1.1**
 
-![](https://github.com/mrets/photos/blob/master/transfer_to_multiple1.png)
+![](https://github.com/mrets/photos/blob/master/transfer_to_multiple1.png?raw=true)
 
 **1.2**
 
-![](https://github.com/mrets/photos/blob/master/transfer_to_multiple2.png)
+![](https://github.com/mrets/photos/blob/master/transfer_to_multiple2.png?raw=true)
 
 **2\. Selecting Accounts **
 
 Select the multiple accounts you would like to transfer to by clicking on the "Account" module.
 
-![](https://github.com/mrets/photos/blob/master/transfer_to_multiple3.png)
+![](https://github.com/mrets/photos/blob/master/transfer_to_multiple3.png?raw=true)
 
 **3\. Amounts**
 
 Enter the amounts you would like to transfer to each account
 
-![](https://github.com/mrets/photos/blob/master/transfer_to_multiple4.png)
+![](https://github.com/mrets/photos/blob/master/transfer_to_multiple4.png?raw=true)
 
-![](https://github.com/mrets/photos/blob/master/transfer_to_multiple5.png)
+![](https://github.com/mrets/photos/blob/master/transfer_to_multiple5.png?raw=true)
 
 **Please enter amounts carefully**. Certificates can only be split in whole numbers. Remainder certificates are allocated to the first account listed. To change which accounts get priority drag and drop the account rows. 
 
@@ -37,9 +37,9 @@ Enter the amounts you would like to transfer to each account
 
 Drag and drop account rows to swap priority. You can do this by hovering over the lines and your cursor should allow you to move rows higher or lower which will reflect the priority of the transfers. Notice that in the image in Section 3 above the Default Active account was listed as second but it is now first and will receive the +1 remainder. 
 
-![](https://github.com/mrets/photos/blob/master/transfer_to_multiple6.png)
+![](https://github.com/mrets/photos/blob/master/transfer_to_multiple6.png?raw=true)
 
 **5\. Complete Transfer**\
 Once you select "Review Transfer" you will be taken to the next screen that will allow you to complete the transfer by selecting "Complete Transfer" or "Go Back" and make changes. Once you select "Complete Transfer" the Transaction will be completed in the system. 
 
-![](https://github.com/mrets/photos/blob/master/transfer_to_multiple7.png)
+![](https://github.com/mrets/photos/blob/master/transfer_to_multiple7.png?raw=true)
