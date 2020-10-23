@@ -24,7 +24,7 @@ Adding A User
 
 4\. Hit Send Invitation and Celebrate!
 
-IMPORTANT: By default, email notifications are set to 'off' for users. To turn email notifications on, please follow [this guide](https://help.mrets.org/within-the-system/billing/email-notifications).
+IMPORTANT: By default, email notifications are set to 'off' for users. To turn email notifications on, please follow [this guide](https://mrets.github.io/Help/billing_email_notifications).
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [Back](https://mrets.github.io/Help/index)
