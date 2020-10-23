@@ -1,3 +1,5 @@
+[Back](https://mrets.github.io/Help/index)
+
 Adding a New User to an Organization
 ====================================
 
@@ -24,3 +26,5 @@ Adding A User
 
 IMPORTANT: By default, email notifications are set to 'off' for users. To turn email notifications on, please follow [this guide](https://help.mrets.org/within-the-system/billing/email-notifications).
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[Back](https://mrets.github.io/Help/index)
