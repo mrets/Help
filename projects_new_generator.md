@@ -1,3 +1,5 @@
+[Back](https://mrets.github.io/Help/index)
+
 Register a New Generator
 ========================
 
@@ -62,3 +64,5 @@ Static Data Field Information
 -------------------------------
 
 ![](https://github.com/mrets/photos/blob/master/new_generator5.png?raw=true)
+
+[Back](https://mrets.github.io/Help/index)
