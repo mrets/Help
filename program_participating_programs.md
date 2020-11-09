@@ -3,13 +3,13 @@ Participating in a Program
 
 A Guide to Participating in Compliance or Voluntary Programs
 
-NOTE: This article is intended for Organizations. If you are a regulator, click [here](https://help.mrets.org/within-the-system/programs/adding-a-program).
+NOTE: This article is intended for Organizations. If you are a regulator, click [here](https://mrets.github.io/Help/program_adding_program).
 
 Programs are here! In order to see the new feature and create programs, you will need to enable your permissions.
 
 -   Click on your name in the upper right hand corner and click on 'Organization Info'.
 
-![] (https://github.com/mrets/photos/blob/master/program_participating_programs1.gif)
+![](https://github.com/mrets/photos/blob/master/program_participating_programs1.gif)
 -   Click on 'Users'
 
 ![](https://github.com/mrets/photos/blob/master/program_participating_programs2.png)
@@ -72,4 +72,4 @@ Participating is Programs
 
 ![](https://github.com/mrets/photos/blob/master/program_participating_programs13.png)
 
-Now that that's complete, why not check out another one of our [articles](https://help.mrets.org/)? Maybe this one regarding [Retiring RECs](https://help.mrets.org/within-the-system/recs/retiring-recs)?
+Now that that's complete, why not check out another one of our [articles](https://mrets.github.io/Help/index)? Maybe this one regarding [Retiring RECs](https://mrets.github.io/Help/certificates_retiring_certificates)?
