@@ -24,7 +24,7 @@ Upon completing of the online registration, and signing the online Terms of Use,
 
 **STEP 4 -- Create Account(s) & Additional Logins**
 
-All types of account holders must first create an account for their organization. After account approval, additional organization users can be created, and [logins added to your account](https://intercom.help/gokart-labs-79ad9c529b6b/registration/adding-a-new-user-to-an-organization). Typically, for Load Serving Entities (LSE), State Regulators, Qualified Reporting Entities, and Marketers/Brokers these are the only steps in the registration process.
+All types of account holders must first create an account for their organization. After account approval, additional organization users can be created, and [logins added to your account](https://mrets.github.io/Help/billing_adding_new_user). Typically, for Load Serving Entities (LSE), State Regulators, Qualified Reporting Entities, and Marketers/Brokers these are the only steps in the registration process.
 
 Owners of generating units/facilities, in addition to creating an account, must also register each one of their generators, and must designate a Qualifying Reporting Entity for each their facilities. Please refer to the online help pages for registration details.
 
