@@ -3,7 +3,7 @@ Adding a Program
 
 This article will describe the basics of Programs
 
-NOTE: This article is intended for Regulators. If you received an email to participate in a program, click [here](https://help.mrets.org/within-the-system/participating-in-a-program).
+NOTE: This article is intended for Regulators. If you received an email to participate in a program, click [here](https://mrets.github.io/Help/program_participating_programs).
 
 OVERVIEW
 --------
