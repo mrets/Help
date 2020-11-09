@@ -39,7 +39,7 @@ Step 2a: Internal Transfers to One Account
 ![](https://github.com/mrets/photos/blob/master/automatic_recurring_transfers5.png?raw=true)
 
 -   Review your transfer on this page and click 'Complete Transfer' and bask in all of the time you have now saved yourself!
--   You should get an email notification that the transfers are completed. If you didn't, might I suggest checking your notification preferences? Our guide to notifications preferences can be found here: [http://help.mrets.org/user-and-permissions-management/email-notifications](https://help.mrets.org/user-and-permissions-management/email-notifications)
+-   You should get an email notification that the transfers are completed. If you didn't, might I suggest checking your notification preferences? Our guide to notifications preferences can be found [here](https://mrets.github.io/Help/billing_email_notifications)
 
 ![](https://github.com/mrets/photos/blob/master/automatic_recurring_transfers6.png?raw=true)
 
@@ -60,7 +60,7 @@ Step 2b: Internal Transfers to Multiple Accounts
 ![](https://github.com/mrets/photos/blob/master/automatic_recurring_transfers8.png?raw=true)
 
 -   Verify all of your information is correct and click 'Complete Transfer'. More free time = more tea time! 
--   You should get an email notification that the transfers are completed. If you didn't, might I suggest checking your notification preferences? Our guide to notifications preferences can be found here: [http://help.mrets.org/user-and-permissions-management/email-notifications](https://help.mrets.org/user-and-permissions-management/email-notifications)
+-   You should get an email notification that the transfers are completed. If you didn't, might I suggest checking your notification preferences? Our guide to notifications preferences can be found [here](https://help.mrets.org/user-and-permissions-management/email-notifications).
 
 ![](https://github.com/mrets/photos/blob/master/automatic_recurring_transfers9.png?raw=true)
 
@@ -75,7 +75,7 @@ Step 2c: External Transfers to other M-RETS Organizations
 ![](https://github.com/mrets/photos/blob/master/automatic_recurring_transfers10.png?raw=true)
 
 -   Verify all of your information is correct and click 'Complete Transfer'. **NOTE**: Recipient organizations are still required to accept automatic transfers.
--   You should get an email notification that the transfers are completed. If you didn't, might I suggest checking your notification preferences? Our guide to notifications preferences can be found here: [http://help.mrets.org/user-and-permissions-management/email-notifications](https://help.mrets.org/user-and-permissions-management/email-notifications)
+-   You should get an email notification that the transfers are completed. If you didn't, might I suggest checking your notification preferences? Our guide to notifications preferences can be found [here](https://mrets.github.io/Help/billing_email_notifications).
 
 ![](https://github.com/mrets/photos/blob/master/automatic_recurring_transfers11.png?raw=true)
 
@@ -90,7 +90,7 @@ Step 2d: Exports
 ![](https://github.com/mrets/photos/blob/master/automatic_recurring_transfers12.png?raw=true)
 
 -   Verify all information looks correct and click 'Complete Transfer'.
--   You should get an email notification that the transfers are completed. If you didn't, might I suggest checking your notification preferences? Our guide to notifications preferences can be found here: [http://help.mrets.org/user-and-permissions-management/email-notifications](https://help.mrets.org/user-and-permissions-management/email-notifications)
+-   You should get an email notification that the transfers are completed. If you didn't, might I suggest checking your notification preferences? Our guide to notifications preferences can be found [here](https://mrets.github.io/Help/billing_email_notifications)
 
 ![](https://github.com/mrets/photos/blob/master/automatic_recurring_transfers13.png?raw=true)
 
@@ -103,4 +103,4 @@ Automatic Recurring Transfers can be set as Irrevocable during the confirmation 
 
 ***PLEASE NOTE: ONLY THE M-RETS SYSTEM ADMINISTRATOR WILL BE ALLOWED TO EDIT IRREVOCABLE TRANSFERS***
 
-There you have it! With all that extra free time, might I suggest checking out some of our other walkthroughs like [Withdrawing/Accepting/Rejecting Transfers](https://help.mrets.org/rec-management/withdrawingacceptingrejecting-transfers) or [View the Status of Current and Past Invoices](https://help.mrets.org/invoices/view-the-status-of-current-and-past-invoices)?
+There you have it! With all that extra free time, might I suggest checking out some of our other walkthroughs like [Withdrawing/Accepting/Rejecting Transfers](https://mrets.github.io/Help/transactions_withdrawing_accepting_rejecting_transfers) or [View the Status of Current and Past Invoices](https://mrets.github.io/Help/billing_viewing_invoices)?
