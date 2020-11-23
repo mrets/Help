@@ -75,6 +75,12 @@ This article will describe the basics of Programs
 ### [Participating in a Program](https://mrets.github.io/Help/program_participating_programs)
 A Guide to Participating in Compliance or Voluntary Programs
 
+## Markets
+
+### [Participate in a Market](https://mrets.github.io/Help/markets_participating)
+
+### [Adding Certificates to a Market](https://mrets.github.io/Help/markets_certificates)
+
 ## Billing
 
 ### [Adding a New User to an Organization](https://mrets.github.io/Help/billing_adding_new_user)
