@@ -2,6 +2,8 @@
 
 This list contains help guides for the M-RETS, broken down by sidebar categories. NOTE: Your organization may not see all of these categories.
 
+### [Enrolling in Multifactor Authentication (MFA)](https://mrets.github.io/Help/mfa_setup)
+
 ### [Exporting From ERCOT to M-RETS](https://mrets.github.io/Help/ercot)
 This article will walk through the process of exporting from ERCOT to M-RETS
 
