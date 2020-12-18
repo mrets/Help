@@ -9,10 +9,14 @@ Upload Renewable Thermal Generation Data
 
 ![](https://github.com/mrets/photos/blob/master/rt_generation_upload1.png?raw=true)
 
-2\.  Under "Select File for Upload", click 'Choose File' navigate to a local file on your computer and select it. You should see the file name change in the upload window. 
-
-Not sure how to format your file? No problem! [Check out this walkthrough on file formats!](https://mrets.github.io/Help/generation_upload_format)
+2\.  From the drop-down, choose the applicable RT Generator. 
 
 ![](https://github.com/mrets/photos/blob/master/rt_generation_upload2.png?raw=true)
 
-3\. Select your 'Upload Granularity'. By default, Monthly will be selected. You will see examples of how your file should be formatted below.
+3\. Enter the beginning and end date of the generation vintage.
+
+4\. Generator Owners and Independent Reporting Entities (IRE) must declare the percentage of generation that is applicable for RTC generation.
+
+![](https://github.com/mrets/photos/blob/master/rt_generation_upload3.png?raw=true)
+
+5\.
