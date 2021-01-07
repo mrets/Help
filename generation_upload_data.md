@@ -12,7 +12,7 @@ Checking/Enabling Permissions
 
 Before uploading, you need to confirm you have permissions to upload Generation. Please follow these steps.
 
-1. Click on your name in the upper-right corner of the system. THen, click Organization Info.
+1. Click on your name in the upper-right corner of the system. Then, click Organization Info.
 
 ![](github.com/mrets/photos/blob/master/add_update_billing_info1.gif?raw=true)
 
