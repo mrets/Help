@@ -14,7 +14,7 @@ Before uploading, you need to confirm you have permissions to upload Generation.
 
 1. Click on your name in the upper-right corner of the system. Then, click Organization Info.
 
-![](github.com/mrets/photos/blob/master/add_update_billing_info1.gif?raw=true)
+![](https://github.com/mrets/photos/blob/master/add_update_billing_info1.gif?raw=true)
 
 2. Click on the 'Users' tab.
 
@@ -46,7 +46,7 @@ Not sure how to format your file? No problem! [Check out this walkthrough on fil
 Monthly Generation:
 -------------------
 
-![](https://github.com/mrets/photos/blob/master/generation_upload_data3.png?raw=true)
+![](https://github.com/mrets/photos/blob/master/generation_upload_data8.png?raw=true)
 
 1.  Generator ID (M-RETS ID)
 2.  Reporting Unit ID (Use the M-RETS ID if your generator does not have a Reporting Unit ID)
