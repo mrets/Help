@@ -33,7 +33,7 @@ Uploading Generation
 
 1.  Navigate to the Generation tab and select the "Upload" button.
 
-![](https://github.com/mrets/photos/blob/master/generation_upload_data1.png?raw=true)
+![](https://github.com/mrets/photos/blob/master/generation_upload_data8.png?raw=true)
 
 2\.  Under "Select File for Upload", click 'Choose File' navigate to a local file on your computer and select it. You should see the file name change in the upload window. 
 
@@ -46,7 +46,7 @@ Not sure how to format your file? No problem! [Check out this walkthrough on fil
 Monthly Generation:
 -------------------
 
-![](https://github.com/mrets/photos/blob/master/generation_upload_data8.png?raw=true)
+![](https://github.com/mrets/photos/blob/master/generation_upload_data3.png?raw=true)
 
 1.  Generator ID (M-RETS ID)
 2.  Reporting Unit ID (Use the M-RETS ID if your generator does not have a Reporting Unit ID)
