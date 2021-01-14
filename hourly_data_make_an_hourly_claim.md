@@ -60,13 +60,13 @@ M-RETS is proud to be the first tracking system to provide the option to make Ho
 ### 11.  Once you have selected the relevant time zone, click the downward arrow icon to download a .CSV copy of your data. Your downloaded data will match the previously selected time zone. Based on the location of the Generator, you may see data outside of your selected vintage.
 
 <p align="center">
-  <img width="102" height="102" img src="https://github.com/mrets/photos/blob/master/Hourly_Claim_9.png?raw=true">
+  <img src="https://github.com/mrets/photos/blob/master/Hourly_Claim_9.png?raw=true">
 </p>
 
 ### 12.  If everything looks correct, click "Complete Retirement".
 
 <p align="center">
-  <img src="https://github.com/mrets/photos/blob/master/Hourly_Claim_10.png?raw=true">
+  <img width="102" height="102" img src="https://github.com/mrets/photos/blob/master/Hourly_Claim_10.png?raw=true">
 </p>
 
 ### 13.  Your retirement was successful! You may download your hourly retirement data on this page. The downloadable file is a PDF and is defaulted to Coordinated Universal Time (UTC).
