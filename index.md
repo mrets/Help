@@ -43,6 +43,11 @@ Automatic Recurring Transfers (ARTs) are now available. Here's how to use them! 
 ### [Withdrawing/Accepting/Rejecting Transfers](https://mrets.github.io/Help/transactions_withdrawing_accepting_rejecting_transfers)
 This article explains how to withdraw, accept, and reject a transfer
 
+## Hourly Data
+
+### [Make an Hourly Claim](https://mrets.github.io/Help/hourly_data_make_an_hourly_claim)
+M-RETS is proud to be the first tracking system that allows Hourly Claims.
+
 ## Accounts
 
 ### [Add Active or Retirement Account](https://mrets.github.io/Help/add_account)
