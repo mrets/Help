@@ -26,14 +26,10 @@ M-RETS is proud to be the first tracking system to provide the option to make Ho
 ### 4.  Scroll over to the "Hourly Claimable?" column and click the "Filter..." button. Filter by "Yes".
 
 <p align="center">
-  <img src="https://github.com/mrets/photos/blob/master/Hourly_Claim_3.png?raw=true">
+  <img src="https://github.com/mrets/photos/blob/master/Hourly_Claim_4.png?raw=true">
 </p>
 
 ### 5.  Select the Certificates you would like to use for your hourly claim. Then, click the "Retire" button in the upper-right corner of your table.
-
-<p align="center">
-  <img src="https://github.com/mrets/photos/blob/master/Hourly_Claim_4.png?raw=true">
-</p>
 
 ### 6.  You will now see a new feature in the retirement process. Click on "Hourly Claim?". If this button is not clickable, your selected Certificates are not eligible for an Hourly Claim.
 
