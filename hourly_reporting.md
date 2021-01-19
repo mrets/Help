@@ -21,7 +21,6 @@ M-RETS allows Hourly Reporting only for intact (i.e. not subdivided after issuan
 </p>
 
 <br>
-</br>
 
 ### 2. The next table shows all eligble hourly data. Certificate batches must be intact, or they will not display here. Select the certificate batches for which you would like to run the report. The data will be combined on your report if you choose multiple batches from the generation month.
 
@@ -30,7 +29,6 @@ M-RETS allows Hourly Reporting only for intact (i.e. not subdivided after issuan
 </p>
 
 <br>
-</br>
 
 ### 3. Enter your preferred format for your report.
 
@@ -51,12 +49,10 @@ Choose your preferred time zone. You can also adjust this filter after running t
 </p>
 
 <br>
-</br>
 
 ### 4. Once everything looks correct, click "Next".
 
 <br>
-</br>
 
 ### 5. This page displays your hourly data. As a reminder, only one number will be shown if you select the same month from multiple Generators.
 
@@ -65,7 +61,6 @@ Choose your preferred time zone. You can also adjust this filter after running t
 </p>
 
 <br>
-</br>
 
 ### 6. M-RETS offers two displays of your data: "Visualization" and "Data". "Visualization" will show a line graph of hourly data, and "Data" is the raw data per hour. 
 
@@ -74,13 +69,14 @@ Choose your preferred time zone. You can also adjust this filter after running t
 </p>
 
 <br>
-</br>
 
 ### 7. You can change time zones by clicking the drop-down in the top right corner of the report.
 
 <p align="center">
   <img src="https://github.com/mrets/photos/blob/master/hourly_reporting_5.png?raw=true">
 </p>
+
+<br>
 
 # Troubleshooting
 ### Why is some of my hourly data missing?
@@ -90,6 +86,8 @@ You may see a value of '-' depending on your selected time zone. This value fill
   <img src="https://github.com/mrets/photos/blob/master/hourly_reporting_6.png?raw=true">
 </p>
 
+<br>
+
 ### Why is only one number displayed for multiple generators?
 Currently, M-RETS only supports a reading of one number per hour, per day/date. This is regardless of how many Generators are selected. For example, Generator A issued 10 kW at 13:00 and Generator B issued 20 kW at 13:00. Here are the expected results for 13:00, based on Operation Type.
 
@@ -97,5 +95,7 @@ Currently, M-RETS only supports a reading of one number per hour, per day/date. 
 2. Average: 15 kW
 3. Min: 10 kW (Value taken from Generator A)
 4. Max: 20 kW (Value taken from Generator B)
+
+<br>
 
 [Back](https://mrets.github.io/Help/index)
