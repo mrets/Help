@@ -13,7 +13,6 @@ M-RETS allows Hourly Reporting only for intact (i.e. not subdivided after issuan
 3. Certificates where any of the RECs from the batch as issued were retired.
 
 <br>
-</br>
 
 ### 1. Click on "Reports". Then, click on the "New Hourly Report" button.
 
