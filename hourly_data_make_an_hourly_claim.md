@@ -3,9 +3,18 @@
 How to Make an Hourly Claim
 ===========================
 
-M-RETS is proud to be the first tracking system to provide the option to make Hourly Claims. In this guide, we will walk you through the process of making an hourly claim.
+M-RETS developed a process to provide for the first hourly REC retirement ina production registry and we are excited to share this with our users. Thisguide will walk you through the process. The hourly retirement process embeds the hourly production data into theretirement claims process. This exciting achievement does more than justintegrate hourly data into the claim. The process verifies that REC batchesretired for hourly claims are whole and not split post issuance. The processallows for multiple batches to be retired at once and provides aggregatehourly   data   by   hour,   day,   and   month   for   the   batches   subject   to   thetransaction.
 
-**M-RETS allows Hourly Claims for, and only for, intact (i.e. not subdivided after issuance) batches of Certificates. This excludes partially retired/transferred Certificates. This also excludes Certificates that an Organization has separated into multiple active batches. In other words, Organizations may not make an Hourly Claim in the situation that separate batches of active Certificates include the entirety of the original Issuance. If you have questions about whether your Certificates qualify for Hourly Claims, please contact <systemadmin@mrets.org>.**
+**M-RETS allows Hourly Claims only for intact (i.e. not subdivided after issuance) batches of Certificates. The following will render a batch of certificates ineligible for an hourly claim at this time:**
+
+**1. Certificates that an Organization has separated into multiple active batches for any reason, even if they maintain ownershipof all the RECs from the original issuance.**
+
+**2. Certificates in a batch where RECs from the issuance batch were transferred to another party. **
+
+**3. Certificates where any of the RECs from the batch as issued were retired. **
+
+**In other words, Organizations may not make an Hourly Claim in the situation that separate batches of active Certificates include the entirety of the original Issuance. This may change as the market develops, and M-RETS will keep our users updated. If you have questions about whether your Certificates qualify for Hourly Claims, please contact <systemadmin@mrets.org>.**
+
 
 <br>
 </br>
@@ -19,7 +28,7 @@ M-RETS is proud to be the first tracking system to provide the option to make Ho
 <br>
 </br>
   
-### 2.  We have added a column for Hourly Claimable Certificates. To show this column, click on the gear icon in the upper-right corner of your table.
+### 2.  M-RETS added a column for Hourly Claimable Certificates. To show this column, click on the gear icon in the upper-right corner of your table.
 
 <p align="center">
   <img src="https://github.com/mrets/photos/blob/master/filtering_tables3.png?raw=true">
@@ -50,7 +59,7 @@ M-RETS is proud to be the first tracking system to provide the option to make Ho
 <br>
 </br>
   
-### 6.  You will now see a new feature in the retirement process. Click on "Hourly Claim?". If this button is not clickable, your selected Certificates are not eligible for an Hourly Claim.
+### 6.  You will now see a new feature in the retirement process. Click on "Hourly Claim?". If you are not able to click the button, your selected Certificates are ineligible for an Hourly Claim.
 
 <p align="center">
   <img src="https://github.com/mrets/photos/blob/master/Hourly_Claim_5.png?raw=true">
@@ -72,7 +81,15 @@ M-RETS is proud to be the first tracking system to provide the option to make Ho
 <br>
 </br>
   
-### 9.  You may view and download your hourly generation by clicking "Hourly Claim Data". If you are retiring multiple batches of Certificates, the data points shown is aggeregated (i.e. the sum of each hour).
+### 9.  You may view and download your hourly generation by clicking “Hourly Claim Data”. Here are a few important things to know:
+
+**1.The system defaults to Coordinated Universal Time. If you would like to view in a different time zone you need to select that. **
+
+**2.MISO provides all hourly data to M-RETS based on the Eastern Time Zone, even if the generator is physically located in a different time zone. **
+
+**3.If you are retiring multiple batches of Certificates, the data points shown is aggregated (i.e., the sum of each hour) for all the generators. **
+
+**4. If you retire certificates over multiple months to see the data per hour per month you will need to use the download feature.**
 
 <p align="center">
   <img src="https://github.com/mrets/photos/blob/master/Hourly_Claim_7.png?raw=true">
@@ -90,7 +107,7 @@ M-RETS is proud to be the first tracking system to provide the option to make Ho
 <br>
 </br>
   
-### 11.  Once you have selected the relevant time zone, click the downward arrow icon to download a .CSV copy of your data. Your downloaded data will match the previously selected time zone. Based on the location of the Generator, you may see data outside of your selected vintage.
+### 11.  Once you have selected the relevant time zone, click the downward arrow icon to download a .CSV copyof your data. Your downloaded data will match the previously selected time zone. Based on the location of the Generator, you may see data outside of your selected vintage which will appear as a dash ( - ). Timesthat fall within the time zone of the generator but where there is no generation will be shown with a zero (0).
 
 <p align="center">
   <img width="102" height="102" img src="https://github.com/mrets/photos/blob/master/Hourly_Claim_10.png?raw=true">
