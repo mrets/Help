@@ -3,7 +3,7 @@
 How to Make an Hourly Claim
 ===========================
 
-M-RETS developed a process to provide for the first hourly REC retirement ina production registry and we are excited to share this with our users. Thisguide will walk you through the process. The hourly retirement process embeds the hourly production data into theretirement claims process. This exciting achievement does more than justintegrate hourly data into the claim. The process verifies that REC batchesretired for hourly claims are whole and not split post issuance. The processallows for multiple batches to be retired at once and provides aggregatehourly   data   by   hour,   day,   and   month   for   the   batches   subject   to   thetransaction.
+M-RETS developed a process to provide for the first hourly REC retirement in a production registry and we are excited to share this with our users. This guide will walk you through the process. The hourly retirement process embeds the hourly production data into the retirement claims process. This exciting achievement does more than just integrate hourly data into the claim. The process verifies that REC batches retired for hourly claims are whole and not split post issuance. The process allows for multiple batches to be retired at once and provides aggregate hourly data by hour, day, and month for the batches subject to the transaction.
 
 **M-RETS allows Hourly Claims only for intact (i.e. not subdivided after issuance) batches of Certificates. The following will render a batch of certificates ineligible for an hourly claim at this time:**
 
