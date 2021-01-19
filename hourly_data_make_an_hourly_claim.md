@@ -9,9 +9,9 @@ M-RETS developed a process to provide for the first hourly REC retirement ina pr
 
 **1. Certificates that an Organization has separated into multiple active batches for any reason, even if they maintain ownershipof all the RECs from the original issuance.**
 
-**2. Certificates in a batch where RECs from the issuance batch were transferred to another party. **
+**2. Certificates in a batch where RECs from the issuance batch were transferred to another party.**
 
-**3. Certificates where any of the RECs from the batch as issued were retired. **
+**3. Certificates where any of the RECs from the batch as issued were retired.**
 
 **In other words, Organizations may not make an Hourly Claim in the situation that separate batches of active Certificates include the entirety of the original Issuance. This may change as the market develops, and M-RETS will keep our users updated. If you have questions about whether your Certificates qualify for Hourly Claims, please contact <systemadmin@mrets.org>.**
 
