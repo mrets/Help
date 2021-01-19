@@ -75,10 +75,17 @@ Choose your preferred time zone. You can also adjust this filter after running t
 
 ### 7. You can change time zones by clicking the drop-down in the top right corner of the report.
 
+<p align="center">
+  <img src="https://github.com/mrets/photos/blob/master/hourly_reporting_5.png?raw=true">
+</p>
 
 # Troubleshooting
 ### Why is some of my hourly data missing?
 You may see a value of '-' depending on your selected time zone. This value fills in gaps between the issuance time zone and the reporting time zone. For example, Generator A issued 10 kW at 01:00 **Pacific Time**. On the report in **Central Time**, that 10 kW generation will show at 03:00.
+
+<p align="center">
+  <img src="https://github.com/mrets/photos/blob/master/hourly_reporting_6.png?raw=true">
+</p>
 
 ### Why is only one number displayed for multiple generators?
 Currently, M-RETS only supports a reading of one number per hour, per day/date. This is regardless of how many Generators are selected. For example, Generator A issued 10 kW at 13:00 and Generator B issued 20 kW at 13:00. Here are the expected results for 13:00, based on Operation Type.
