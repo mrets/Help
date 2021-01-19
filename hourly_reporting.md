@@ -27,7 +27,7 @@ M-RETS allows Hourly Claims for, and only for, intact (i.e. not subdivided after
 ### 2. The next table shows all eligble hourly data. Certificate batches must be intact, or they will not display here. Select the certificate batches for which you would like to run the report. The data will be combined on your report if you choose multiple batches from the generation month.
 
 <p align="center">
-  <img src="https://github.com/mrets/photos/blob/master/hourly_reporting_2.png?raw=true">
+  <img src="https://github.com/mrets/photos/blob/master/Hourly_reporting_2.png?raw=true">
 </p>
 
 <br>
@@ -48,7 +48,7 @@ M-RETS allows Hourly Claims for, and only for, intact (i.e. not subdivided after
 Choose your preferred time zone. You can also adjust this filter after running the report.
 
 <p align="center">
-  <img src="https://github.com/mrets/photos/blob/master/hourly_reporting_3.png?raw=true">
+  <img src="https://github.com/mrets/photos/blob/master/Hourly_reporting_3.png?raw=true">
 </p>
 
 <br>
