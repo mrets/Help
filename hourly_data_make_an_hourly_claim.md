@@ -7,7 +7,7 @@ M-RETS developed a process to provide for the first hourly REC retirement in a p
 
 **M-RETS allows Hourly Claims only for intact (i.e. not subdivided after issuance) batches of Certificates. The following will render a batch of certificates ineligible for an hourly claim at this time:**
 
-**1. Certificates that an Organization has separated into multiple active batches for any reason, even if they maintain ownershipof all the RECs from the original issuance.**
+**1. Certificates that an Organization has separated into multiple active batches for any reason, even if they maintain ownership of all the RECs from the original issuance.**
 
 **2. Certificates in a batch where RECs from the issuance batch were transferred to another party.**
 
