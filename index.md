@@ -45,6 +45,9 @@ This article explains how to withdraw, accept, and reject a transfer
 
 ## Hourly Data
 
+### [View Hourly Data Reports](https://mrets.github.io/Help/hourly_reporting)
+How to view multiple hourly data values.
+
 ### [Make an Hourly Claim](https://mrets.github.io/Help/hourly_data_make_an_hourly_claim)
 M-RETS is proud to be the first tracking system that allows Hourly Claims.
 
