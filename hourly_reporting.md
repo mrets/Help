@@ -70,6 +70,10 @@ Choose your preferred time zone. You can also adjust this filter after running t
 
 ### 6. M-RETS offers two displays of your data: "Visualization" and "Data". "Visualization" will show a line graph of hourly data, and "Data" is the raw data per hour. 
 
+<p align="center">
+  <img src="https://github.com/mrets/photos/blob/master/hourly_reporting_7.png?raw=true">
+</p>
+
 <br>
 </br>
 
