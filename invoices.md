@@ -1,5 +1,4 @@
-Invoices
-========
+# Invoices
 
 Where might I find my invoice in the tracking system?
 
@@ -7,23 +6,22 @@ M-RET's invoices are now emailed directly from M-RETS' accounting software (Quic
 
 They basically look like this but will also have M-RETs' logo.
 
-![](https://github.com/mrets/photos/blob/master/invoices.png)
+![](https://github.com/mrets/photos/blob/master/invoices.png?raw=true)
 
 Subscription invoices are sent out annually. Transaction history is available in your account in the tracking system for your review. M-RETS emails invoices for transactions equaling $50.00 or more from the month prior. End of the year invoices are an exception. We bill for the total due at the end of the calendar year no matter the balance.
 
-Where can I find the detail for invoices?
------------------------------------------
+### Where can I find the detail for invoices?
 
 You can find the detail in your account on-line.\
 If you have management credentials in your account(s) in M-RETS, you can log in to view invoice detail and update the billing information.
 
-How do I update the billing information to view and receive invoices?
----------------------------------------------------------------------
+### How do I update the billing information to view and receive invoices?
+
 
 When you log into your account, update your "user" credentials to include "manage" for billing in "organization info." Go to the Billing tab and update the billing contact information. That will then transfer over to our billing software, Quick Books Online. You can only see and edit the billing information if you update your user credentials for billing. After you update, the invoices will go to the correct email moving forward.
 
-Where do I submit payment?
---------------------------
+### Where do I submit payment?
+
 
 Invoice Payment Instructions:
 
@@ -33,9 +31,10 @@ Invoice Payment Instructions:
   4. Please include the invoice number(s) on wire transfer or ACH transfer
 
 Please send payments by check to:\
-Midwest Renewable Energy Tracking System, Inc.\
-PO Box 856556\
-Minneapolis, MN 55485-6556
+Tracking System, Inc.
+Lockbox 446023
+PO Box 64079
+St Paul, MN 55164-0703
 
 Please make payments via wire transfer to:\
 Account Name/Beneficiary Name: Midwest Renewable Energy Tracking System, Inc.\
