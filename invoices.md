@@ -31,7 +31,7 @@ Invoice Payment Instructions:
   4. Please include the invoice number(s) on wire transfer or ACH transfer
 
 Please send payments by check to:\
-Tracking System, Inc.\
+Midwest Renewable Energy Tracking System, Inc.\
 Lockbox 446023\
 PO Box 64079\
 St Paul, MN 55164-0703 (please always include the dash and 0703 after the zip code)
