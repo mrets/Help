@@ -31,9 +31,9 @@ Invoice Payment Instructions:
   4. Please include the invoice number(s) on wire transfer or ACH transfer
 
 Please send payments by check to:\
-Tracking System, Inc.
-Lockbox 446023
-PO Box 64079
+Tracking System, Inc.\
+Lockbox 446023\
+PO Box 64079\
 St Paul, MN 55164-0703
 
 Please make payments via wire transfer to:\
