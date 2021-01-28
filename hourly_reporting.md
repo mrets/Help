@@ -22,7 +22,7 @@ M-RETS allows Hourly Reporting only for intact (i.e. not subdivided after issuan
 
 <br>
 
-### 2. The next table shows all eligble hourly data. Certificate batches must be intact, or they will not display here. Select the certificate batches for which you would like to run the report. If you select the same month from more than one generator, the resulting report will show a combined value for all selected generators.
+### 2. The next table shows all eligble hourly data. Certificate batches must be intact, or they will not display here. Select the certificate batches for which you would like to run the report. If you select the same month from more than one generator, the resulting report will show a combined hourly value for all selected generators.  
 
 <p align="center">
   <img src="https://github.com/mrets/photos/blob/master/Hourly_reporting_2.png?raw=true">
@@ -91,12 +91,32 @@ M-RETS defaults to Coordinated Universal Time also known as UTC.
 <br>
 
 ### Why is only one number displayed for multiple generators?
-Currently, M-RETS only supports a reading of one number per hour, per day/date. This is regardless of how many Generators are selected. For example, Generator A issued 10 kW at 13:00 and Generator B issued 20 kW at 13:00. Here are the expected results for 13:00, based on Operation Type.
+Currently, M-RETS only supports a reading of one number per hour, per day/date. This is regardless of how many Generators are selected. Let's walk through an example.
+
+#### For this example, we are looking at generation on March 1st at 13:00.
+
+* Generator A issued 20 kW.
+* Generator B issued 30 kW.
+
+Here are the expected results for 13:00, based on Operation Type.
 
 1. Aggregate (Sum): 30 kW
 2. Average: 15 kW
 3. Min: 10 kW (Value taken from Generator A)
 4. Max: 20 kW (Value taken from Generator B)
+
+#### Let's walk through one more example. For this example, we are looking at generation on May 7th at 16:00.
+
+* Generator A issued 20 kW.
+* Generator B issued 30 kW.
+* Generator C issued 50 kW. 
+
+Here are the expected results for May 7th at 16:00, based on Operation Type.
+
+1. Aggregate (Sum): 100 kW
+2. Average: 33.3 kW
+3. Min: 20 kW (Value taken from Generator A)
+4. Max: 50 kW (Value taken from Generator C)
 
 <br>
 
