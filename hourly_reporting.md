@@ -93,7 +93,7 @@ M-RETS defaults to Coordinated Universal Time, also known as UTC.
 <br>
 
 ### Why is only one number displayed for multiple generators?
-Currently, M-RETS only supports a reading of one number per hour, per day/date. This is regardless of how many Generators are selected. Let's walk through an example.
+Currently, M-RETS only supports a reading of one number per hour, per day/date. This is regardless of how many Generators are selected. Let's walk through some examples.
 
 #### For this example, we are looking at generation on March 1st at 13:00.
 
