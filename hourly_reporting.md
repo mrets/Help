@@ -22,7 +22,9 @@ M-RETS allows Hourly Reporting only for intact (i.e. not subdivided after issuan
 
 <br>
 
-### 2. The next table shows all eligble hourly data. Certificate batches must be intact, or they will not display here. Select the certificate batches for which you would like to run the report. If you select the same month from more than one generator, the resulting report will show a combined hourly value for all selected generators. ![Please see examples under Troubleshooting](https://mrets.github.io/Help/hourly_reporting#why-is-only-one-number-displayed-for-multiple-generators)
+### 2. The next table shows all eligble hourly data. Certificate batches must be intact, or they will not display here. Select the certificate batches for which you would like to run the report. If you select the same month from more than one generator, the resulting report will show a combined hourly value for all selected generators. 
+
+[Please see examples under Troubleshooting](https://mrets.github.io/Help/hourly_reporting#why-is-only-one-number-displayed-for-multiple-generators)
 
 <p align="center">
   <img src="https://github.com/mrets/photos/blob/master/Hourly_reporting_2.png?raw=true">
