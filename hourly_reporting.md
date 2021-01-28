@@ -2,11 +2,11 @@
 
 # Hourly Reporting
 
-M-RETS is the first tracking system to support hourly data with issuances. Until now, you could only view hourly data on individual batches of Certificates. M-RETS now supports Hourly Reporting for multiple vintages. This guide will walk you through the Hourly Reporting process. 
+M-RETS supports Hourly Reporting for single and multiple vintages. This guide will walk you through the Hourly Reporting process. 
 
 M-RETS allows Hourly Reporting only for intact (i.e. not subdivided after issuance) batches of Certificates. The following will render a batch of certificates ineligible for Hourly Reporting at this time:
 
-1. Certificates that an Organization has separated into multiple active batches for any reason, even if they maintain ownership of all the RECs from the original issuance.
+1. Certificates that an Organization separated into multiple active batches for any reason, even if they maintain ownership of all the RECs from the original issuance.
 
 2. Certificates in a batch where RECs from the issuance batch were transferred to another party.
 
@@ -22,7 +22,7 @@ M-RETS allows Hourly Reporting only for intact (i.e. not subdivided after issuan
 
 <br>
 
-### 2. The next table shows all eligble hourly data. Certificate batches must be intact, or they will not display here. Select the certificate batches for which you would like to run the report. The data will be combined on your report if you choose multiple batches from the generation month.
+### 2. The next table shows all eligble hourly data. Certificate batches must be intact, or they will not display here. Select the certificate batches for which you would like to run the report. If you select the same month from more than one generator, the resulting report will show a combined value for all selected generators.
 
 <p align="center">
   <img src="https://github.com/mrets/photos/blob/master/Hourly_reporting_2.png?raw=true">
@@ -81,6 +81,8 @@ Choose your preferred time zone. You can also adjust this filter after running t
 # Troubleshooting
 ### Why is some of my hourly data missing?
 You may see a value of '-' depending on your selected time zone. This value fills in gaps between the issuance time zone and the reporting time zone. For example, Generator A issued 10 kW at 01:00 **Pacific Time**. On the report in **Central Time**, that 10 kW generation will show at 03:00.
+
+M-RETS defaults to Coordinated Universal Time also known as UTC. 
 
 <p align="center">
   <img src="https://github.com/mrets/photos/blob/master/hourly_reporting_6.png?raw=true">
