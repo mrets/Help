@@ -100,7 +100,7 @@ Currently, M-RETS only supports a reading of one number per hour, per day/date. 
 * Generator A issued 20 kW.
 * Generator B issued 30 kW.
 
-Here are the expected results for 13:00, based on Operation Type.
+Here are the expected results for March 1 at 13:00, based on Operation Type.
 
 1. Aggregate (Sum): 30 kW
 2. Average: 15 kW
