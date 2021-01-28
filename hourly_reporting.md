@@ -22,7 +22,7 @@ M-RETS allows Hourly Reporting only for intact (i.e. not subdivided after issuan
 
 <br>
 
-### 2. The next table shows all eligble hourly data. Certificate batches must be intact, or they will not display here. Select the certificate batches for which you would like to run the report. If you select the same month from more than one generator, the resulting report will show a combined hourly value for all selected generators.  
+### 2. The next table shows all eligble hourly data. Certificate batches must be intact, or they will not display here. Select the certificate batches for which you would like to run the report. If you select the same month from more than one generator, the resulting report will show a combined hourly value for all selected generators. ![Please see examples under Troubleshooting](https://mrets.github.io/Help/hourly_reporting#why-is-only-one-number-displayed-for-multiple-generators)
 
 <p align="center">
   <img src="https://github.com/mrets/photos/blob/master/Hourly_reporting_2.png?raw=true">
@@ -82,7 +82,7 @@ Choose your preferred time zone. You can also adjust this filter after running t
 ### Why is some of my hourly data missing?
 You may see a value of '-' depending on your selected time zone. This value fills in gaps between the issuance time zone and the reporting time zone. For example, Generator A issued 10 kW at 01:00 **Pacific Time**. On the report in **Central Time**, that 10 kW generation will show at 03:00.
 
-M-RETS defaults to Coordinated Universal Time also known as UTC. 
+M-RETS defaults to Coordinated Universal Time, also known as UTC. 
 
 <p align="center">
   <img src="https://github.com/mrets/photos/blob/master/hourly_reporting_6.png?raw=true">
