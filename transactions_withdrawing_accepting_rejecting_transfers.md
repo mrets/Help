@@ -13,7 +13,7 @@ After clicking on Transactions you will see a couple of familiar tabs; Pending a
 
 ![](https://github.com/mrets/photos/blob/master/withdraw_transfers2.png?raw=true)
 
--   Withdrawing Transfers
+## Withdrawing Transfers
 
 Let us start with Withdrawals. After clicking on 'Pending', you will see your pending transactions. To withdraw a transaction, all you have to do is click on 'Withdraw'.
 
@@ -25,7 +25,7 @@ Then you will see a window very similar to this pop up.
 
 Click 'Withdraw', and you are set!
 
--   Accepting Transfers
+## Accepting Transfers
 
 If you have an incoming transfer, you will see them under 'Pending' as well. To accept or reject the transfers, click on 'Review'.
 
@@ -43,7 +43,7 @@ Ta-Da! You also will see an option to download a transaction summary document.
 
 ![](https://github.com/mrets/photos/blob/master/withdraw_transfers8.png?raw=true)
 
--   Rejecting Transfers
+## Rejecting Transfers
 
 **If you believe RECs were transferred to your organization in error, contact the System Administrator.**\
 OK, now how do we reject a transfer? Well THAT one is very simple. Remember when we saw this page?
