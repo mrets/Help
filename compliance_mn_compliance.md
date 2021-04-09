@@ -41,7 +41,7 @@ Compliance is measured on a calendar year basis. Utilities must retire a suffici
 
 **M-RETS REC retirement platform and instruction document**: Utilities should have been invited to the Minnesota RPS 2020 Compliance program and, for the public utilities, Small Solar program via M-RETS account holders.
 
-An instruction document on REC retirement and report creation for Minnesota RES compliance and Green Pricing Programs is available in the training section of the M-RETS website: <https://mrets.github.io/Help/compliance_mn_compliance>.
+An instruction document on [REC retirement](https://mrets.github.io/Help/certificates_retiring_certificates) and report creation for Minnesota RES compliance and Green Pricing Programs is available in the training section of the M-RETS website.
 
 Questions regarding the online retirement process or the generation of M-RETS reports may be directed to:  Sean Darling, Technical Program Coordinator at (651) 900-7891 or  [systemadmin@mrets.org](mailto:systemadmin@mrets.org) or Ben Gerber, M-RETS President and CEO at (651) 789-3338  or [ben@mrets.org](mailto:ben@mrets.org).
 
