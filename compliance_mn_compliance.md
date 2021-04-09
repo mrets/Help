@@ -1,13 +1,23 @@
 Minnesota Compliance Training
 =============================
 
-Assistance with Completing Minnesota RPS and Green Pricing Retirements in M-RETS
+**NOTICE OF ****RENEWABLE ENERGY CERTIFICATE (REC) RETIREMENT FOR**
 
-***This information is provided for informational purposes only and Minnesota Statutes and Rules are subject to change. Please verify all instructions with the most recent Minnesota Public Utilities Commission Filings. Legal Compliance must be consistent with Minnesota Statutes and Rules. Always Consult the following Minnesota Public Utilities Commission Dockets:**
+**RENEWABLE ENERGY STANDARDS, GREEN PRICING PROGRAM, AND SOLAR ENERGY STANDARD REC RETIREMENT**
 
-**In the Matter of Commission Consideration and Determination on Compliance with Renewable Energy Standards Docket Number E-999/M-18-78 (for MN Compliance Year 2018)**
+Issued: April 2, 2020
 
-**In the Matter of the Green Pricing Verification Filing ProcessDocket No. E-999/PR-02-1240**
+**In the Matter of ****Commission Consideration and Determination of Compliance with Renewable Energy Standards for Year 20****20**
+
+**In the Matter of Commission Consideration and Determination of Compliance with Renewable Energy Standards (RES)**
+
+**In the Matter of the Green Pricing Verification Filing Process**
+
+**PUC Docket Number(s): 
+
+**E-999/PR-21-12
+
+**E-999/PR-02-1240**
 
 All utilities subject to [Minn. Stat. §216B.1691](https://www.revisor.mn.gov/statutes/?id=216b.1691), as well as those with Green Pricing Programs, must retire Renewable Energy Credits (RECs) and  file annual verification reports for the Renewable Energy Standards (RES), Solar Energy Standards, and Green Pricing Programs. These may be addressed by completing the information requested in the spreadsheet and filing it no later than **June 1, 2021**. The spreadsheet may be found here:
 
