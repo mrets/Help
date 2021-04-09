@@ -9,64 +9,40 @@ Assistance with Completing Minnesota RPS and Green Pricing Retirements in M-RETS
 
 **In the Matter of the Green Pricing Verification Filing ProcessDocket No. E-999/PR-02-1240**
 
-All utilities subject to [Minn. Stat. §216B.1691](https://www.revisor.mn.gov/statutes/?id=216b.1691), as well as those with Green Pricing Programs, must retire Renewable Energy Credits (RECs) and file annual verification reports for the Renewable Energy Standards (RES) and Green Pricing Programs. These may be addressed by completing the information requested in the spreadsheet and filing it no later than **June 1, 2020**. The spreadsheet may be found here:
+All utilities subject to [Minn. Stat. §216B.1691](https://www.revisor.mn.gov/statutes/?id=216b.1691), as well as those with Green Pricing Programs, must retire Renewable Energy Credits (RECs) and  file annual verification reports for the Renewable Energy Standards (RES), Solar Energy Standards, and Green Pricing Programs. These may be addressed by completing the information requested in the spreadsheet and filing it no later than **June 1, 2021**. The spreadsheet may be found here:
 
 [**Filing Template (.xlsx)**](http://mn.gov/commerce-stat/xls/mn-rec-gp-report.xlsx)
 
-**For the 2019 compliance year, RECS must be retired by May 1, 2020.**
+**For the 2020 compliance year, RECs must be retired by May 1, 2021.**
 
-Utilities are required to file this information pursuant to the Commission's [Order Finding Utilities In Compliance With Minn. Stat. §216b.1691 And Modifying Biennial Reporting Procedures](https://www.edockets.state.mn.us/EFiling/edockets/searchDocuments.do?method=showPoup&documentId=%7b6B777982-DAEA-42F7-BD9A-D5DFE3CEC189%7d&documentTitle=20135-87456-03), in Docket No. E-999/M-12-958, issued May 28, 2013. 
+**PLEASE NOTE: Utilities should have received an invitation to retire RECs in the M-RETS dashboard under the program titled 'Minnesota RPS 2020 Compliance.' For questions regarding the platform or invitations, please contact [systemadmin@mrets.org](mailto:systemadmin@mrets.org).**
 
-In accordance with the Commission's [March 19, 2010 Order](https://www.edockets.state.mn.us/EFiling/edockets/searchDocuments.do?method=showPoup&documentId=%7bFBCB2EB0-203F-414A-8CB5-5CE832E884F7%7d&documentTitle=20103-48177-01) (Docket No. E-999/CI-03-869), all entities covered under Minn. Stat. §216B.1691, except Xcel Energy, must retire RECs representing 17 percent of annual retail sales for calendar year 2018. Xcel Energy is required to retire RECs representing 25 percent of annual retail sales for calendar year 2018. 
+In accordance with the Commission's [March 19, 2010 Order](https://www.edockets.state.mn.us/EFiling/edockets/searchDocuments.do?method=showPoup&documentId=%7bFBCB2EB0-203F-414A-8CB5-5CE832E884F7%7d&documentTitle=20103-48177-01) (Docket No. E-999/CI-03-869), all entities covered under Minn. Stat. §216B.1691, except Xcel Energy, must retire RECs representing **20 percent** of annual retail sales for calendar year 2020. Xcel Energy is required to retire RECs representing **30 percent** of annual retail sales for calendar year 2020. 
 
-Compliance is measured on a calendar year basis. Utilities must retire a sufficient number of RECs to meet the 2019 RES and retire a sufficient number of RECs to meet the green pricing sales for the applicable calendar year. These retirements must be completed by May 1 of the year following the compliance year. For example, RECs for compliance (calendar) year 2019 must be transferred and retired by May 1, 2020.
+This is the initial year compliance will be reviewed for Minnesota's Solar Energy Standard under [Minn. Stat. § 216B.1691, subd. 2f](https://www.revisor.mn.gov/statutes/cite/216b.1691#stat.216B.1691.2f), which requires a public utility to generate or procure enough solar energy to supply at least 1.5% of its retail electric sales in Minnesota with solar energy by the end of 2020. Of the 1.5% solar, at least 10% must come from solar photovoltaic devices with 40-kilowatt (kW) capacity or less. Public utilities with 50,000 to 200,000 retail electric customers may count individual customers' community-solar garden subscriptions of 40 kW or less toward the 10% small-scale carveout. 
 
-**Non-Nuclear Utilities**\
-2012 - 12%\
-2016 - 17%\
-2020 - 20%\
-2025 - 25% 
+Compliance is measured on a calendar year basis. Utilities must retire a sufficient number of RECs to meet the 2020 RES and the 2020 SES for certain utilities, as well as retire a sufficient number of RECs to meet the green pricing sales for the applicable calendar year. These retirements must be completed by May 1 of the year following the compliance year. For example, RECs for compliance (calendar) year 2020 must be transferred and retired by May 1, 2021.
 
-**Xcel Energy (the only nuclear utility which is how this is referenced in the statute)**\
-2010 - 15%\
-2012 - 18%\
-2016 - 25%\
-2020 - 30% 
+**Solar Energy Standard (SES): **Please note Tab 4 of the spreadsheet addresses the filing requirements for the SES reporting obligation per the [January 29, 2021 Order](https://www.edockets.state.mn.us/EFiling/edockets/searchDocuments.do?method=showPoup&documentId=%7bC0C04E77-0000-C63E-9C7E-A190FC9C73C2%7d&documentTitle=20211-170414-02) and Attachment 1 in Docket No. E-999/M-20-464. Only utilities subject to this subdivision need to report.
 
-**Eligible energy facilities**: RECs must originate from eligible energy technology as defined by Minn. Stat. §216B.1691, subd. 1. 
+**Eligible energy facilities**: RECs must originate from eligible energy technology as defined by Minn. Stat. §216B.1691, subd. 1.
 
-**REC shelf life:** Only RECs retired before the end of their Commission-designated shelf life (the year of generation plus four years) will be counted towards either the RES requirement or a utility's Green Pricing Program. 
+**REC shelf life:** Only RECs retired before the end of their Commission-designated shelf life (the year of generation plus four years) will be counted towards either the RES requirement or a utility's Green Pricing Program.
 
-**I. Minnesota Compliance and Green Pricing Retirement Accounts**
+**M-RETS REC retirement platform and instruction document**: Utilities should have been invited to the Minnesota RPS 2020 Compliance program and, for the public utilities, Small Solar program via M-RETS account holders.
 
-Utilities should have been invited to the Minnesota REC retirement program via M-RETS account holders. ***Organizations need to accept the Program invitation BEFORE creating a Retirement Account for the Program.***
+An instruction document on REC retirement and report creation for Minnesota RES compliance and Green Pricing Programs is available in the training section of the M-RETS website: <https://mrets.github.io/Help/compliance_mn_compliance>.
 
-[Click Here to View an Article on Participating in an M-RETS Program and Creating a Program-Specific Retirement Account](https://help.mrets.org/en/articles/2670692-participating-in-a-program)
+Questions regarding the online retirement process or the generation of M-RETS reports may be directed to:  Sean Darling, Technical Program Coordinator at (651) 900-7891 or  [systemadmin@mrets.org](mailto:systemadmin@mrets.org) or Ben Gerber, M-RETS President and CEO at (651) 789-3338  or [ben@mrets.org](mailto:ben@mrets.org).
 
-Utilities must establish an M-RETS retirement Account designated for the retirement of RECS for a specific compliance year (e.g. 2019 MN RES RECs for 2019 Minnesota RES Compliance Retirements) for all retail load serving entities. For those power agencies or cooperatives serving more than one distribution company, one RES REC retirement Account for all retail load serving entities served by a power agency or cooperative in the compliance year is sufficient. Each utility with a Green Pricing Program should establish a single account labeled with the year and MN Green Pricing retirement (e.g. 2019 MN Green Pricing).
+**Filing requirements: **Utilities,telecommunications carriers, official parties, and state agenciesare required to file documents using the Commission's electronic filing system (eFiling).  All parties, participantsand interested persons are encouraged to use eFiling: [mn.gov/puc](http://mn.gov/puc/), select *eFiling*, and follow the prompts.
 
-Utilities should be as specific as possible in selecting names for the retirement accounts and should not use the default account name. Abbreviations will be required. RECs within these accounts must be segregated by compliance year and designated for either the Minnesota RES program [e.g. 2019 (Utility Name) MN RES] or the Minnesota Green Pricing Program [e.g. 2019 (Utility Name) MN Green Pricing]. 
+**Subscribe **to receive email notification when new documents are filed in this docket at [mn.gov/puc](http://mn.gov/puc/), select *Subscribe*, or click [HERE ](https://www.edockets.state.mn.us/EFiling/subscription/createSubscription.do?method=subscribeNew&userType=public)and follow the prompts.
 
-Regulators already have access to these accounts so utilities do not need to do anything further to grant regulators access to their compliance retirement accounts. 
+**Questions about this docket?** Contact Commission staff:
 
-**II. Retiring Compliance RECs**
+Kelly Martone, at kelly.martone  @  state.mn.us or (651) 201-2245.
 
-[Click Here to View Article on Retirements](https://help.mrets.org/within-the-system/recs/retiring-recs)
+**Questions about the Green Pricing section of the reporting form** may be directed to Lise Trudeau, Minnesota Department of Commerce, Division of Energy Resources staff, at Clean.Energy@state.mn.us or (651) 539- 1861.
 
-***YOU MUST RETIRE RECs TO THE ACCOUNT CREATED FOR THE MN PROGRAM***
-
-***III. Minnesota REC Shelf Life***
-
-Only RECs retired before the end of their Commission-designated shelf life (the year of generation plus four years) will be counted towards either the RES requirement or a utility's Green Pricing Program. Note this application of REC shelf life does not apply to S-RECs intended to meet the SES.
-
-**IV. Compliance Period and Retirement Deadline**
-
-Compliance for Minnesota is measured on a calendar year basis. Utilities must transfer and retire a sufficient number of RECs to the RES retirement account to meet their annual RES obligations and transfer and retire a sufficient number of RECs to the Green Pricing retirement account to meet their annual green pricing sales for the applicable calendar year. These transfers and retirements must be completed by May 1 of the year following the compliance year. For example, RECs for compliance (calendar) year 2019 must be transferred and retired by May 1, 2020.
-
-**Filing requirements:** Utilities, telecommunications carriers, official parties, and state agencies are required to file documents using the Commission's electronic filing system (eFiling). All parties, participants and interested persons are encouraged to use eFiling: [mn.gov/puc](http://mn.gov/puc/), select eFiling, and follow the prompts.
-
-**Questions about this docket?**  Contact Commission staff:\
-Kelly Martone, at <kelly.martone@state.mn.us>, at or (651) 201-2245\
-Susan Mackenzie at <susan.mackenzie@state.mn.us> or (651) 201-2241
-
-**Questions about the Green Pricing section of the reporting form** may be directed to Lise Trudeau, Minnesota Department of Commerce, Division of Energy Resources staff, at [Clean.Energy@state.mn.us](mailto:DG.Energy@state.mn.us) or (651) 539-1861.
+To request this document in another format such as large print or audio, call (651) 296-0406 (voice). Persons with a hearing or speech impairment may call using their preferred Telecommunications Relay Service or email  consumer.puc@state.mn.us  for assistance.
