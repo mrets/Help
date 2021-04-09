@@ -23,7 +23,7 @@ This is the initial year compliance will be reviewed for Minnesota's Solar Energ
 
 Compliance is measured on a calendar year basis. Utilities must retire a sufficient number of RECs to meet the 2020 RES and the 2020 SES for certain utilities, as well as retire a sufficient number of RECs to meet the green pricing sales for the applicable calendar year. These retirements must be completed by May 1 of the year following the compliance year. For example, RECs for compliance (calendar) year 2020 must be transferred and retired by May 1, 2021.
 
-**Solar Energy Standard (SES): **Please note Tab 4 of the spreadsheet addresses the filing requirements for the SES reporting obligation per the [January 29, 2021 Order](https://www.edockets.state.mn.us/EFiling/edockets/searchDocuments.do?method=showPoup&documentId=%7bC0C04E77-0000-C63E-9C7E-A190FC9C73C2%7d&documentTitle=20211-170414-02) and Attachment 1 in Docket No. E-999/M-20-464. Only utilities subject to this subdivision need to report.
+**Solar Energy Standard (SES):** Please note Tab 4 of the spreadsheet addresses the filing requirements for the SES reporting obligation per the [January 29, 2021 Order](https://www.edockets.state.mn.us/EFiling/edockets/searchDocuments.do?method=showPoup&documentId=%7bC0C04E77-0000-C63E-9C7E-A190FC9C73C2%7d&documentTitle=20211-170414-02) and Attachment 1 in Docket No. E-999/M-20-464. Only utilities subject to this subdivision need to report.
 
 **Eligible energy facilities**: RECs must originate from eligible energy technology as defined by Minn. Stat. §216B.1691, subd. 1.
 
@@ -35,9 +35,9 @@ An instruction document on REC retirement and report creation for Minnesota RES 
 
 Questions regarding the online retirement process or the generation of M-RETS reports may be directed to:  Sean Darling, Technical Program Coordinator at (651) 900-7891 or  [systemadmin@mrets.org](mailto:systemadmin@mrets.org) or Ben Gerber, M-RETS President and CEO at (651) 789-3338  or [ben@mrets.org](mailto:ben@mrets.org).
 
-**Filing requirements: **Utilities,telecommunications carriers, official parties, and state agenciesare required to file documents using the Commission's electronic filing system (eFiling).  All parties, participantsand interested persons are encouraged to use eFiling: [mn.gov/puc](http://mn.gov/puc/), select *eFiling*, and follow the prompts.
+**Filing requirements:** Utilities,telecommunications carriers, official parties, and state agenciesare required to file documents using the Commission's electronic filing system (eFiling).  All parties, participantsand interested persons are encouraged to use eFiling: [mn.gov/puc](http://mn.gov/puc/), select *eFiling*, and follow the prompts.
 
-**Subscribe **to receive email notification when new documents are filed in this docket at [mn.gov/puc](http://mn.gov/puc/), select *Subscribe*, or click [HERE ](https://www.edockets.state.mn.us/EFiling/subscription/createSubscription.do?method=subscribeNew&userType=public)and follow the prompts.
+**Subscribe** to receive email notification when new documents are filed in this docket at [mn.gov/puc](http://mn.gov/puc/), select *Subscribe*, or click [HERE ](https://www.edockets.state.mn.us/EFiling/subscription/createSubscription.do?method=subscribeNew&userType=public)and follow the prompts.
 
 **Questions about this docket?** Contact Commission staff:
 
