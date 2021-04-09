@@ -1,21 +1,19 @@
 Minnesota Compliance Training
 =============================
 
-**NOTICE OF ****RENEWABLE ENERGY CERTIFICATE (REC) RETIREMENT FOR**
-
-**RENEWABLE ENERGY STANDARDS, GREEN PRICING PROGRAM, AND SOLAR ENERGY STANDARD REC RETIREMENT**
+**NOTICE OF RENEWABLE ENERGY CERTIFICATE (REC) RETIREMENT FOR RENEWABLE ENERGY STANDARDS, GREEN PRICING PROGRAM, AND SOLAR ENERGY STANDARD REC RETIREMENT**
 
 Issued: April 2, 2020
 
-**In the Matter of ****Commission Consideration and Determination of Compliance with Renewable Energy Standards for Year 20****20**
+**In the Matter of Commission Consideration and Determination of Compliance with Renewable Energy Standards for Year 2020**
 
 **In the Matter of Commission Consideration and Determination of Compliance with Renewable Energy Standards (RES)**
 
 **In the Matter of the Green Pricing Verification Filing Process**
 
-**PUC Docket Number(s): 
+**PUC Docket Number(s):**
 
-**E-999/PR-21-12
+**E-999/PR-21-12**
 
 **E-999/PR-02-1240**
 
