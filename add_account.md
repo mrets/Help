@@ -6,6 +6,8 @@ This article describes how to add an active or retirement account to your organi
 
 Accounts act as folders for Certificates. There are two types of accounts in M-RETS; Active and Retirement. Adding an Active or Retirement account is a quick process. 
 
+<br>
+
 ## In the navigation bar on the left side, click on accounts.
 
 ![](https://github.com/mrets/photos/blob/master/createaccount1.png?raw=true)
