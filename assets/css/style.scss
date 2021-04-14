@@ -1,8 +1,8 @@
 ---
 ---
 
-@import "{{jekyll-theme-slate}}";
+@import "{{ site.theme }}";
 
 .inner {
-  max-width: 75%;
+  max-width: 75% !important;
 }
