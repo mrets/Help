@@ -8,19 +8,18 @@ You can now view and update your organization's billing contact right in the sys
 
 ## Click on your user name in the upper right corner, then click on 'Organization Info'.
 
-![](https://github.com/mrets/photos/blob/master/add_update_billing_info1.gif?raw=true)
+<img src="https://github.com/mrets/photos/blob/master/add_update_billing_info1.gif?raw=true" alt="Organization Info" class="center">
 
 <br>
 
 ## Click the tab for 'Billing Info', then click the box for 'Edit'.
 
-![](https://github.com/mrets/photos/blob/master/add_update_billing_info2.png?raw=true)
-
+<img src="https://github.com/mrets/photos/blob/master/add_update_billing_info2.png?raw=true" alt="Billing Info" class="center">
 <br>
 
 ## Enter/Update the Billing Contact information in the fields.
 
-![](https://github.com/mrets/photos/blob/master/add_update_billing_info3.png?raw=true)
+<img src="https://github.com/mrets/photos/blob/master/add_update_billing_info3.png?raw=true" alt="Billing Contact Information" class="center">
 
 <br>
 
