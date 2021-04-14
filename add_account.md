@@ -12,9 +12,13 @@ Accounts act as folders for Certificates. There are two types of accounts in M-R
 
 ![](https://github.com/mrets/photos/blob/master/createaccount1.png?raw=true)
 
+<br>
+
 ## Click on  'Add New Account'
 
 ![](https://github.com/mrets/photos/blob/master/createaccount2.png?raw=true)
+
+<br>
 
 ## Select the Account Type and give the Account a snappy name like "RPS 2019". or, "Erica's Awesome RECs".
 
