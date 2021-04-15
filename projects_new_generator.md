@@ -68,10 +68,97 @@ The M-RETS Administrator will then be notified of the New Asset Registration via
 
 ***Please Note: By submitting a generator for approval, the user represents and warrants to M-RETS that all information for this generator shall be true, complete, and correct to the best of its knowledge, information and belief. Any changes after submission may result in a delay in the approval process.***
 
-Static Data Field Information
+<br>
 
--------------------------------
+## Static Data Field Information
 
-![](https://github.com/mrets/photos/blob/master/new_generator5.png?raw=true)
-
+| General |
+| General Information |
+| Unit Name | Generator Name |
+| Facility Name |   |
+| WI RRC Unit ID |   |
+| WI RRC Program Registration Date |   |
+| EIA Number | ID number provided by the EIA (if applicable) |
+| Reporting and Issuance |
+| Reporting Entity | What is the QRE for the Facility |
+| Reporting Unit ID | What is the Reporting Unit of the Generator |
+| Issuance Account | This is the account to which all newly issued RECs will be deposited into. |
+| Location |
+| County | Physical county where generator is located |
+| State/Province | State or Province where generator is located |
+| Country | Physical country where generator is located |
+| Latitude/Longitude | Exact location of project |
+| Owner |
+| General Ownership Information |
+| Primary Facility Owner |   |
+| Single-Owner Facility? |   |
+| Additional Owner(s) |   |
+| Owner Contact Information |
+| Company Name | Owner that holds legal title to the Generator |
+| Address | Contact information of owner referenced above |
+| City | Contact information of owner referenced above |
+| State/Province | Contact information of owner referenced above |
+| Zip/Postal Code | Contact information of owner referenced above |
+| Country | Contact information of owner referenced above |
+| Phone | Contact information of owner referenced above |
+| Website | Contact information of owner referenced above |
+| Mailing Address | Contact information of owner referenced above |
+| Mailing City | Contact information of owner referenced above |
+| Mailing State/Province | Contact information of owner referenced above |
+| Mailing Zip/Postal Code | Contact information of owner referenced above |
+| Mailing Country | Contact information of owner referenced above |
+| Publish contact information? |   |
+| Ownership Type and Registration Rights |   |
+| Ownership Type(s) |
+| Electric Service Provider |   |
+| Federal Marketer/Power Administrator |   |
+| Investor-Owned Utility | A privately-owned electric utility whose stock is publicly traded.\
+It is rate regulated and authorized to achieve an allowed rate of return. |
+| Irrigation District |   |
+| Municipal Utility |   |
+| Privately Owned Distributed Generation |   |
+| Rural Electric Cooperative |   |
+| Tribal Organization |   |
+| Facility Operator Information |
+| Job Title |  |
+| Name |   |
+| Mailing Address | Mailing Address |
+| Mailing Address Line 2 |   |
+| City | Mailing City |
+| Mailing State/Province | Mailing State/Province |
+| Mailing Zip/Postal Code | Mailing Zip/Postal Code |
+| Mailing Country | Mailing Country |
+| Is the owner a WI electricity retailer? | Is the Generator owner a Wisconsin Retail Electric Provider |
+| Assignment of Registration Rights | Were the registration rights assigned by court |
+| Court/Regulator Assignment of Rights | Did a court assign the rights of this project |
+| Engineering |
+| Class and Fuel Type |
+| Single or multi-fuel facility? | Is this generator a multifuel generator |
+| Fuel Type & Fuel Source(s) |   |
+| Is generation reporting unit-specific? |   |
+| Generation Unit Classification |   |
+| Generation Reporting Classification |   |
+| Control Area Operator |   |
+| Interconnected Utility |   |
+| Generation Technology |   |
+| Engineering |
+| Commenced Operation Date |   |
+| Nameplate Capacity (MW) in A/C | The maximum rated output of a generator |
+| Capacity Factor |   |
+| Maximum Annual Energy   |   |
+| Biomass Net Generation BTU/kWh |   |
+| Repower Date(s) |   |
+| METERING INFORMATION |
+| Aggregate Metering | Is this an aggregated facility |
+| Aggregating Unit Count | How many generators are aggregated if this is an aggregated facility |
+| Primary Generator | If this is an aggregated generator, what is the primary generator |
+| Revenue Meter ID | Serial Number or Model Number of the Meter |
+| Meter Manufacturer | Manfucturer of the meter |
+| Meter Type | Type of Meter (Revenue Grade Meter or Non-Revenue Grade Meter) |
+| Last Meter Certification | Laste date the meter was certified |
+| WI INFORMATION |
+| Approved to report 3-year hydro average? | Does this Generator use a 3-year hydro average specific to the Wisconsin Program |
+| Hydro 3-year average | 3-year hydro average value |
+| Approved as a WI displacement facility? |   |
+| Program Eligibility (See Appendix for detail) |   |
 [Back](https://mrets.github.io/Help/index)
