@@ -72,8 +72,8 @@ The M-RETS Administrator will then be notified of the New Asset Registration via
 
 ## Static Data Field Information
 
-| General |
-|--------------|----------------------------|
+| General ||
+|---------|----------------------------|
 | General Information |
 | Unit Name | Generator Name |
 | Facility Name |   |
