@@ -25,7 +25,9 @@ You will now see any Active generators in your Organization. For a full walkthro
 #### Click on 'Add New Project' on the right side.
 
 ![](https://github.com/mrets/photos/blob/master/new_generator2.png?raw=true)
+
 <br>
+
 #### Give your generator a name and click 'Create Project'. You can change the name later in the process.
 
 ![](https://github.com/mrets/photos/blob/master/new_generator3.png?raw=true)
