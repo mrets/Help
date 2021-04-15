@@ -155,7 +155,7 @@ It is rate regulated and authorized to achieve an allowed rate of return. |
 | Biomass Net Generation BTU/kWh |   |
 | Repower Date(s) |   |
 | *Metering Information* |
-| **Aggregate Metering** |Aggregated Generators must meet the following criteria:\ a. The Aggregated Units must use the same Fuel Type.\ b. The Aggregated Units do not exceed a total nameplate capacity of 1 MW.\ c. The M-RETS State/Province programs allow for the aggregation if an RPS eligibility is sought.|
+| **Aggregate Metering** |Aggregated Generators must meet the following criteria: <br> a. The Aggregated Units must use the same Fuel Type. <br> b. The Aggregated Units do not exceed a total nameplate capacity of 1 MW. <br> c. The M-RETS State/Province programs allow for the aggregation if an RPS eligibility is sought.|
 | Aggregating Unit Count *(Required if the previous answer is Yes)* | How many generators are aggregated if this is an aggregated facility |
 | Primary Generator | If this is an aggregated generator, what is the primary generator |
 | Revenue Meter ID | Serial Number or Model Number of the Meter |
