@@ -143,29 +143,30 @@ It is rate regulated and authorized to achieve an allowed rate of return. |
 
 | *Class and Fuel Type* ||
 |---|---|
-| Fuel Type & Fuel Source(s) |  |
-| Is generation reporting unit-specific? |   |
-| Generation Unit Classification |   |
-| Generation Reporting Classification |   |
-| Control Area Operator |   |
-| Interconnected Utility |   |
+| **Fuel Type & Fuel Source(s)** |  |
+| **Control Area Operator** |   |
+| **Interconnected Utility** |   |
 | Generation Technology |   |
-| Engineering |
-| Commenced Operation Date |   |
-| Nameplate Capacity (MW) in A/C | The maximum rated output of a generator |
-| Capacity Factor |   |
-| Maximum Annual Energy   |   |
+| *Engineering* ||
+| **Commenced Operation Date** |   |
+| **Nameplate Capacity (MW) in A/C** | The maximum rated output of a generator |
+| **Capacity Factor** |   |
+| **Maximum Annual Energy**   |   |
 | Biomass Net Generation BTU/kWh |   |
 | Repower Date(s) |   |
-| METERING INFORMATION |
-| Aggregate Metering | Is this an aggregated facility |
-| Aggregating Unit Count | How many generators are aggregated if this is an aggregated facility |
+| *Metering Information* |
+| **Aggregate Metering** |Aggregated Generators must meet the following criteria:\
+a. The Aggregated Units must use the same Fuel Type.
+
+b. The Aggregated Units do not exceed a total nameplate capacity of 1 MW.
+
+c. The M-RETS State/Province programs allow for the aggregation if an RPS eligibility is sought.|
+| Aggregating Unit Count *(Required if the previous answer is Yes)* | How many generators are aggregated if this is an aggregated facility |
 | Primary Generator | If this is an aggregated generator, what is the primary generator |
 | Revenue Meter ID | Serial Number or Model Number of the Meter |
-| Meter Manufacturer | Manfucturer of the meter |
-| Meter Type | Type of Meter (Revenue Grade Meter or Non-Revenue Grade Meter) |
-| Last Meter Certification | Laste date the meter was certified |
-| WI INFORMATION |
+| **Meter Manufacturer** | Manfucturer of the meter |
+| **Last Meter Certification** | Laste date the meter was certified |
+| *WI Information* ||
 | Approved to report 3-year hydro average? | Does this Generator use a 3-year hydro average specific to the Wisconsin Program |
 | Hydro 3-year average | 3-year hydro average value |
 | Approved as a WI displacement facility? |   |
