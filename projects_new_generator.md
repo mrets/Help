@@ -96,18 +96,18 @@ Required fields are in **BOLD**
 | Latitude | Exact location of project |
 | Longitude | Exact location of project |
 | Facility Photo | |
-| *Owner* |
-| *General Ownership Information* |
-| Primary Facility Owner |   |
-| Single-Owner Facility? |   |
+### Owner
+| *General Ownership Information* ||
+|---|---|
+| **Single-Owner Facility?** |   |
 | Additional Owner(s) |   |
-| Owner Contact Information |
-| Company Name | Owner that holds legal title to the Generator |
-| Address | Contact information of owner referenced above |
-| City | Contact information of owner referenced above |
-| State/Province | Contact information of owner referenced above |
-| Zip/Postal Code | Contact information of owner referenced above |
-| Country | Contact information of owner referenced above |
+| *Owner Contact Information* ||
+| **Company Name** | Owner that holds legal title to the Generator |
+| **Address** | Contact information of owner referenced above |
+| **City** | Contact information of owner referenced above |
+| **State/Province** | Contact information of owner referenced above |
+| **Zip/Postal Code** | Contact information of owner referenced above |
+| **Country** | Contact information of owner referenced above |
 | Phone | Contact information of owner referenced above |
 | Website | Contact information of owner referenced above |
 | Mailing Address | Contact information of owner referenced above |
@@ -116,8 +116,8 @@ Required fields are in **BOLD**
 | Mailing Zip/Postal Code | Contact information of owner referenced above |
 | Mailing Country | Contact information of owner referenced above |
 | Publish contact information? |   |
-| Ownership Type and Registration Rights |   |
-| Ownership Type(s) |
+| *Ownership Type and Registration Rights* |   |
+| **Ownership Type(s)** |
 | Electric Service Provider |   |
 | Federal Marketer/Power Administrator |   |
 | Investor-Owned Utility | A privately-owned electric utility whose stock is publicly traded.\
@@ -137,12 +137,12 @@ It is rate regulated and authorized to achieve an allowed rate of return. |
 | Mailing Zip/Postal Code | Mailing Zip/Postal Code |
 | Mailing Country | Mailing Country |
 | Is the owner a WI electricity retailer? | Is the Generator owner a Wisconsin Retail Electric Provider |
-| Assignment of Registration Rights | Were the registration rights assigned by court |
+| **Assignment of Registration Rights** | If your Organization does not own the generator, you will need to complete and attach a [Schedule A](https://www.mrets.org/wp-content/uploads/2017/12/MRETS-Schedule-A-Modified-12-28-2017.pdf "https://www.mrets.org/wp-content/uploads/2017/12/MRETS-Schedule-A-Modified-12-28-2017.pdf") form. The Schedule A form is an attestation that your Organization holds the rights to the Certificates. |
 | Court/Regulator Assignment of Rights | Did a court assign the rights of this project |
-| Engineering |
-| Class and Fuel Type |
-| Single or multi-fuel facility? | Is this generator a multifuel generator |
-| Fuel Type & Fuel Source(s) |   |
+### Engineering
+| *Class and Fuel Type* |
+|---|---|
+| Fuel Type & Fuel Source(s) |  |
 | Is generation reporting unit-specific? |   |
 | Generation Unit Classification |   |
 | Generation Reporting Classification |   |
@@ -168,7 +168,25 @@ It is rate regulated and authorized to achieve an allowed rate of return. |
 | Approved to report 3-year hydro average? | Does this Generator use a 3-year hydro average specific to the Wisconsin Program |
 | Hydro 3-year average | 3-year hydro average value |
 | Approved as a WI displacement facility? |   |
-| Program Eligibility (See Appendix for detail) |   |
+
+### Program Eligibility
+
+| Name | Description |
+|---|---|
+| Ecologo Certified | Is this Generator Certified by [EcoLogo](https://www.ul.com/resources/ecologo-certification-program)?|
+| Illinois Utility Eligibility| Is this Generator Certified by the ICC to meet the [IL Utility Program](http://www.ilga.gov/legislation/ilcs/ilcs5.asp?ActID=266&ChapAct=20%26nbsp%3BILCS%26nbsp%3B687%2F&ChapterID=5&ChapterName=EXECUTIVE+BRANCH&ActName=Renewable+Energy%2C+Energy+Efficiency%2C+and+Coal+Resources+Development+Law+of+1997%2E)?|
+| Iowa Eligibility | Is this Generator Certified by the IUB for the [Iowa RPS](https://www.legis.iowa.gov/docs/code/476.41.pdf)? |
+| Iowa AEP Eligibility | Is this Generator Certified by the IUB for the AEP Program? | 
+| Iowa Voluntary Green Eligibility | Does this Generator meet the reqiurements/certification standards for the IA Voluntary Green Program?|
+| Manitoba Eligibility | Does this Generator meet the requirements for [Manitoba] (https://www.gov.mb.ca/asset_library/en/climatechange/climategreenplandiscussionpaper.pdf)?|
+| Minnesota Eligibility | Does this Generator meet the [Minnesota RPS Reqiurements](https://www.revisor.mn.gov/statutes/cite/216B.2422)? |
+| Minnesota SES Small Solar Eligibility | Does this Generator meet the Minnesota Small Solar Eligibility Requirements? |
+| Montana Eligibility | Is this Generator Certified by the State of [Montana for the RPS](https://leg.mt.gov/bills/mca/title_0690/chapter_0030/part_0200/sections_index.html)? |
+| North Dakota Eligibility | Does this Generator meet the standards of the [ND REO](https://www.legis.nd.gov/cencode/t49c02.pdf)? |
+| Ohio Eligibility | Is this Generator Certified by the state of [Ohio for the RPS](http://codes.ohio.gov/oac/4901%3A1-40)? |
+| South Dakota Eligibility | Does this Generator meet the standards of the [state of SD](https://sdlegislature.gov/Statutes/Codified_Laws/20707790)? |
+| Wisconsin: Bankable Eligibility | Does the [Wisconsin PSC](https://docs.legis.wisconsin.gov/statutes/statutes/196/378) recognize this generator as bankable? |
+| Wisconsin: Non-bankable Eligibility | Does the Wisconsin PSC recognize this generator as non-bankable? |
 
 <br>
 
