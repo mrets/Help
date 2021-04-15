@@ -72,25 +72,29 @@ The M-RETS Administrator will then be notified of the New Asset Registration via
 
 ## Static Data Field Information
 
-| General ||
-|---------|----------------------------|
-| General Information |
-| Unit Name | Generator Name |
-| Facility Name |   |
+Required fields are in **BOLD**
+
+### General
+|---|---|
+| *General Information* |
+| **Unit Name** | Generator Name |
+| **Facility Name** |   |
 | WI RRC Unit ID |   |
 | WI RRC Program Registration Date |   |
 | EIA Number | ID number provided by the EIA (if applicable) |
-| Reporting and Issuance |
-| Reporting Entity | What is the QRE for the Facility |
+| *Reporting and Issuance* |
+| **Reporting Entity** | Who will be uploading MWh generation for this Generator? |
 | Reporting Unit ID | What is the Reporting Unit of the Generator |
-| Issuance Account | This is the account to which all newly issued RECs will be deposited into. |
-| Location |
-| County | Physical county where generator is located |
-| State/Province | State or Province where generator is located |
-| Country | Physical country where generator is located |
-| Latitude/Longitude | Exact location of project |
-| Owner |
-| General Ownership Information |
+| **Issuance Account** | This is the account to which all newly issued RECs will be deposited into. |
+| *Location* |
+| **County** | Physical county/munisipality where generator is located |
+| **State/Province** | State or Province where generator is located |
+| **Country** | Physical country where generator is located |
+| Latitude | Exact location of project |
+| Longitude | Exact location of project |
+| Facility Photo | |
+| *Owner* |
+| *General Ownership Information* |
 | Primary Facility Owner |   |
 | Single-Owner Facility? |   |
 | Additional Owner(s) |   |
