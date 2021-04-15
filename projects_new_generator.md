@@ -1,31 +1,32 @@
 [Back](https://mrets.github.io/Help/index)
 
-Register a New Generator
-========================
+# Register a New Generator
+
 
 Learn how to register a new generator or project in M-RETS.
 
 The following information will guide you through the steps necessary to register a Project in your M-RETS® organization account. M-RETS is available to assist you throughout the registration process. Please call 651-900-7891, or email at <systemadmin@mrets.org>.
 
-Review Registry Operating Documents
------------------------------------
+<br>
+
+## Review Registry Operating Documents
 
 The Registry Operating Procedures detail the requirements and definitions of different types projects. The Operating Procedures are available [here](http://www.mrets.org/resources/documents/). If you have not yet registered an M-RETS Organization, visit our Organization registration page [here.](http://app.mrets.org/register)
+<br>
+### Register a Generator/Project
 
-Register a Generator/Project
-----------------------------
 
--   After logging in, click on the 'Projects' tab on the left.
+#### After logging in, click on the 'Projects' tab on the left.
 
 ![](https://github.com/mrets/photos/blob/master/new_generator1.png?raw=true)
 
 You will now see any Active generators in your Organization. For a full walkthrough of this page, please see our Projects Tab: An Introduction Article. *(coming soon)*
-
--   Click on 'Add New Project' on the right side.
+<br>
+#### Click on 'Add New Project' on the right side.
 
 ![](https://github.com/mrets/photos/blob/master/new_generator2.png?raw=true)
-
--   Give your generator a name and click 'Create Project'. You can change the name later in the process.
+<br>
+#### Give your generator a name and click 'Create Project'. You can change the name later in the process.
 
 ![](https://github.com/mrets/photos/blob/master/new_generator3.png?raw=true)
 
@@ -35,8 +36,8 @@ The System Administrator will try and approve projects submitted with all the re
 
 The most common mistake is people not sure whether their generator is unit specific, it should be unless you are registering an aggregated generator. 
 
-Uploading Supporting Documents
-------------------------------
+## Uploading Supporting Documents
+
 
 1.  You can find required documentation by the link [HERE](https://www.mrets.org/resources/documents/)
 
@@ -49,9 +50,9 @@ Uploading Supporting Documents
 Use the Documents tab interface to upload documents. By clicking the blue "Upload Document" a local search function can be accessed. 
 
 ![](https://github.com/mrets/photos/blob/master/new_generator4.png?raw=true)
+<br>
+## Submission and Review
 
-Submission and Review
----------------------
 
 #### PLEASE NOTE: Your generator must be submitted or it will not be accepted.
 
