@@ -140,7 +140,8 @@ It is rate regulated and authorized to achieve an allowed rate of return. |
 | **Assignment of Registration Rights** | If your Organization does not own the generator, you will need to complete and attach a [Schedule A](https://www.mrets.org/wp-content/uploads/2017/12/MRETS-Schedule-A-Modified-12-28-2017.pdf "https://www.mrets.org/wp-content/uploads/2017/12/MRETS-Schedule-A-Modified-12-28-2017.pdf") form. The Schedule A form is an attestation that your Organization holds the rights to the Certificates. |
 | Court/Regulator Assignment of Rights | Did a court assign the rights of this project |
 ### Engineering
-| *Class and Fuel Type* |
+
+| *Class and Fuel Type* ||
 |---|---|
 | Fuel Type & Fuel Source(s) |  |
 | Is generation reporting unit-specific? |   |
@@ -178,7 +179,7 @@ It is rate regulated and authorized to achieve an allowed rate of return. |
 | Iowa Eligibility | Is this Generator Certified by the IUB for the [Iowa RPS](https://www.legis.iowa.gov/docs/code/476.41.pdf)? |
 | Iowa AEP Eligibility | Is this Generator Certified by the IUB for the AEP Program? | 
 | Iowa Voluntary Green Eligibility | Does this Generator meet the reqiurements/certification standards for the IA Voluntary Green Program?|
-| Manitoba Eligibility | Does this Generator meet the requirements for [Manitoba] (https://www.gov.mb.ca/asset_library/en/climatechange/climategreenplandiscussionpaper.pdf)?|
+| Manitoba Eligibility | Does this Generator meet the requirements for [Manitoba](https://www.gov.mb.ca/asset_library/en/climatechange/climategreenplandiscussionpaper.pdf)?|
 | Minnesota Eligibility | Does this Generator meet the [Minnesota RPS Reqiurements](https://www.revisor.mn.gov/statutes/cite/216B.2422)? |
 | Minnesota SES Small Solar Eligibility | Does this Generator meet the Minnesota Small Solar Eligibility Requirements? |
 | Montana Eligibility | Is this Generator Certified by the State of [Montana for the RPS](https://leg.mt.gov/bills/mca/title_0690/chapter_0030/part_0200/sections_index.html)? |
