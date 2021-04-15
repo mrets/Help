@@ -12,7 +12,9 @@ The following information will guide you through the steps necessary to register
 ## Review Registry Operating Documents
 
 The Registry Operating Procedures detail the requirements and definitions of different types projects. The Operating Procedures are available [here](http://www.mrets.org/resources/documents/). If you have not yet registered an M-RETS Organization, visit our Organization registration page [here.](http://app.mrets.org/register)
+
 <br>
+
 ### Register a Generator/Project
 
 
@@ -20,8 +22,10 @@ The Registry Operating Procedures detail the requirements and definitions of dif
 
 ![](https://github.com/mrets/photos/blob/master/new_generator1.png?raw=true)
 
-You will now see any Active generators in your Organization. For a full walkthrough of this page, please see our Projects Tab: An Introduction Article. *(coming soon)*
+You will now see any Active generators in your Organization.
+
 <br>
+
 #### Click on 'Add New Project' on the right side.
 
 ![](https://github.com/mrets/photos/blob/master/new_generator2.png?raw=true)
@@ -52,7 +56,9 @@ The most common mistake is people not sure whether their generator is unit speci
 Use the Documents tab interface to upload documents. By clicking the blue "Upload Document" a local search function can be accessed. 
 
 ![](https://github.com/mrets/photos/blob/master/new_generator4.png?raw=true)
+
 <br>
+
 ## Submission and Review
 
 
