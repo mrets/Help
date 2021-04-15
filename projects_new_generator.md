@@ -73,6 +73,7 @@ The M-RETS Administrator will then be notified of the New Asset Registration via
 ## Static Data Field Information
 
 | General |
+|--------------|----------------------------|
 | General Information |
 | Unit Name | Generator Name |
 | Facility Name |   |
@@ -161,4 +162,7 @@ It is rate regulated and authorized to achieve an allowed rate of return. |
 | Hydro 3-year average | 3-year hydro average value |
 | Approved as a WI displacement facility? |   |
 | Program Eligibility (See Appendix for detail) |   |
+
+<br>
+
 [Back](https://mrets.github.io/Help/index)
