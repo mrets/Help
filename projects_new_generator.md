@@ -75,8 +75,9 @@ The M-RETS Administrator will then be notified of the New Asset Registration via
 Required fields are in **BOLD**
 
 ### General
+
+| *General Information* ||
 |---|---|
-| *General Information* |
 | **Unit Name** | Generator Name |
 | **Facility Name** |   |
 | WI RRC Unit ID |   |
@@ -86,7 +87,9 @@ Required fields are in **BOLD**
 | **Reporting Entity** | Who will be uploading MWh generation for this Generator? |
 | Reporting Unit ID | What is the Reporting Unit of the Generator |
 | **Issuance Account** | This is the account to which all newly issued RECs will be deposited into. |
-| *Location* |
+### Location
+| *Location Information* ||
+|---|---|
 | **County** | Physical county/munisipality where generator is located |
 | **State/Province** | State or Province where generator is located |
 | **Country** | Physical country where generator is located |
