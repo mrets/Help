@@ -2,8 +2,6 @@
 
 # Email Notifications
 
-Learn how to add or remove email notifications as a user
-
 E-mail notifications are set to "No" by default. This default setting is to prevent unwanted email notifications. Therefore, each user must turn on email notifications by accessing the M-RETS platform. 
 
 ## 1. Click on Organization Info in the drop down in the upper right corner:
@@ -12,18 +10,22 @@ E-mail notifications are set to "No" by default. This default setting is to prev
 
 <br>
 
-## 2. Click on Users in the interface and then Edit User
+## 2. Click on the Users tab.
 
-![](https://github.com/mrets/photos/blob/master/billing_email_notifications2.png?raw=true)
+![](https://github.com/mrets/photos/blob/master/billing_email_notificationsUPDATED1.png?raw=true)
 
 <br>
 
-## 3. Scroll down and locate the Organization & User Notifications Module
+## 3. Locate the User you would like to update and click "Edit User".
 
-![](https://github.com/mrets/photos/blob/master/billing_email_notifications3.png?raw=true)
+![](https://github.com/mrets/photos/blob/master/billing_email_notificationsUPDATED2.png?raw=true)
 
-If you want email notifications make sure the box is checked next to the Yes
+<br>
 
-If you do not want email notifications make sure the box is checked No
+## 4. Scroll down and locate the Organization & User Notifications Module
+
+![](https://github.com/mrets/photos/blob/master/billing_email_notificationsUPDATED3.png?raw=true)
+
+### Select your notification preferences. You will receive emails even if another user triggers an email. For example, if another user submits a transfer, you will receive an email if your "Transfer" notifications are set to On.
 
 [Back](https://mrets.github.io/Help/index)
