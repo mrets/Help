@@ -30,6 +30,8 @@ Available options to select when retiring RECs
 
 ### [Exporting RECs](https://mrets.github.io/Help/certificates_exporting_certifcates)
 
+<br>
+
 ## Transactions
 
 ### [Transfer to Multiple Active Accounts](https://mrets.github.io/Help/transactions_transfer_to_multiple)
@@ -41,6 +43,8 @@ Automatic Recurring Transfers (ARTs) are now available. Here's how to use them! 
 ### [Withdrawing/Accepting/Rejecting Transfers](https://mrets.github.io/Help/transactions_withdrawing_accepting_rejecting_transfers)
 This article explains how to withdraw, accept, and reject a transfer
 
+<br>
+
 ## Hourly Data
 
 ### [View Hourly Data Reports](https://mrets.github.io/Help/hourly_reporting)
@@ -49,10 +53,14 @@ How to view multiple hourly data values.
 ### [Make an Hourly Claim](https://mrets.github.io/Help/hourly_data_make_an_hourly_claim)
 M-RETS is proud to be the first tracking system that allows Hourly Claims.
 
+<br>
+
 ## Accounts
 
 ### [Add Active or Retirement Account](https://mrets.github.io/Help/add_account)
 This article describes how to add an active or retirement account to your organization
+
+<br>
 
 ## Projects
 
@@ -61,6 +69,8 @@ Learn how to register a new generator or project in M-RETS.
 
 ### [Transferring or Reassigning Generators/Projects](https://mrets.github.io/Help/projects_transferring_generator)
 This article will detail how a transfer or reassign of generator/project is completed.
+
+<br>
 
 ## Generation
 
@@ -75,6 +85,8 @@ What to do if you get a feasibility analysis failure upon upload
 
 ### [Generation Upload Data Format](https://mrets.github.io/Help/generation_upload_format)
 
+<br>
+
 ## Programs
 
 ### [Adding a Program](https://mrets.github.io/Help/program_adding_program)
@@ -83,11 +95,15 @@ This article will describe the basics of Programs
 ### [Participating in a Program](https://mrets.github.io/Help/program_participating_programs)
 A Guide to Participating in Compliance or Voluntary Programs
 
+<br>
+
 ## Markets
 
 ### [Participate in a Market](https://mrets.github.io/Help/markets_participating)
 
 ### [Adding Certificates to a Market](https://mrets.github.io/Help/markets_certificates)
+
+<br>
 
 ## Billing
 
@@ -104,10 +120,14 @@ Learn how to add or remove email notifications as a user
 
 ### [View the Status of Current and Past Invoices](https://mrets.github.io/Help/billing_viewing_invoices)
 
+<br>
+
 # Invoices
 
 ### [Invoices](https://mrets.github.io/Help/invoices)
 Where might I find my invoice in the tracking system?
+
+<br>
 
 # Compliance
 Learn more about how RECs are used for compliance.
@@ -120,6 +140,8 @@ Wisconsin Compliance Assistance - Link to PSC Website
 
 ### [Minnesota Compliance Training](https://mrets.github.io/Help/compliance_mn_compliance)
 Assistance with Completing Minnesota RPS and Green Pricing Retirements in M-RETS
+
+<br>
 
 # Platform Documents
 Terms of Use, Privacy Policy, and other legal documents
