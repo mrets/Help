@@ -6,7 +6,7 @@ E-mail notifications are set to "No" by default. This default setting is to prev
 
 ## 1. Click on Organization Info in the drop down in the upper right corner:
 
-![](https://github.com/mrets/photos/blob/master/billing_email_notifications1.png?raw=true)
+![](https://github.com/mrets/photos/blob/master/billing_email_notificationsUPDATED7.png?raw=true)
 
 <br>
 
