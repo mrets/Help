@@ -4,15 +4,25 @@ This list contains help guides for the M-RETS, broken down by sidebar categories
 
 ### [Enrolling in Multifactor Authentication (MFA)](https://mrets.github.io/Help/mfa_setup)
 
-### [Exporting From ERCOT to M-RETS](https://mrets.github.io/Help/ercot)
-This article will walk through the process of exporting from ERCOT to M-RETS
+<br>
 
-### [Annual Project Review Process](https://mrets.github.io/Help/annual_project_review)
-Please reference this walk through for the Annual Review Process. This will describe the process to review and update your projects.
+### [Exporting From ERCOT to M-RETS](https://mrets.github.io/Help/ercot)
+
+
+<br>
+
+
+### [Annual Generator Review Process](https://mrets.github.io/Help/annual_project_review)
+
+
+<br>
+
 
 ### [Filtering and Downloading Tables](https://mrets.github.io/Help/filtering_tables)
 
-How to filter and manipulate data across the data display and report interface
+
+<br>
+
 
 ## Certificates
 
