@@ -31,6 +31,10 @@ Available options to select when retiring Certificates
 
 ### State/Provincial Portfolio Standard
 
--   **M-RETS Uses**: State-Regulated Utility RenewablePortfolio Standard/Provincial Utility Portfolio Standard (RPS)retirements 
+-   **M-RETS Uses**: State/Provincial-Regulated Utility Renewable Portfolio Standard (RPS). 
 
- For more information on the process to transfer Certificates into a Retirement Account, visit our Instruction for Transferring M-RETS Certificates.
+### Other - Non-RPS Compliance
+
+-   **M-RETS Uses**: Any compliance program that is not related to a Renewable Portfolio Standard (RPS).
+
+For more information on the process to transfer Certificates into a Retirement Account, visit our Instruction for Transferring M-RETS Certificates.
