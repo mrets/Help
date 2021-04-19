@@ -1,6 +1,6 @@
-# Certificate Retirement Types
+# Certificate Retirement Types/Reasons
 
-Available options to select when retiring Certificates
+Every M-RETS retirement requires a Type and Reason. If you feel these reasons do not properly describe your retirement, please email us at <systemadmin@mrets.org>.
 
 ## Voluntary Retirement Types
 
