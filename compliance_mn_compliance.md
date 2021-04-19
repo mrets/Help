@@ -21,7 +21,7 @@ Issued: April 2, 2020
 
 All utilities subject to [Minn. Stat. §216B.1691](https://www.revisor.mn.gov/statutes/?id=216b.1691), as well as those with Green Pricing Programs, must retire Renewable Energy Credits (RECs) and  file annual verification reports for the Renewable Energy Standards (RES), Solar Energy Standards, and Green Pricing Programs. These may be addressed by completing the information requested in the spreadsheet and filing it no later than **June 1, 2021**. The spreadsheet may be found here:
 
-[**Filing Template (.xlsx)**](http://mn.gov/commerce-stat/xls/mn-rec-gp-report.xlsx)
+[**Filing Template (.xlsx)**](http://mn.gov/commerce-stat/xls/2020-ses-res-reporting-spreadsheet.xlsx)
 
 **For the 2020 compliance year, RECs must be retired by May 1, 2021.**
 
