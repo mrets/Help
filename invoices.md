@@ -1,6 +1,6 @@
-# Invoices
+[Back](https://mrets.github.io/Help/index)
 
-Where might I find my invoice in the tracking system?
+# Invoices
 
 M-RET's invoices are now emailed directly from M-RETS' accounting software (QuickBooksOnline).  Invoices are sent out once per month, usually within the first two weeks.  
 
@@ -15,13 +15,16 @@ Subscription invoices are sent out annually. Transaction history is available in
 You can find the detail in your account on-line.\
 If you have management credentials in your account(s) in M-RETS, you can log in to view invoice detail and update the billing information.
 
+<br>
+
 ### How do I update the billing information to view and receive invoices?
 
 
 When you log into your account, update your "user" credentials to include "manage" for billing in "organization info." Go to the Billing tab and update the billing contact information. That will then transfer over to our billing software, Quick Books Online. You can only see and edit the billing information if you update your user credentials for billing. After you update, the invoices will go to the correct email moving forward.
 
-### Where do I submit payment?
+<br>
 
+### Where do I submit payment?
 
 Invoice Payment Instructions:
 
@@ -44,3 +47,5 @@ Minneapolis, MN 55402\
 *(Remittance Address and Routing Number can be found on the invoice)*
 
 If you have a question about invoices or if you need more information to update your billing contact details, don't hesitate to contact <tanya@mrets.org> or Tanya Gajewska at 651-789-3327.
+
+[Back](https://mrets.github.io/Help/index)
