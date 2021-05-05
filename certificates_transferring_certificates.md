@@ -38,7 +38,7 @@ What if I want to transfer a portion of a vintage? Simply click in the fields un
 
 <br>
 
-![](https://github.com/mrets/photos/blob/master/transferring_certificates5.png?raw=true)
+![](https://github.com/mrets/photos/blob/master/transferring_certificates5b.png?raw=true)
 
 -   You will then see a confirmation screen with an option to download Transaction History document.
 
