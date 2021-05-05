@@ -1,28 +1,28 @@
-Transferring Certificates
-=========================
+# Transferring Certificates
 
 How to Transfer a Certificate
 
-M-RETS users may transfer active Certificates to:
--------------------------------------------------
+## M-RETS users may transfer active Certificates to:
 
 1.  Another organization
 2.  Other active account(s)
 3.  To a compatible tracking system
 
- How Do I Transfer Certificates?
---------------------------------
+<br>
 
--   Select the batch(es) of Certificates you wish to transfer from the Active tab in the RECs section, then select "Transfer". For this example, I have selected two vintages totaling 7,200 Certificates.
+## How Do I Transfer Certificates?
 
-![](https://github.com/mrets/photos/blob/master/transferring_certificates1.png?raw=true)
+-   Select the batch(es) of Certificates you wish to transfer from the Active tab in the RECs section, then select "Transfer". For this example, I have selected two vintages totaling 5,175 Certificates.
+
+![](https://github.com/mrets/photos/blob/master/transferring_certificates1b.png?raw=true)
 
 -   Select where you would like to transfer these Certificates. For this example, I chose "Another Wind Account".
 
 ![](https://github.com/mrets/photos/blob/master/transferring_certificates2.png?raw=true)
 
-BUT WAIT!
----------
+<br>
+
+## BUT WAIT!
 
 What if I want to transfer a portion of a vintage? Simply click on the button labelled "View or Edit Details".
 
