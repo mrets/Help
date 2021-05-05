@@ -16,9 +16,11 @@ How to Transfer a Certificate
 
 ![](https://github.com/mrets/photos/blob/master/transferring_certificates1b.png?raw=true)
 
+<br>
+
 -   Select where you would like to transfer these Certificates. For this example, I chose "Another Wind Account".
 
-![](https://github.com/mrets/photos/blob/master/transferring_certificates2.png?raw=true)
+![](https://github.com/mrets/photos/blob/master/transferring_certificates2b.png?raw=true)
 
 <br>
 
@@ -28,14 +30,20 @@ What if I want to transfer a portion of a vintage? Simply click on the button la
 
 ![](https://github.com/mrets/photos/blob/master/transferring_certificates3.png?raw=true)
 
+<br>
+
 -   I agreed to transfer 50% of my vintages, so I will divide my vintage totals in half. After doing so, you can see my Total Active RECs has been reduced to 3,600.
 
 ![](https://github.com/mrets/photos/blob/master/transferring_certificates4.png?raw=true)
 
 -   Review your selections for accuracy, then select "Complete Transfer".
 
+<br>
+
 ![](https://github.com/mrets/photos/blob/master/transferring_certificates5.png?raw=true)
 
 -   You will then see a confirmation screen with an option to download Transaction History document.
+
+<br>
 
 ![](https://github.com/mrets/photos/blob/master/transferring_certificates5.png?raw=true)
