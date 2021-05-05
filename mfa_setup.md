@@ -1,3 +1,5 @@
+[Back](https://mrets.github.io/Help/index)
+
 # Enrolling in Multifactor Authentication (MFA)
 
 M-RETS is improving our security for Users and Organizations by implementing Multi-Factor Authentication (MFA). This feature will be available to all users. Multi-factor authentication (MFA) works by combining "something you know" (i.e., your credentials) with "something you have" (i.e., a time-based one-time password retrieved via a trusted mobile device) to gain access to a system.
@@ -43,3 +45,5 @@ Multi-factor authentication has rapidly become a security best practice, and we 
 <br>
 
 ### Scroll to the bottom of your User Profile and click 'Save'. You will be automatically logged out and will be asked for a code on your next login.
+
+[Back](https://mrets.github.io/Help/index)
