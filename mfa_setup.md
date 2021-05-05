@@ -10,19 +10,19 @@ Multi-factor authentication has rapidly become a security best practice, and we 
 
 [Authy App in Play Store](https://play.google.com/store/apps/details?id=com.authy.authy&hl=en_US)
 
-# How to Turn On Multifactor Authentication (MFA)
+## How to Turn On Multifactor Authentication (MFA)
 
-1. Once logged in, click on your name in the upper corner. Then, click 'Profile'.
+### Once logged in, click on your name in the upper corner. Then, click 'Profile'.
 
 ![](https://github.com/mrets/photos/blob/master/MFA_setup1.png?raw=true)
 
-2. You will notice the new MFA field under your profile. Click on 'Edit'. Then, click on 'Update 2FA Settings'
+### You will notice the new MFA field under your profile. Click on 'Edit'. Then, click on 'Update 2FA Settings'
 
 ![](https://github.com/mrets/photos/blob/master/MFA_setup2.png?raw=true)
 
 ![](https://github.com/mrets/photos/blob/master/MFA_setup3.png?raw=true)
 
-3. Now, you will choose an MFA setting. They are as follows: 
+### Now, you will choose an MFA setting. They are as follows: 
 
 * Disabled. Do not require a verification code.
 * Every login. Always ask for verification code.
@@ -30,9 +30,9 @@ Multi-factor authentication has rapidly become a security best practice, and we 
 
 ![](https://github.com/mrets/photos/blob/master/Screen%20Shot%202020-09-21%20at%201.28.52%20PM.png?raw=true)
 
-4. Enter your phone number and click save. If you have previously installed the Authy app on your phone, you will see M-RETS automatically added you your account.
+### Enter your phone number and click save. If you have previously installed the Authy app on your phone, you will see M-RETS automatically added you your account.
 
 ![](https://github.com/mrets/photos/blob/master/MFA_Authy.png?raw=true)
 
-5. Scroll to the bottom of your User Profile and click 'Save'. You will be automatically logged out and will be asked for a code on your next login.
+### Scroll to the bottom of your User Profile and click 'Save'. You will be automatically logged out and will be asked for a code on your next login.
 
