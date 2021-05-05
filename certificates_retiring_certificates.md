@@ -26,21 +26,30 @@ To retire RECs, follow this process.
 
 ![](https://github.com/mrets/photos/blob/master/retiring_certificates4.png?raw=true)
 
--   Next, I will select a Retirement Account to deposit the retired RECs. For this example, I have selected "Retirement account 1". 
+<br>
 
-NOTE: You will not be able to change Retirement Accounts after the retirement. Be sure to select the correct Account.
----------------------------------------------------------------------------------------------------------------------
+### Next, I will select a Retirement Account to deposit the retired RECs. For this example, I have selected "Retirement account 1". 
+
+<br>
+
+***NOTE: You will not be able to change Retirement Accounts after the retirement. Be sure to select the correct Account.***
+
+<br>
 
 ![](https://github.com/mrets/photos/blob/master/retiring_certificates5.png?raw=true)
 
--   Click Review Retirement.
+### Click Review Retirement.
 
 ![](https://github.com/mrets/photos/blob/master/retiring_certificates6.png?raw=true)
 
--   Carefully examine your retirement details for accuracy. If everything looks correct, select "Complete Retirement."
+<br>
+
+### Carefully examine your retirement details for accuracy. If everything looks correct, select "Complete Retirement."
 
 ![](https://github.com/mrets/photos/blob/master/retiring_certificates7.png?raw=true)
 
--   Upon completion, you will see a confirmation screen that your retirement was successful. Here you can also select "View Transaction History" to download a retirement record document.
+<br>
+
+### Upon completion, you will see a confirmation screen that your retirement was successful. Here you can also select "View Transaction History" to download a retirement record document.
 
 ![](https://github.com/mrets/photos/blob/master/retiring_certificates8.png?raw=true)
