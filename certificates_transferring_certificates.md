@@ -34,7 +34,7 @@ What if I want to transfer a portion of a vintage? Simply click on the button la
 
 -   I agreed to transfer 50% of my vintages, so I will divide my vintage totals in half. After doing so, you can see my Total Active RECs has been reduced to 3,600.
 
-![](https://github.com/mrets/photos/blob/master/transferring_certificates4.png?raw=true)
+![](https://github.com/mrets/photos/blob/master/transferring_certificates4b.png?raw=true)
 
 -   Review your selections for accuracy, then select "Complete Transfer".
 
