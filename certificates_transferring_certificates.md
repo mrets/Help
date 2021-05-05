@@ -26,13 +26,11 @@ How to Transfer a Certificate
 
 ## BUT WAIT!
 
-What if I want to transfer a portion of a vintage? Simply click on the button labelled "View or Edit Details".
-
-![](https://github.com/mrets/photos/blob/master/transferring_certificates3.png?raw=true)
+What if I want to transfer a portion of a vintage? Simply click in the fields under "Quantity (RECs)"
 
 <br>
 
--   I agreed to transfer 50% of my vintages, so I will divide my vintage totals in half. After doing so, you can see my Total Active RECs has been reduced to 3,600.
+-   I agreed to transfer 50% of my vintages, so I will divide my vintage totals in half. After doing so, you can see my Total Active RECs has been reduced to 2,587.
 
 ![](https://github.com/mrets/photos/blob/master/transferring_certificates4b.png?raw=true)
 
@@ -46,4 +44,4 @@ What if I want to transfer a portion of a vintage? Simply click on the button la
 
 <br>
 
-![](https://github.com/mrets/photos/blob/master/transferring_certificates5.png?raw=true)
+![](https://github.com/mrets/photos/blob/master/transferring_certificates6.png?raw=true)
