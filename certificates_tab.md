@@ -6,7 +6,7 @@ In this article we are going to look at an overview of the RECs tab. I will atte
 
 Your RECs view should look something like this. ***Please note, your tabs on the left may vary.***
 
-![](https://github.com/mrets/photos/blob/master/certificates_tab1.png?raw=true)
+![](https://github.com/mrets/photos/blob/master/certificates_tab1b.png?raw=true)
 
 Let's start at the top!
 
