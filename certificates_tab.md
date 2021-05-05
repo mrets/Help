@@ -14,6 +14,8 @@ Let's start at the top!
 
 ## The Top
 
+<img align="center" width="320" height="240" src="https://github.com/mrets/photos/blob/master/certificates_tab2.png?raw=true">
+
 ![](https://github.com/mrets/photos/blob/master/certificates_tab2.png?raw=true)
 
 You will see options to change from 'Active' to 'Retired'. Below these buttons, you will see the total corresponding RECs under each status. Which brings us to...
