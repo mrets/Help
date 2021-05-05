@@ -4,7 +4,7 @@ Welcome to the M-RETS! Come in! Make yourself at home, but please take off your 
 
 In this article we are going to look at an overview of the RECs tab. I will attempt to cover all of the basics you need to know to use the RECS tab. 
 
-Your RECs view should look something like this. ***Please note, your tabs on the left may vary. ***
+Your RECs view should look something like this. ***Please note, your tabs on the left may vary.***
 
 ![](https://github.com/mrets/photos/blob/master/certificates_tab1.png?raw=true)
 
