@@ -12,7 +12,6 @@ If you prefer a different layout of columns, then click on the header and drag i
 
 ![](https://github.com/mrets/photos/blob/master/filtering_tables1.gif?raw=true)
 
-<p style="text-align:center;"><img src="https://github.com/mrets/photos/blob/master/filtering_tables1.gif?raw=true" alt="REarranging Columns"></p>
 <br>
 
 ## The Table: Filtering
