@@ -1,5 +1,4 @@
-RECs Tab: An Introduction
-=========================
+# RECs Tab: An Introduction
 
 Welcome to the M-RETS! Come in! Make yourself at home, but please take off your shoes.
 
@@ -11,15 +10,17 @@ Your RECs view should look something like this. ***Please note, your tabs on the
 
 Let's start at the top!
 
-The Top
--------
+<br>
+
+## The Top
 
 ![](https://github.com/mrets/photos/blob/master/certificates_tab2.png?raw=true)
 
 You will see options to change from 'Active' to 'Retired'. Below these buttons, you will see the total corresponding RECs under each status. Which brings us to...
 
-The Table
----------
+<br>
+
+## The Table
 
 The main source of data is the RECs table. In the table you will notice the following columns by default:
 
@@ -34,33 +35,41 @@ The main source of data is the RECs table. In the table you will notice the foll
 -   Quantity: The number of RECs issued
 -   RRC Adjusted Quantity:  This is specific to the Wisconsin RRC program. Not sure what the Wisconsin RRC program is? Then this most likely can be ignored.
 
-The Table: Rearranging Columns
-------------------------------
+<br>
+
+## The Table: Rearranging Columns
 
 If you prefer a different layout of columns, then click on the header and drag it to a new location. 
 
 ![](https://github.com/mrets/photos/blob/master/certificates_tab3.gif?raw=true)
 
-The Table: Filtering
---------------------
+<br>
+
+## The Table: Filtering
 
 You probably noticed the buttons labelled 'Filter...' near the top of the columns. This feature is for limiting what is shown in the column. Example: If I only wanted to see my solar RECs, I would click on the filter under 'Fuel Type' and select 'Solar'.
 
-Settings: The Gear
-------------------
+<br>
+
+## Settings: The Gear
 
 Don't want to see all of these columns? No problem! Click on the gear icon.
 
 ![](https://github.com/mrets/photos/blob/master/certificates_tab4.png?raw=true)
 
+<br>
+
 You should see the following window:
 
 ![](https://github.com/mrets/photos/blob/master/certificates_tab5.png?raw=true)
 
+<br>
+
 Un-check any columns that you do not want included in the table.
 
-Downloading your RECs: The Arrow
---------------------------------
+<br>
+
+## Downloading your RECs: The Arrow
 
 Do you need to download your RECs? Maybe send them to colleague? Just click on this icon:
 
