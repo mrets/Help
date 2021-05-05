@@ -61,7 +61,7 @@ Don't want to see all of these columns? No problem! Click on the gear icon.
 
 You should see the following window:
 
-![](https://github.com/mrets/photos/blob/master/certificates_tab5.png?raw=true)
+![](https://github.com/mrets/photos/blob/master/certificates_tab5b.png?raw=true)
 
 <br>
 
