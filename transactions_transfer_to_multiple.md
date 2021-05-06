@@ -4,9 +4,15 @@
 
 Learn how to transfer a batch of RECs to multiple active accounts
 
-### Getting Started
+## Getting Started
 
-To utilize this feature, simply select the RECs for transfer as you normally would, hit "Transfer", and on the next screen you'll now see a new option "to multiple active accounts". This new features supports unlimited transfer accounts and intelligent distribuation of remainder RECs.
+<br>
+
+### Select the RECs for transfer as you normally would and click "Transfer".
+
+![](https://github.com/mrets/photos/blob/master/transfer_to_multiple1b.png?raw=true)
+
+and on the next screen you'll now see a new option "to multiple active accounts". This new features supports unlimited transfer accounts and intelligent distribuation of remainder RECs.
 
 *In the "Transfer" screen make sure you select "to multiple active accounts" as seen in 1.1. Your screen should now look similar to 1.2.*
 
