@@ -28,13 +28,9 @@ Select your accounts. For this example, I am splitting the Certificates between 
 
 <br>
 
-**3\. Amounts**
+### Enter an percentage allotment for each selected Account. The percentages must total 100%. For this example, I am splitting this batch evenly with a 1 Certificate remainder. 
 
-Enter the amounts you would like to transfer to each account
-
-![](https://github.com/mrets/photos/blob/master/transfer_to_multiple4.png?raw=true)
-
-![](https://github.com/mrets/photos/blob/master/transfer_to_multiple5.png?raw=true)
+![](https://github.com/mrets/photos/blob/master/transfer_to_multiple4b.png?raw=true)
 
 <br>
 
