@@ -20,23 +20,11 @@ Learn how to transfer a batch of RECs to multiple active accounts
 
 <br>
 
-**1.1**
+### Click the drop-down under "Select the account you would like these RECs to be transferred to."
 
-![](https://github.com/mrets/photos/blob/master/transfer_to_multiple1.png?raw=true)
+Select your accounts. For this example, I am splitting the Certificates between three Accounts.
 
-<br>
-
-**1.2**
-
-![](https://github.com/mrets/photos/blob/master/transfer_to_multiple2.png?raw=true)
-
-<br>
-
-**2\. Selecting Accounts **
-
-Select the multiple accounts you would like to transfer to by clicking on the "Account" module.
-
-![](https://github.com/mrets/photos/blob/master/transfer_to_multiple3.png?raw=true)
+![](https://github.com/mrets/photos/blob/master/transfer_to_multiple3b.png?raw=true)
 
 <br>
 
