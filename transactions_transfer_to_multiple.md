@@ -4,9 +4,9 @@
 
 Learn how to transfer a batch of RECs to multiple active accounts
 
-## Getting Started
-
 <br>
+
+## Getting Started
 
 ### Select the RECs for transfer as you normally would and click "Transfer".
 
