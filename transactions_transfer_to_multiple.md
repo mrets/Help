@@ -46,8 +46,8 @@ In this example, I chose a different batch of Certificates to show a remainder.
 
 <br>
 
-### Select "Review Transfer" and review your transfer. If everything looks correct, click 
+### Select "Review Transfer" and review your transfer. If everything looks correct, click "Complete Transfer".
 
-![](https://github.com/mrets/photos/blob/master/transfer_to_multiple7.png?raw=true)
+![](https://github.com/mrets/photos/blob/master/transfer_to_multiple7b.png?raw=true)
 
 [Back](https://mrets.github.io/Help/index)
