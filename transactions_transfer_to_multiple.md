@@ -38,16 +38,15 @@ Select your accounts. For this example, I am splitting the Certificates between 
 
 <br>
 
-**4\. Selecting Transfer Priority**
+### You can cre-order the list of Accounts if you need to change the placement of remainder Certificates.
 
-Drag and drop account rows to swap priority. You can do this by hovering over the lines and your cursor should allow you to move rows higher or lower which will reflect the priority of the transfers. Notice that in the image in Section 3 above the Default Active account was listed as second but it is now first and will receive the +1 remainder. 
+In this example, I chose a different batch of Certificates to show a remainder.
 
-![](https://github.com/mrets/photos/blob/master/transfer_to_multiple6.png?raw=true)
+![](https://github.com/mrets/photos/blob/master/transfer_to_multiple6b.png?raw=true)
 
 <br>
 
-**5\. Complete Transfer**\
-Once you select "Review Transfer" you will be taken to the next screen that will allow you to complete the transfer by selecting "Complete Transfer" or "Go Back" and make changes. Once you select "Complete Transfer" the Transaction will be completed in the system. 
+### Select "Review Transfer" and review your transfer. If everything looks correct, click 
 
 ![](https://github.com/mrets/photos/blob/master/transfer_to_multiple7.png?raw=true)
 
