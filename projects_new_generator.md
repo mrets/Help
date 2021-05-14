@@ -87,6 +87,9 @@ Required fields are in **BOLD**
 | **Reporting Entity** | Who will be uploading MWh generation for this Generator? |
 | Reporting Unit ID | What is the Reporting Unit of the Generator |
 | **Issuance Account** | This is the account to which all newly issued RECs will be deposited into. |
+
+<br>
+
 ### Location
 | *Location Information* ||
 |---|---|
@@ -96,6 +99,9 @@ Required fields are in **BOLD**
 | Latitude | Exact location of project |
 | Longitude | Exact location of project |
 | Facility Photo | |
+
+<br>
+
 ### Owner
 | *General Ownership Information* ||
 |---|---|
@@ -117,6 +123,9 @@ Required fields are in **BOLD**
 | Mailing Country | Contact information of owner referenced above |
 | Publish contact information? |   |
 | *Ownership Type and Registration Rights* |   |
+
+<br>
+
 | **Ownership Type(s)** |
 | Electric Service Provider |   |
 | Federal Marketer/Power Administrator |   |
@@ -139,6 +148,9 @@ It is rate regulated and authorized to achieve an allowed rate of return. |
 | Is the owner a WI electricity retailer? | Is the Generator owner a Wisconsin Retail Electric Provider |
 | **Assignment of Registration Rights** | If your Organization does not own the generator, you will need to complete and attach a [Schedule A](https://www.mrets.org/wp-content/uploads/2017/12/MRETS-Schedule-A-Modified-12-28-2017.pdf "https://www.mrets.org/wp-content/uploads/2017/12/MRETS-Schedule-A-Modified-12-28-2017.pdf") form. The Schedule A form is an attestation that your Organization holds the rights to the Certificates. |
 | Court/Regulator Assignment of Rights | Did a court assign the rights of this project |
+
+<br>
+
 ### Engineering
 
 | *Class and Fuel Type* ||
@@ -165,6 +177,8 @@ It is rate regulated and authorized to achieve an allowed rate of return. |
 | Approved to report 3-year hydro average? | Does this Generator use a 3-year hydro average specific to the Wisconsin Program |
 | Hydro 3-year average | 3-year hydro average value |
 | Approved as a WI displacement facility? |   |
+
+<br>
 
 ### Program Eligibility
 
