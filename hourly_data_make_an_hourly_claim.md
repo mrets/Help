@@ -17,7 +17,6 @@ M-RETS developed a process to provide for the first hourly REC retirement in a p
 
 
 <br>
-</br>
   
 ### 1.  Click on your Certificates Tab.
 
@@ -26,7 +25,6 @@ M-RETS developed a process to provide for the first hourly REC retirement in a p
 </p>
 
 <br>
-</br>
   
 ### 2.  M-RETS added a column for Hourly Claimable Certificates. To show this column, click on the gear icon in the upper-right corner of your table.
 
@@ -35,7 +33,6 @@ M-RETS developed a process to provide for the first hourly REC retirement in a p
 </p>
 
 <br>
-</br>
   
 ### 3.  Click the checkbox next to "Hourly Claimable?". Then, click Save.
 
@@ -43,7 +40,6 @@ M-RETS developed a process to provide for the first hourly REC retirement in a p
   <img src="https://github.com/mrets/photos/blob/master/Hourly_Claim_2.png?raw=true">
 </p>
 <br>
-</br>
   
 ### 4.  Scroll over to the "Hourly Claimable?" column and click the "Filter..." button. Filter by "Yes".
 
@@ -52,12 +48,10 @@ M-RETS developed a process to provide for the first hourly REC retirement in a p
 </p>
 
 <br>
-</br>
   
 ### 5.  Select the Certificates you would like to use for your hourly claim. Then, click the "Retire" button in the upper-right corner of your table.
 
 <br>
-</br>
   
 ### 6.  You will now see a new feature in the retirement process. Click on "Hourly Claim?". If you are not able to click the button, your selected Certificates are ineligible for an Hourly Claim.
 
@@ -66,7 +60,6 @@ M-RETS developed a process to provide for the first hourly REC retirement in a p
 </p>
 
 <br>
-</br>
   
 ### 7.  You will not be able to edit your Certificate quantity after clicking "Hourly Claim?". Likewise, if you have made edits to your Certificate quantity before clicking "Hourly Claim?", your Certificate quantity will default back to the full amount.
 
@@ -75,11 +68,9 @@ M-RETS developed a process to provide for the first hourly REC retirement in a p
 </p>
 
 <br>
-</br>
   
 ### 8.  Enter the rest of your retirement details and click "Review Retirement".
 <br>
-</br>
   
 ### 9.  You may view and download your hourly generation by clicking “Hourly Claim Data”. Here are a few important things to know:
 
