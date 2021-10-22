@@ -15,7 +15,7 @@ The Registry Operating Procedures detail the requirements and definitions of dif
 
 <br>
 
-### Register a Generator/Project
+### Register a Generator
 
 
 #### After logging in, click on the 'Generators' tab on the left.
@@ -26,21 +26,17 @@ You will now see any Active generators in your Organization.
 
 <br>
 
-#### Click on 'Add New Project' on the right side.
+#### Click on 'Add New Generator' on the right side.
 
 ![](https://github.com/mrets/photos/blob/master/new_generator2b.png?raw=true)
 
 <br>
 
-#### Give your generator a name and click 'Create Project'. You can change the name later in the process.
+#### Give your generator a name and click 'Save Draft'. You can change the name later in the process.
 
-![](https://github.com/mrets/photos/blob/master/new_generator3b.png?raw=true)
+Your generator is now in "Draft" mode. You can continue to update your generator, however, make sure you save changes by clicking on the save draft button. Once you have filled in all of the information required (indicated by an asterisk), you will be able to submit the generator registration to the system administrator for approval. If you are not sure what a field is asking, please consult the table at the bottom of this article. If you are still unsure please contact the M-RETS System Administrator. 
 
-B. Once you access the screen your project is now in "Draft" mode. You can continue to update your project, however, make sure you save changes by clicking on the save project button. Once you have filled in all of the information required (indicated by an *), you will be able to submit the project registration to the system administrator for approval. If you are not sure what a field is asking, please consult the table at the bottom of this article. If you are still unsure after consulting the Operating Procedures please contact the M-RETS System Administrator. 
-
-The System Administrator will try and approve projects submitted with all the required information within seven days. If you need your project approved sooner, please email <systemadmin@mrets.org> and communicate your deadline.
-
-The most common mistake is people not sure whether their generator is unit specific, it should be unless you are registering an aggregated generator. 
+The System Administrator will try and approve generators submitted with all the required information within seven days. If you need your generator approved sooner, please email <systemadmin@mrets.org> and communicate your deadline.
 
 ## Uploading Supporting Documents
 
@@ -55,7 +51,7 @@ The most common mistake is people not sure whether their generator is unit speci
 
 Use the Documents tab interface to upload documents. By clicking the blue "Upload Document" a local search function can be accessed. 
 
-![](https://github.com/mrets/photos/blob/master/new_generator4.png?raw=true)
+![](https://github.com/mrets/photos/blob/master/new_generator4b.png?raw=true)
 
 <br>
 
@@ -78,14 +74,11 @@ Required fields are in **BOLD**
 
 | *General Information* ||
 |---|---|
-| **Unit Name** | Generator Name |
 | **Facility Name** |   |
-| WI RRC Unit ID |   |
-| WI RRC Program Registration Date |   |
+| **Unit Name** | Generator Name |
 | EIA Number | ID number provided by the EIA (if applicable) |
 | *Reporting and Issuance* |
 | **Reporting Entity** | Who will be uploading MWh generation for this Generator? |
-| Reporting Unit ID | What is the Reporting Unit of the Generator |
 | **Issuance Account** | This is the account to which all newly issued RECs will be deposited into. |
 
 <br>
@@ -93,9 +86,9 @@ Required fields are in **BOLD**
 ### Location
 | *Location Information* ||
 |---|---|
-| **County** | Physical county/munisipality where generator is located |
-| **State/Province** | State or Province where generator is located |
 | **Country** | Physical country where generator is located |
+| **State/Province** | State or Province where generator is located |
+| **County** | Physical county/munisipality where generator is located |
 | Latitude | Exact location of project |
 | Longitude | Exact location of project |
 | Facility Photo | |
@@ -107,6 +100,16 @@ Required fields are in **BOLD**
 |---|---|
 | **Single-Owner Facility?** |   |
 | Additional Owner(s) |   |
+| **Ownership Type(s)** ||
+| Electric Service Provider |   |
+| Federal Marketer/Power Administrator |   |
+| Investor-Owned Utility | A privately-owned electric utility whose stock is publicly traded. It is rate regulated and authorized to achieve an allowed rate of return. |
+| Irrigation District |   |
+| Municipal Utility |   |
+| Privately Owned Distributed Generation |   |
+| Rural Electric Cooperative |   |
+| Tribal Organization |   |
+| **Does your Organization own this generator?** | If your Organization does not own the generator, you will need to complete and attach a [Schedule A](https://www.mrets.org/wp-content/uploads/2017/12/MRETS-Schedule-A-Modified-12-28-2017.pdf "https://www.mrets.org/wp-content/uploads/2017/12/MRETS-Schedule-A-Modified-12-28-2017.pdf") form. The Schedule A form is an attestation that your Organization holds the rights to the Certificates. |
 | *Owner Contact Information* ||
 | **Company Name** | Owner that holds legal title to the Generator |
 | **Address** | Contact information of owner referenced above |
@@ -116,74 +119,109 @@ Required fields are in **BOLD**
 | **Country** | Contact information of owner referenced above |
 | Phone | Contact information of owner referenced above |
 | Website | Contact information of owner referenced above |
-| Mailing Address | Contact information of owner referenced above |
-| Mailing City | Contact information of owner referenced above |
-| Mailing State/Province | Contact information of owner referenced above |
-| Mailing Zip/Postal Code | Contact information of owner referenced above |
-| Mailing Country | Contact information of owner referenced above |
-| Publish contact information? |   |
-| *Ownership Type and Registration Rights* |   |
-
 <br>
 
-| **Ownership Type(s)** |
-| Electric Service Provider |   |
-| Federal Marketer/Power Administrator |   |
-| Investor-Owned Utility | A privately-owned electric utility whose stock is publicly traded.\
-It is rate regulated and authorized to achieve an allowed rate of return. |
-| Irrigation District |   |
-| Municipal Utility |   |
-| Privately Owned Distributed Generation |   |
-| Rural Electric Cooperative |   |
-| Tribal Organization |   |
-| Facility Operator Information |
+### Operator
+
+| *Facility Operator Information* ||
+|---|---|
 | Job Title |  |
-| Name |   |
-| Mailing Address | Mailing Address |
+| **Name** |   |
+| **Mailing Address** | Mailing Address |
 | Mailing Address Line 2 |   |
-| City | Mailing City |
-| Mailing State/Province | Mailing State/Province |
-| Mailing Zip/Postal Code | Mailing Zip/Postal Code |
-| Mailing Country | Mailing Country |
-| Is the owner a WI electricity retailer? | Is the Generator owner a Wisconsin Retail Electric Provider |
-| **Assignment of Registration Rights** | If your Organization does not own the generator, you will need to complete and attach a [Schedule A](https://www.mrets.org/wp-content/uploads/2017/12/MRETS-Schedule-A-Modified-12-28-2017.pdf "https://www.mrets.org/wp-content/uploads/2017/12/MRETS-Schedule-A-Modified-12-28-2017.pdf") form. The Schedule A form is an attestation that your Organization holds the rights to the Certificates. |
-| Court/Regulator Assignment of Rights | Did a court assign the rights of this project |
+| **Country** | Mailing Country |
+| **City** | Mailing City |
+| **State/Province** | Mailing State/Province |
+| **Zip/Postal Code** | Mailing Zip/Postal Code |
 
 <br>
 
 ### Engineering
 
-| *Class and Fuel Type* ||
+| *Class* ||
 |---|---|
-| **Fuel Type & Fuel Source(s)** |  |
 | **Control Area Operator** |   |
 | **Interconnected Utility** |   |
-| Generation Technology |   |
-| *Engineering* ||
-| **Commenced Operation Date** |   |
-| **Nameplate Capacity (MW) in A/C** | The maximum rated output of a generator |
-| **Capacity Factor** |   |
-| **Maximum Annual Energy**   |   |
-| Biomass Net Generation BTU/kWh |   |
-| Repower Date(s) |   |
-| *Metering Information* |
+| *Metering Information* ||
 | **Aggregate Metering** |Aggregated Generators must meet the following criteria: <br> a. The Aggregated Units must use the same Fuel Type. <br> b. The Aggregated Units do not exceed a total nameplate capacity of 1 MW. <br> c. The M-RETS State/Province programs allow for the aggregation if an RPS eligibility is sought.|
 | Aggregating Unit Count *(Required if the previous answer is Yes)* | How many generators are aggregated if this is an aggregated facility |
 | Primary Generator | If this is an aggregated generator, what is the primary generator |
-| Revenue Meter ID | Serial Number or Model Number of the Meter |
+| Meter ID | Serial Number or Model Number of the Meter |
+|Is this a Revenue Quality Meter?|A Revenue Quality Meter May Not Be Required Depending on the Resource Type|
 | **Meter Manufacturer** | Manfucturer of the meter |
 | **Last Meter Certification** | Laste date the meter was certified |
-| *WI Information* ||
-| Approved to report 3-year hydro average? | Does this Generator use a 3-year hydro average specific to the Wisconsin Program |
-| Hydro 3-year average | 3-year hydro average value |
-| Approved as a WI displacement facility? |   |
+| *Engineering* ||
+| **Commenced Operation Date** |THe date this generator began generating electricity.|
+| **Nameplate Capacity (MW) in A/C** | The maximum rated output of a generator |
+| **Capacity Factor** | The ratio of the electrical energy produced by a Generating Unit for the period of time considered to the electrical energy that could have been produced at the continuous full-power operation during the same period.  |
+| **Maximum Annual Energy**   |(either Capacity Factor or Maximum Annual Energy is required)   |
+| Repower Date(s) |   |
 
 <br>
+
+### Fuels
+| **Fuel Type** | **Fuel Source** |
+| --- | --- |
+| Biogas | Biogas |
+| Biogas | Animal Waste |
+| Biogas | Anaerobic digester system |
+| Biogas | Liquid fuels derived from plant or animal sources, including but not limited to ethanol, biodiesel, vegetable oil, or animal fats |
+| Biogas | Methane or other combustible gases derived from the processing or decay of plant, animal, or municipal solid waste materials |
+| Biogas | Constructed in compliance with new source performance standards promulgated under the federal Clean Air Act for a generation facility of that type |
+| Biogas | Employs the maximum achievable or best available control technology available for a generation facility of that type |
+| Biomass | Biomass |
+| Biomass | Method of combustion is Direct Combustion |
+| Biomass | Method of combustion is Gasification |
+| Biomass | Method of combustion is Liquefaction |
+| Biomass | A majority of the fuel source is Agricultural products |
+| Biomass | A majority of the fuel source is Wood products |
+| Biomass | A majority of the fuel source is Agricultural by-products including wastes |
+| Biomass | A majority of the fuel source is mixed municipal solid waste |
+| Biomass | A majority of the fuel source is refuse-derived fuel |
+| Biomass | Primary woody or herbaceous vegetative matter (plants), including but not limited to wood, grasses, agricultural crops or residues |
+| Biomass | Processed plant materials from industry waste sources, including manufacturing, construction, or demolition |
+| Biomass | Methane or other combustible gases derived from the processing or decay of plant, animal, or municipal solid waste materials |
+| Biomass | Liquid fuels derived from plant or animal sources, including but not limited to ethanol, biodiesel, vegetable oil, or animal fats |
+| Biomass | Mixed municipal solid waste and refuse-derived fuel from MSW |
+| Biomass | Landfill Gas |
+| Biomass | Animal Waste |
+| Biomass | Constructed in compliance with new source performance standards promulgated under the federal Clean Air Act for a generation facility of that type |
+| Biomass | Employs the maximum achievable or best available control technology available for a generation facility of that type |
+| Coal | Coal |
+| Diesel | Diesel |
+| Fuel Cells | Fuel Cell using renewable fuels |
+| Fuel Cells | Fuel Cell using non-renewable fuels |
+| Flared Gas | Flared Gas |
+| Geothermal Energy | Geothermal Energy |
+| Geothermal Energy | Dry Steam |
+| Geothermal Energy | Flash Steam |
+| Geothermal Energy | Binary Cycle |
+| Hydroelectric Water | Hydroelectric Water |
+| Hydroelectric Water | Hydroelectric Water with a nameplate capacity that is less than 4MW |
+| Hydroelectric Water | Hydroelectric Water with a nameplate capacity that is less than 60MW |
+| Hydroelectric Water | Hydroelectric Water with a nameplate capacity that is less than 100MW |
+| Hydrogen | Hydrogen |
+| Jet | Jet |
+| Municipal solid waste | Municipal Solid Waste |
+| Municipal solid waste | An energy recovery facility used to capture the heat value of mixed municipal solid waste or refuse-derived fuel from mixed municipal solid waste |
+| Municipal solid waste | Anaerobic digester system |
+| Municipal solid waste | Landfill Gas |
+| Natural Gas | Natural Gas |
+| Nuclear | Nuclear |
+| Tidal or Wave | Tidal or Wave |
+| Oil | Oil |
+|Pumped Hydro Storage|Grid Electricity|
+| Solar | Solar PV |
+| Solar | Solar Thermal |
+| WHR | Waste Heat Recovery/Recycled Energy |
+| Wind | Wind |
+| Waste Oil | Waste Oil |
 
 ### Program Eligibility
 
 | Name | Description |
 |---|---|
+|Alternative Energy Certificate|These are **non-renewable, emission-free** fuel types.| 
 | Ecologo Certified | Is this Generator Certified by [EcoLogo](https://www.ul.com/resources/ecologo-certification-program)?|
 | Illinois Utility Eligibility| Is this Generator Certified by the ICC to meet the [IL Utility Program](http://www.ilga.gov/legislation/ilcs/ilcs5.asp?ActID=266&ChapAct=20%26nbsp%3BILCS%26nbsp%3B687%2F&ChapterID=5&ChapterName=EXECUTIVE+BRANCH&ActName=Renewable+Energy%2C+Energy+Efficiency%2C+and+Coal+Resources+Development+Law+of+1997%2E)?|
 | Iowa Eligibility | Is this Generator Certified by the IUB for the [Iowa RPS](https://www.legis.iowa.gov/docs/code/476.41.pdf)? |
