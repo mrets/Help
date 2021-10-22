@@ -84,6 +84,7 @@ Required fields are in **BOLD**
 <br>
 
 ### Location
+
 | *Location Information* ||
 |---|---|
 | **Country** | Physical country where generator is located |
@@ -96,6 +97,7 @@ Required fields are in **BOLD**
 <br>
 
 ### Owner
+
 | *General Ownership Information* ||
 |---|---|
 | **Single-Owner Facility?** |   |
