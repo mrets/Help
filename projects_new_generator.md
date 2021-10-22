@@ -160,6 +160,7 @@ Required fields are in **BOLD**
 <br>
 
 ### Fuels
+
 | **Fuel Type** | **Fuel Source** |
 | --- | --- |
 | Biogas | Biogas |
