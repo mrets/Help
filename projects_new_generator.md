@@ -218,6 +218,8 @@ Required fields are in **BOLD**
 | Wind | Wind |
 | Waste Oil | Waste Oil |
 
+<br>
+
 ### Program Eligibility
 
 | Name | Description |
