@@ -18,9 +18,9 @@ The Registry Operating Procedures detail the requirements and definitions of dif
 ### Register a Generator/Project
 
 
-#### After logging in, click on the 'Projects' tab on the left.
+#### After logging in, click on the 'Generators' tab on the left.
 
-![](https://github.com/mrets/photos/blob/master/new_generator1.png?raw=true)
+![](https://github.com/mrets/photos/blob/master/new_generator1b.png?raw=true)
 
 You will now see any Active generators in your Organization.
 
@@ -28,13 +28,13 @@ You will now see any Active generators in your Organization.
 
 #### Click on 'Add New Project' on the right side.
 
-![](https://github.com/mrets/photos/blob/master/new_generator2.png?raw=true)
+![](https://github.com/mrets/photos/blob/master/new_generator2b.png?raw=true)
 
 <br>
 
 #### Give your generator a name and click 'Create Project'. You can change the name later in the process.
 
-![](https://github.com/mrets/photos/blob/master/new_generator3.png?raw=true)
+![](https://github.com/mrets/photos/blob/master/new_generator3b.png?raw=true)
 
 B. Once you access the screen your project is now in "Draft" mode. You can continue to update your project, however, make sure you save changes by clicking on the save project button. Once you have filled in all of the information required (indicated by an *), you will be able to submit the project registration to the system administrator for approval. If you are not sure what a field is asking, please consult the table at the bottom of this article. If you are still unsure after consulting the Operating Procedures please contact the M-RETS System Administrator. 
 
