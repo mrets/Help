@@ -25,7 +25,9 @@ fractional remainders will not issue certificates but will roll over to the next
 
 Users may upload all their generation for the whole month or in partial months as long as a whole month is uploaded. During the upload process, users must provide the Generator, vintage, Dth, and a complete allocation of Dth generated. During the upload, Users must declare whether the generation is 100% from renewable sources, or if the Generator used non-renewable sources. 
 
-**Generators must report 100% of the gas injected into the system from the Generator at the injection point, even if the gas will not be tracked in M-RETS. This ensures that M-RETS can serve as a central repository for programs, including those not affiliated with M-RETS, to ensure against double-counting.** M-RETS will not create certificates for the generation entered and designated as not being tracked on M-RETS. Generation that does not qualify for certificate issuance is called Non-Qualified Generation. NonQualified Generation includes Generation intended for a program that does not recognize M-RETS or is not considered renewable (e.g., non-renewable additives). Qualified Generation is any generation that qualifies for certificate issuance. 
+**Generators must report 100% of the gas injected into the system from the Generator at the injection point, even if the gas will not be tracked in M-RETS. This ensures that M-RETS can serve as a central repository for programs, including those not affiliated with M-RETS, to ensure against double-counting.** 
+
+M-RETS will not create certificates for the generation entered and designated as not being tracked on M-RETS. Generation that does not qualify for certificate issuance is called Non-Qualified Generation. Non-Qualified Generation includes Generation intended for a program that does not recognize M-RETS or is not considered renewable (e.g., non-renewable additives). Qualified Generation is any generation that qualifies for certificate issuance. 
 
 ### Allocation
 
@@ -41,5 +43,11 @@ Certificates created by Generators that Self-report (i.e. Generators that do not
 
 M-RETS reserves the right to reject the Generators documentation if there is any reason to suspect the documentation provided is altered, fraudulent, or suspicious. M-RETS also reserves the right to confirm with the entity that issues the document(s) that they are legitimate and not altered in any way. M-RETS may—but is not required to— contact the Generator Owner prior to confirming with the entity. However, M-RETS will try to work out any issues with the Generator Owner prior to
 confirming the validity of the documentation with the issuing entity. 
+
+### Review
+
+![](https://github.com/mrets/photos/blob/master/generation_rt_7.png?raw=true)
+
+On this screen, you will see all entered data. If everything looks correct, click 
 
 [Back](https://mrets.github.io/Help/index)
