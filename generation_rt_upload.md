@@ -19,7 +19,7 @@ fractional remainders will not issue certificates but will roll over to the next
 
 ![](https://github.com/mrets/photos/blob/master/generation_rt_2.png?raw=true)
 
-### Data Entry
+### Add Generation
 
 ![](https://github.com/mrets/photos/blob/master/generation_rt_3.png?raw=true)
 
