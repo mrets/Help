@@ -35,9 +35,11 @@ M-RETS will not create certificates for the generation entered and designated as
 
 ![](https://github.com/mrets/photos/blob/master/generation_rt_5.png?raw=true)
 
+![](https://github.com/mrets/photos/blob/master/generation_rt_6.png?raw=true)
+
 ### Generation Document
 
-![](https://github.com/mrets/photos/blob/master/generation_rt_6.png?raw=true)
+![](https://github.com/mrets/photos/blob/master/generation_rt_7.png?raw=true)
 
 Certificates created by Generators that Self-report (i.e. Generators that do not use an IRE) must also submit with the generation information an invoice, receipt, or other official documents that identify the Dth of gas injected. *If the documentation does not use Dth, the documentation must include values that would allow the M-RETS System Administrator to determine the Dth value. If this is not possible the Generator must work this out with the M-RETS System Administrator prior to uploading.*
 
@@ -46,8 +48,14 @@ confirming the validity of the documentation with the issuing entity.
 
 ### Review
 
-![](https://github.com/mrets/photos/blob/master/generation_rt_7.png?raw=true)
+![](https://github.com/mrets/photos/blob/master/generation_rt_8.png?raw=true)
 
-On this screen, you will see all entered data. If everything looks correct, click 
+On this screen, you will see all entered data. 
+
+![](https://github.com/mrets/photos/blob/master/generation_rt_9.png?raw=true)
+
+You may also review the selected allocation. 
+
+If everything looks correct, click 
 
 [Back](https://mrets.github.io/Help/index)
