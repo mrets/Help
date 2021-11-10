@@ -13,14 +13,13 @@ fractional remainders will not issue certificates but will roll over to the next
 
 ## Uploading Generation
 
-1.  Navigate to the Generation tab and select the "Upload" button.
+### Navigate to the Generation tab and select the "Add New Entry" button.
 
 ![](https://github.com/mrets/photos/blob/master/generation_rt_1.png?raw=true)
 
 ![](https://github.com/mrets/photos/blob/master/generation_rt_2.png?raw=true)
 
-
-2\.  Under "Select File for Upload", click 'Choose File' navigate to a local file on your computer and select it. You should see the file name change in the upload window.
+### Under "Select File for Upload", click 'Choose File' navigate to a local file on your computer and select it. You should see the file name change in the upload window.
 
 ![](https://github.com/mrets/photos/blob/master/generation_upload_data2.png?raw=true)
 
