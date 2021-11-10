@@ -33,6 +33,14 @@ M-RETS will not create certificates for the generation entered and designated as
 
 ![](https://github.com/mrets/photos/blob/master/generation_rt_4.png?raw=true)
 
+<ul>
+  <li>Generator: The generator for which you are uploading Dth.</li>
+  <li>Start Date: The date on which generation began.</li>
+  <li>End Date: The date on which generation ended.</li>
+  <li>Quantity Dth: Generators must report 100% of the gas injected into the system from the Generator at the injection point, even if the gas will not be tracked in M-RETS.</li>
+  <li> Is this 100% renewable?: Users must declare whether the generation is 100% from renewable sources, or if the Generator used non-renewable sources.</li>
+  </ul>
+
 ![](https://github.com/mrets/photos/blob/master/generation_rt_5.png?raw=true)
 
 ![](https://github.com/mrets/photos/blob/master/generation_rt_6.png?raw=true)
@@ -56,6 +64,6 @@ On this screen, you will see all entered data.
 
 You may also review the selected allocation. 
 
-If everything looks correct, click 
+If everything looks correct, click **Save**. 
 
 [Back](https://mrets.github.io/Help/index)
