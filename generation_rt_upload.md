@@ -13,16 +13,24 @@ fractional remainders will not issue certificates but will roll over to the next
 
 ## Uploading Generation
 
+Users may upload all their generation for the whole month or in partial months as long as a whole month is uploaded. During the upload process, users must provide the Generator, vintage, Dth, and a complete allocation of Dth generated. During the upload, Users must declare whether the generation is 100% from renewable sources, or if the Generator used non-renewable sources. 
+
 ### Navigate to the Generation tab and select the "Add New Entry" button.
 
 ![](https://github.com/mrets/photos/blob/master/generation_rt_1.png?raw=true)
 
 ![](https://github.com/mrets/photos/blob/master/generation_rt_2.png?raw=true)
 
-### Under "Select File for Upload", click 'Choose File' navigate to a local file on your computer and select it. You should see the file name change in the upload window.
+### Data Entry
 
-![](https://github.com/mrets/photos/blob/master/generation_upload_data2.png?raw=true)
+![](https://github.com/mrets/photos/blob/master/generation_rt_3.png?raw=true)
 
-3\. Select your 'Upload Granularity'. By default, Monthly will be selected. You will see examples of how your file should be formatted below.
+
+
+### Allocation
+
+![](https://github.com/mrets/photos/blob/master/generation_rt_4.png?raw=true)
+
+Certificates created by Generators that Self-report (i.e. Generators that do not use an IRE) must also submit with the generation information an invoice, receipt, or other official documents that identify the Dth of gas injected.1
 
 [Back](https://mrets.github.io/Help/index)
