@@ -11,6 +11,8 @@ fractional remainders will not issue certificates but will roll over to the next
   <li>Pending: Generation that fails feasibility and therefore needs M-RETS approval; or generation waiting to receive a ‘Feedstock’ allocation from a multi-feedstock generator. Pending Generation is not issued and therefore not represented by Active certificates.</ul>
   </ul>
 
+<br>
+
 ## Uploading Generation
 
 ### Navigate to the Generation tab and select the "Add New Entry" button.
