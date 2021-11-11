@@ -35,17 +35,17 @@ fractional remainders will not issue certificates but will roll over to the next
   <li> Is this 100% renewable?: Users must declare whether the generation is 100% from renewable sources, or if the Generator used non-renewable sources.</li>
   </ul>
 
-Users may upload all their generation for the whole month or in partial months as long as a whole month is uploaded. During the upload process, users must provide the Generator, vintage, Dth, and a complete allocation of Dth generated. During the upload, Users must declare whether the generation is 100% from renewable sources, or if the Generator used non-renewable sources. 
+Users may upload all their generation for the whole month or in partial months as long as a whole month is uploaded.
 
 **Generators must report 100% of the gas injected into the system from the Generator at the injection point, even if the gas will not be tracked in M-RETS. This ensures that M-RETS can serve as a central repository for programs, including those not affiliated with M-RETS, to ensure against double-counting.** 
-
-M-RETS will not create certificates for the generation entered and designated as not being tracked on M-RETS. Generation that does not qualify for certificate issuance is called Non-Qualified Generation. Non-Qualified Generation includes Generation intended for a program that does not recognize M-RETS or is not considered renewable (e.g., non-renewable additives). Qualified Generation is any generation that qualifies for certificate issuance. 
 
 <br>
 
 ### Allocation
 
 ![](https://github.com/mrets/photos/blob/master/generation_rt_4.png?raw=true)
+
+M-RETS will not create certificates for the generation entered and designated as not being tracked on M-RETS. Generation that does not qualify for certificate issuance is called Non-Qualified Generation. Non-Qualified Generation includes Generation intended for a program that does not recognize M-RETS or is not considered renewable (e.g., non-renewable additives). Qualified Generation is any generation that qualifies for certificate issuance. 
 
 ![](https://github.com/mrets/photos/blob/master/generation_rt_5.png?raw=true)
 
