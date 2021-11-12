@@ -14,17 +14,17 @@ Step 1: Begin a Recurring Transfer
 
 -   Click on 'Add Recurring Transfer'
 
-![](https://github.com/mrets/photos/blob/master/automatic_recurring_transfers1.png?raw=true)
+![](https://github.com/mrets/photos/blob/master/automatic_recurring_transfers1b.png?raw=true)
 
 -   You will now see a list of your generators and a calendar. Once a generator is selected, you will see fuel(s) related to said generator.
 
-![](https://github.com/mrets/photos/blob/master/automatic_recurring_transfers2.png?raw=true)
+![](https://github.com/mrets/photos/blob/master/automatic_recurring_transfers2b.png?raw=true)
 
 -   Select your certificate vintage start date and end date. Your transfer will be sent every month during the calendar timeframe selected.
 -   If your project is a multi-fuel generator, select a fuel type for your transfer. For multi-fuel generators, the automatic recurring transfer will only pertain to one fuel type.
 -   Click 'Next'.
 
-![](https://github.com/mrets/photos/blob/master/automatic_recurring_transfers3.png?raw=true)
+![](https://github.com/mrets/photos/blob/master/automatic_recurring_transfers3b.png?raw=true)
 
 Step 2a: Internal Transfers to One Account
 ------------------------------------------
