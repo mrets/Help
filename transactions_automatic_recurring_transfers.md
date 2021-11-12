@@ -1,33 +1,36 @@
-How-To: Automatic Recurring Transfers and Irrevocable Transfers
-===============================================================
+# How-To: Automatic Recurring Transfers and Irrevocable Transfers
 
-Automatic Recurring Transfers (ARTs) are now available. Here's how to use them! (Formerly known as Forward Transfers and Standing Orders)
-
-Let's face it: doing stuff is horrible. ***Especially*** doing stuff manually every month. Well do we have the solution for you! Introducing Automatic Recurring Transfers. Do you have a transfer that you have to manually enter *every* month? Not anymore!
+(Formerly known as Forward Transfers and Standing Orders)
 
 After logging in, click on 'Transactions' on the left. You will now see there are three options on this page: Pending, History, and Recurring. Click on Recurring. This is where you will see your recurring transfers.
 
 This article is broken up into steps in order to combine all possible transfers into one document.
 
-Step 1: Begin a Recurring Transfer
-----------------------------------
-
 -   Click on 'Add Recurring Transfer'
 
 ![](https://github.com/mrets/photos/blob/master/automatic_recurring_transfers1b.png?raw=true)
 
--   You will now see a list of your generators and a calendar. Once a generator is selected, you will see fuel(s) related to said generator.
+## Select Generator
 
 ![](https://github.com/mrets/photos/blob/master/automatic_recurring_transfers2b.png?raw=true)
 
--   Select your certificate vintage start date and end date. Your transfer will be sent every month during the calendar timeframe selected.
--   If your project is a multi-fuel generator, select a fuel type for your transfer. For multi-fuel generators, the automatic recurring transfer will only pertain to one fuel type.
--   Click 'Next'.
+-   You will now see a list of your generators and a calendar. Once a generator is selected, you will see fuel(s) related to said generator.
+
+<br>
+
+## Select Vintage Dates
 
 ![](https://github.com/mrets/photos/blob/master/automatic_recurring_transfers3b.png?raw=true)
 
-Step 2a: Internal Transfers to One Account
-------------------------------------------
+<ul>
+  <li>Select your certificate vintage start date and end date. Your transfer will be sent every month during the calendar timeframe selected.</li>
+  <li>If your project is a multi-fuel generator, select a fuel type for your transfer. For multi-fuel generators, the automatic recurring transfer will only pertain to one fuel type.</li>
+  <li>Click 'Next'.</li>
+  </ul>
+
+<br>
+
+## Select Transfer Option
 
 -   The next page will determine where you would like the RECs to go. For this example, we are choosing "to one active account". Please scroll to the next header for Multiple Internal Accounts.
 
@@ -43,19 +46,21 @@ Step 2a: Internal Transfers to One Account
 
 ![](https://github.com/mrets/photos/blob/master/automatic_recurring_transfers6.png?raw=true)
 
-Step 2b: Internal Transfers to Multiple Accounts
-------------------------------------------------
+<br>
 
--   The next page will determine where you would like the RECs to go. For this example, we are choosing "to multiple active accounts". Please scroll to the next header for an External Account.
--   Select your accounts from the dropdown menu, you will see them populate at the bottom of the screen.
+## Step 2b: Internal Transfers to Multiple Accounts
+
+Select your accounts from the dropdown menu, you will see them populate at the bottom of the screen.
 
 ![](https://github.com/mrets/photos/blob/master/automatic_recurring_transfers7.png?raw=true)
 
--   Enter a percentage split based on your accounts. **NOTE**: They must add up to 100%.
--   You can drag the different accounts to reprioritize them. In the event the quantity to be transferred does not divide evenly it will send the majority to the first listed account. 
--   Let's put it into an example: You set Account A and Account B to both receive 50% each, with Account A as the priority. You then upload 101 RECs. Well the system will not divide a REC, so 51 RECs will go to Account A and 50 RECs will go to Account B.
--   The system will display when a remainder has been assigned to an account.
--   Click 'Review Transfer'
+<ul>
+  <li>Enter a percentage split based on your accounts. **NOTE**: They must add up to 100%.</li>
+  <li>You can drag the different accounts to reprioritize them. In the event the quantity to be transferred does not divide evenly it will send the majority to the first listed account.</li>
+  <li>Let's put it into an example: You set Account A and Account B to both receive 50% each, with Account A as the priority. You then upload 101 RECs. Well the system will not divide a REC, so 51 RECs will go to Account A and 50 RECs will go to Account B.</li>
+  <li>The system will display when a remainder has been assigned to an account.</li>
+  <li>Click 'Review Transfer'</li>
+  </ul>
 
 ![](https://github.com/mrets/photos/blob/master/automatic_recurring_transfers8.png?raw=true)
 
