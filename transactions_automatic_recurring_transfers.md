@@ -61,8 +61,6 @@ Select your account(s) from the menu. If you select multiple, you will see them 
 **NOTE**: Recipient organizations are still required to accept automatic transfers.
 -   You should get an email notification that the transfers are completed. If you didn't, might I suggest checking your notification preferences? Our guide to notifications preferences can be found [here](https://mrets.github.io/Help/billing_email_notifications).
 
-![](https://github.com/mrets/photos/blob/master/automatic_recurring_transfers11.png?raw=true)
-
 ### Exports
  
 -   Select the system to which you are planning to export from the dropdown menu.
