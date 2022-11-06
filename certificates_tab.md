@@ -1,4 +1,4 @@
-# RECs Tab: An Introduction
+# Certificates Tab: An Introduction
 
 Welcome to the M-RETS! Come in! Make yourself at home, but please take off your shoes.
 
