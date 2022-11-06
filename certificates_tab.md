@@ -1,14 +1,10 @@
-# RECs Tab: An Introduction
+# Certificates Dashboard 101
 
-Welcome to the M-RETS! Come in! Make yourself at home, but please take off your shoes.
-
-In this article we are going to look at an overview of the RECs tab. I will attempt to cover all of the basics you need to know to use the RECS tab. 
+In this article, we are going to look at an overview of the RECs tab.
 
 Your RECs view should look something like this. ***Please note, your tabs on the left may vary.***
 
 ![](https://github.com/mrets/photos/blob/master/certificates_tab1b.png?raw=true)
-
-Let's start at the top!
 
 <br>
 
@@ -16,7 +12,8 @@ Let's start at the top!
 
 ![](https://github.com/mrets/photos/blob/master/certificates_tab2b.png?raw=true)
 
-You will see options to change from 'Active' to 'Retired'. Below these buttons, you will see the total corresponding RECs under each status. Which brings us to...
+You will see options to change from ‘Active’ to ‘Retired’, to 'Reserved" Below these buttons, you will see the total corresponding RECs under each status.
+
 
 <br>
 
@@ -26,14 +23,14 @@ The main source of data is the RECs table. In the table you will notice the foll
 
 -   Account: Where the RECs are currently located. For more, see Accounts Tab: An Introduction
 -   M-RETS ID: The identification number of your generator.
--   Project: The name of your generator. For more, see Projects Tab: An Introduction
+-   Generator: The name of your generator. For more, see Projects Tab: An Introduction
 -   Fuel Type: Solar, Wind, Hydro, etc.
 -   Vintage: When the RECs were created
 -   Location: The location of your generator
--   Type: The type of certificate, most likely REC
 -   Eligibility: This column will display for which programs these RECs are eligible
 -   Quantity: The number of RECs issued
--   RRC Adjusted Quantity:  This is specific to the Wisconsin RRC program. Not sure what the Wisconsin RRC program is? Then this most likely can be ignored.
+-   Serial Numbers: The unique number assigned for each MWh reported to M-RETS 
+-   Details: Additional information on the REC batch 
 
 <br>
 
@@ -47,7 +44,7 @@ If you prefer a different layout of columns, then click on the header and drag i
 
 ## The Table: Filtering
 
-You probably noticed the buttons labelled 'Filter...' near the top of the columns. This feature is for limiting what is shown in the column. Example: If I only wanted to see my solar RECs, I would click on the filter under 'Fuel Type' and select 'Solar'.
+The filter feature is used for limiting what is shown in the column. Example: If I only wanted to see my solar RECs, I would click on the filter under ‘Fuel Type’ and select ‘Solar’.
 
 <br>
 
