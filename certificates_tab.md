@@ -1,14 +1,13 @@
 # RECs Tab: An Introduction
 
-Welcome to the M-RETS! Come in! Make yourself at home, but please take off your shoes.
+In this article, we are going to look at an overview of the RECs tab.
 
-In this article we are going to look at an overview of the RECs tab. I will attempt to cover all of the basics you need to know to use the RECS tab. 
+Your RECs view should look something like this. Please note, your tabs on the left may vary. ***Please note, your tabs on the left may vary.***
 
-Your RECs view should look something like this. ***Please note, your tabs on the left may vary.***
+## Certificates: Active, Retired, and Reserve
+![](https://github.com/mrets/photos/blob/319f58f95e2e034c830f5686ccfab75a6609f8de/Certificate_Tab1.png)
 
-![](https://github.com/mrets/photos/blob/master/certificates_tab1b.png?raw=true)
-
-Let's start at the top!
+You will see options to change from ‘Active’ to ‘Retired’, to 'Reserved" Below these buttons, you will see the total corresponding RECs under each status.
 
 <br>
 
@@ -16,7 +15,7 @@ Let's start at the top!
 
 ![](https://github.com/mrets/photos/blob/master/certificates_tab2b.png?raw=true)
 
-You will see options to change from 'Active' to 'Retired'. Below these buttons, you will see the total corresponding RECs under each status. Which brings us to...
+You will see options to change from ‘Active’ to ‘Retired’, to 'Reserved" Below these buttons, you will see the total corresponding RECs under each status.
 
 <br>
 
@@ -30,10 +29,10 @@ The main source of data is the RECs table. In the table you will notice the foll
 -   Fuel Type: Solar, Wind, Hydro, etc.
 -   Vintage: When the RECs were created
 -   Location: The location of your generator
--   Type: The type of certificate, most likely REC
 -   Eligibility: This column will display for which programs these RECs are eligible
 -   Quantity: The number of RECs issued
--   RRC Adjusted Quantity:  This is specific to the Wisconsin RRC program. Not sure what the Wisconsin RRC program is? Then this most likely can be ignored.
+-   Serial Numbers
+-   Details: Information on the REC batc
 
 <br>
 
@@ -47,13 +46,13 @@ If you prefer a different layout of columns, then click on the header and drag i
 
 ## The Table: Filtering
 
-You probably noticed the buttons labelled 'Filter...' near the top of the columns. This feature is for limiting what is shown in the column. Example: If I only wanted to see my solar RECs, I would click on the filter under 'Fuel Type' and select 'Solar'.
+The filter feature is used for limiting what is shown in the column. Example: If I only wanted to see my solar RECs, I would click on the filter under ‘Fuel Type’ and select ‘Solar’.
 
 <br>
 
 ## Settings: The Gear
 
-Don't want to see all of these columns? No problem! Click on the gear icon.
+Use the gear icon to customize the report columns. 
 
 ![](https://github.com/mrets/photos/blob/master/certificates_tab4.png?raw=true)
 
@@ -61,7 +60,7 @@ Don't want to see all of these columns? No problem! Click on the gear icon.
 
 You should see the following window:
 
-![](https://github.com/mrets/photos/blob/master/certificates_tab5b.png?raw=true)
+![](https://github.com/mrets/photos/blob/76fccc45e375b4f799bc72ddd367c7eb00116fbf/Certificate_Tab_5_B.2.png)
 
 <br>
 
@@ -73,7 +72,6 @@ Un-check any columns that you do not want included in the table.
 
 Do you need to download your RECs? Maybe send them to colleague? Just click on this icon:
 
-![](https://github.com/mrets/photos/blob/master/certificates_tab6.png?raw=true)
+![](https://github.com/mrets/photos/blob/4aa794fd825612352505b8406cb2aac23ff8798f/Certificate_Tab_6.2.png)
 
-Note: It will download everything that is currently displayed. This means any unchecked columns will not be included in the download.\
-Congratulations! You just passed RECs tab 101!
+Note: this function will download everything that is displayed. You can filter items to download using filters. 
