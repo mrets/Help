@@ -18,7 +18,7 @@ If you prefer a different layout of columns, then click on the header and drag i
 
 You probably noticed the buttons labeled 'Filter...' near the top of the columns. This feature is for limiting what is shown in the column. Example: If I only wanted to see my solar RECs, I would click on the filter under 'Fuel Type' and select 'Solar'.
 
-![](https://github.com/mrets/photos/blob/master/filtering_tables2.png?raw=true)
+![](https://github.com/mrets/photos/blob/dd01870125e7f8502279645c7e5548b8b5ec00ed/Filtering_2.2.png)
 
 <br>
 
@@ -30,7 +30,7 @@ Don't want to see all of these columns? No problem! Click on the gear icon.
 
 You should see the following window:
 
-![](https://github.com/mrets/photos/blob/master/filtering_tables4.png?raw=true)
+![](https://github.com/mrets/photos/blob/dd01870125e7f8502279645c7e5548b8b5ec00ed/Filtering_4.2.png)
 
 Un-check any columns that you do not want to be included in the table.
 
