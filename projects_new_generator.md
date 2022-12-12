@@ -18,7 +18,7 @@ The Registry Operating Procedures detail the requirements and definitions of dif
 ### Register a Generator
 
 
-#### After logging in, click on the 'Generators' tab on the left.
+#### After logging in, select the 'Generators' tab on the left.
 
 ![](https://github.com/mrets/photos/blob/master/new_generator1b.png?raw=true)
 
@@ -26,30 +26,36 @@ You will now see any Active generators in your Organization.
 
 <br>
 
-#### Click on 'Add New Generator' on the right side.
+#### Select 'Add New Generator' on the right side.
 
 ![](https://github.com/mrets/photos/blob/master/new_generator2b.png?raw=true)
 
 <br>
 
-#### Give your generator a name and click 'Save Draft'. You can change the name later in the process.
+#### Give your generator a name and select 'Save Draft'. You can change the name later in the process.
 
-Your generator is now in "Draft" mode. You can continue to update your generator, however, make sure you save changes by clicking on the save draft button. Once you have filled in all of the information required (indicated by an asterisk), you will be able to submit the generator registration to the system administrator for approval. If you are not sure what a field is asking, please consult the table at the bottom of this article. If you are still unsure please contact the M-RETS System Administrator. 
+Your generator is now in "Draft" mode. You can continue to update your generator, however, make sure you save changes by selecting the 'Save Draft' button. Once you have filled in all of the information required (indicated by an asterisk), you will be able to submit the generator registration to the system administrator for approval. If you are not sure what a field is asking, please consult the table at the bottom of this article. If you are still unsure please contact the M-RETS System Administrator. 
 
 The System Administrator will try and approve generators submitted with all the required information within seven days. If you need your generator approved sooner, please email <systemadmin@mrets.org> and communicate your deadline.
 
 ## Uploading Supporting Documents
+1.	A completed on-line Generator registration form containing information related to the characteristics of the Generator Asset and associated meter.
+2.	If applicable, a completed [Schedule A](https://www.mrets.org/wp-content/uploads/2017/12/MRETS-Schedule-A-Modified-12-28-2017.pdf) from the M-RETS Terms of Use outlining the Generator Owner’s Designation of Responsible Party. 
+3.	Any documentation requested by M-RETS to verify the registration information which could include:
+    * Utility Signed Interconnection Agreement
+    * Utility Certificate of Completion
+    * State Air Permit
+    * State or provincial regulatory order 
+    * Providing a Generator's EIA Entity ID which is an official, unique identification numbers assigned by EIA can expedite the approval process. The EIA Entity ID is required for all Generators over 1 MW in the United States and may be found by accessing the report here. 
+    * FERC Qualifying Facility certification (FERC Form 556)
+    * PURPA Qualifying Facility approval documentation
+4.	If this Generator will use MISO as the reporting entity, fill out and upload this form in the Generator documents. It is important that the form reflects the correct MISO node. 
+5.	Documentation supporting the capacity factor calculation and annual output of a generator, (E.g., solar design tools such as Aurora, HelioScope, PVsyst, PV Watts, etc.)
+6.	Multi-fuel Generators must submit to M-RETS a report prepared by a licensed professional engineer containing documentation for measuring and verifying the quantities of each fuel type, the method of determining the net heat content and moisture content of each fuel source, and the heat rate of the Generator. M-RETS will share this documentation with state or provincial regulators upon request of the regulator.
+7.	Generator Assets with installed battery backups must provide documentation to illustrate that grid power used to charge the battery is not metered as generation from the renewable Generating Asset. 
 
 
-1.  You can find required documentation by the link [HERE](https://www.mrets.org/resources/documents/)
-
--   Schedule A -- for projects registered by a Designated Responsible Party
--   Documents that verify ownership and Nameplate Capacity.  (Interconnection Agreement, Power Purchase Agreements, Contracts, Engineering Reports)
--   MN Air Permits -- For MN Eligible Multi-fuel Projects
--   Multi-fuel Report (OP Appendix B-3)
--   State Certification documents (OH, WI)
-
-Use the Documents tab interface to upload documents. By clicking the blue "Upload Document" a local search function can be accessed. 
+Use the Documents tab interface to upload documents. By Selecting the blue "Upload Document" a local search function can be accessed. 
 
 ![](https://github.com/mrets/photos/blob/master/new_generator4b.png?raw=true)
 
@@ -77,6 +83,7 @@ Required fields are in **BOLD**
 | **Facility Name** |   |
 | **Unit Name** | Generator Name |
 | EIA Number | ID number provided by the EIA (if applicable) |
+| Qualifying Facility | [Purpa Qualifying Facility](https://www.ferc.gov/qf) |
 | *Reporting and Issuance* |
 | **Reporting Entity** | Who will be uploading MWh generation for this Generator? |
 | **Issuance Account** | This is the account to which all newly issued RECs will be deposited into. |
@@ -89,10 +96,8 @@ Required fields are in **BOLD**
 |---|---|
 | **Country** | Physical country where generator is located |
 | **State/Province** | State or Province where generator is located |
-| **County** | Physical county/munisipality where generator is located |
-| Latitude | Exact location of project |
-| Longitude | Exact location of project |
-| Facility Photo | |
+| **County or Municipality** | Physical County/Municipality where generator is located |
+| Facility Photo | A photo of the Generator |
 
 <br>
 
@@ -100,8 +105,8 @@ Required fields are in **BOLD**
 
 | *General Ownership Information* ||
 |---|---|
-| **Single-Owner Facility?** |   |
-| Additional Owner(s) |   |
+| **Single-Owner Facility?** | Is this facility owned by a single entity? Y/N |
+| Additional Owner(s) | If this is not a single owner, list additional owners |
 | **Ownership Type(s)** ||
 | Electric Service Provider |   |
 | Federal Marketer/Power Administrator |   |
@@ -112,6 +117,11 @@ Required fields are in **BOLD**
 | Rural Electric Cooperative |   |
 | Tribal Organization |   |
 | **Does your Organization own this generator?** | If your Organization does not own the generator, you will need to complete and attach a [Schedule A](https://www.mrets.org/wp-content/uploads/2017/12/MRETS-Schedule-A-Modified-12-28-2017.pdf "https://www.mrets.org/wp-content/uploads/2017/12/MRETS-Schedule-A-Modified-12-28-2017.pdf") form. The Schedule A form is an attestation that your Organization holds the rights to the Certificates. |
+| **Do you have a PPA?** | Yes/No; Power Purchase Agreement - Upload a copy of the PPA documentation |
+| **Assignment of Registration Rights** | Y/N - If the generator is registered by a different entity, that is not the owner, this field must be marked and a Schedule A must be submitted |
+| Assignment of Registration Rights Date | Date the Schedule A - Designation of Registration Rights was signed by the owner |
+| **Court/Regulator Assignment of Rights** | Y/N - Court or Regulator Order establishing registration rights must be submitted | 
+| Court/Regulator Assignment of Rights Date | Date the Court or Regulator Assigned the Registration Rights; Upload a copy of the Court or Regulator Assignment of Registration Rights Documentation | 
 | *Owner Contact Information* ||
 | **Company Name** | Owner that holds legal title to the Generator |
 | **Address** | Contact information of owner referenced above |
@@ -140,25 +150,25 @@ Required fields are in **BOLD**
 <br>
 
 ### Engineering
-
-| *Class* ||
+| Interconnection Information ||
 |---|---|
-| **Control Area Operator** |   |
-| **Interconnected Utility** |   |
+| Generator Classification | a. Wholesale Generation - Generators that are directly connected to the electric distribution network and sell the generated electricity directly to the wholesale market <br> b. Wholesale Generation also serving On-Site Loads- Generators that are directly connected to the electric distribution network and sell the generated electricity directly to the wholesale market as well as consume it on-site <br> c. Customer-Sited Distributed Generation - On-site customer generation also known as Distributed Energy Resources |
+| Balancing Authority | The responsible entity that integrates resource plans ahead of time, maintains load-interchange-generation balance within a balancing authority area, and supports interconnection frequency in real time. |
+| Balancing Authority ID | Identification code for the Balancing Authority (if applicable) |
+| **Interconnected Utility** | The owner or operator of an electrical utility distribution system that a Generator asset will be connected to for purposes of charging or discharging energy. The Interconnecting Utility issues the Interconnection Agreement and Certificate of Completion. |
+| **Interconnected Utility ID** | Identification code for the Interconnected Utility (if applicable) |
 | *Metering Information* ||
-| **Aggregate Metering** |Aggregated Generators must meet the following criteria: <br> a. The Aggregated Units must use the same Fuel Type. <br> b. The Aggregated Units do not exceed a total nameplate capacity of 1 MW. <br> c. The M-RETS State/Province programs allow for the aggregation if an RPS eligibility is sought.|
-| Aggregating Unit Count *(Required if the previous answer is Yes)* | How many generators are aggregated if this is an aggregated facility |
-| Primary Generator | If this is an aggregated generator, what is the primary generator |
-| Meter ID | Serial Number or Model Number of the Meter |
-|Is this a Revenue Quality Meter?|A Revenue Quality Meter May Not Be Required Depending on the Resource Type|
-| **Meter Manufacturer** | Manfucturer of the meter |
-| **Last Meter Certification** | Laste date the meter was certified |
+| **Aggregate Metering** |Yes/No - Multiple units that share a common meter that do not share essential generating charictaristics. If there are seperate meters, aggreagation up to 1MW can be submitted using the Distributed Generation Group functionality (contact the M-RETS Adminsitrator)|
+| Is this a Revenue Quality Meter?|Y/N|
+
 | *Engineering* ||
-| **Commenced Operation Date** |THe date this generator began generating electricity.|
+|---|---|
+| **Commenced Operation Date** |In-service date of Generator|
 | **Nameplate Capacity (MW) in A/C** | The maximum rated output of a generator |
-| **Capacity Factor** | The ratio of the electrical energy produced by a Generating Unit for the period of time considered to the electrical energy that could have been produced at the continuous full-power operation during the same period.  |
-| **Maximum Annual Energy**   |(either Capacity Factor or Maximum Annual Energy is required)   |
-| Repower Date(s) |   |
+| **Capacity Factor** | The ratio of the electrical energy produced by a Generating Unit for the period of time considered to the electrical energy that could have been produced at the continuous full-power operation during the same period |
+| **Maximum Annual Energy**   | Maximum annual output in MWH of the facility in 365 days (either Capacity Factor or Maximum Annual Energy is required) |
+| Biomass Net Generation BTU/kWh | Heat rate is one measure of the efficiency of a Generator or power plant that converts a fuel into heat and into electricity. The heat rate is the amount of energy used by an electrical Generator or power plant to generate one kilowatt hour (kWh) of electricity. The U.S. Energy Information Administration (EIA) expresses heat rates in British thermal units (Btu) per net kWh generated |
+| Repower Date(s) | If repowered, the in-service date of the repowered Generator |
 
 <br>
 
@@ -217,6 +227,7 @@ Required fields are in **BOLD**
 |Pumped Hydro Storage|Grid Electricity|
 | Solar | Solar PV |
 | Solar | Solar Thermal |
+| Tire Derived Fuel | Tire Derived Fuel |
 | WHR | Waste Heat Recovery/Recycled Energy |
 | Wind | Wind |
 | Waste Oil | Waste Oil |
@@ -227,8 +238,9 @@ Required fields are in **BOLD**
 
 | Name | Description |
 |---|---|
-|Alternative Energy Certificate|These are **non-renewable, emission-free** fuel types.| 
+| Alternative Energy Certificate|These are **non-renewable, emission-free** fuel types.| 
 | Ecologo Certified | Is this Generator Certified by [EcoLogo](https://www.ul.com/resources/ecologo-certification-program)?|
+| IL ABP| [IL Adjustable Block Program](https://illinoisabp.com/) |
 | Illinois Utility Eligibility| Is this Generator Certified by the ICC to meet the [IL Utility Program](http://www.ilga.gov/legislation/ilcs/ilcs5.asp?ActID=266&ChapAct=20%26nbsp%3BILCS%26nbsp%3B687%2F&ChapterID=5&ChapterName=EXECUTIVE+BRANCH&ActName=Renewable+Energy%2C+Energy+Efficiency%2C+and+Coal+Resources+Development+Law+of+1997%2E)?|
 | Iowa Eligibility | Is this Generator Certified by the IUB for the [Iowa RPS](https://www.legis.iowa.gov/docs/code/476.41.pdf)? |
 | Iowa AEP Eligibility | Is this Generator Certified by the IUB for the AEP Program? | 
