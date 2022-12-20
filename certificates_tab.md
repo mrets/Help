@@ -32,7 +32,7 @@ The main source of data is the RECs table. In the table you will notice the foll
 -   Eligibility: This column will display for which programs these RECs are eligible
 -   Quantity: The number of RECs issued
 -   Serial Numbers
--   Details: Information on the REC batc
+-   Details: Information on the REC batch
 
 <br>
 
