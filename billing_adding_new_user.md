@@ -34,5 +34,5 @@ No Access: Inability to view or edit the topic
 
 ### 4. Select Send Invitation
 
-## IMPORTANT: By default, email notifications are set to 'off' for users. To turn email notifications on, please navigate here (INSERT Billingemail notifications doc)
+## IMPORTANT: By default, email notifications are set to 'off' for users. To turn email notifications on, please navigate [here](https://mrets.github.io/help/billing_adding_new_user)
 [Back](https://mrets.github.io/Help/index)
