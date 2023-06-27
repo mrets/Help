@@ -12,17 +12,17 @@ Multi-factor authentication has rapidly become a security best practice, and we 
 
 ### Once logged in, select the dropdown with your name in the upper corner. Then, select 'Profile'.
 
-insert photo saved as NEW MFA 1 on desktop 
+![](https://github.com/markmrets/photos/blob/aa046e508a023d00ad3fcb4f4f44bba215cb3799/New%20MFA%201.png)
 
 <br>
 
 ### You will notice the MFA field under your profile. Click on 'Edit'.
 
-insert photo NEW MFA 2 
+![](https://github.com/markmrets/photos/blob/aa046e508a023d00ad3fcb4f4f44bba215cb3799/New%20MFA%202.png)
 
 ### Select "Update 2FA Settings". 
 
-insert photo NEW MFA 3 
+![](https://github.com/markmrets/photos/blob/aa046e508a023d00ad3fcb4f4f44bba215cb3799/New%20MFA%203.png)
 
 <br>
 
@@ -34,7 +34,7 @@ insert photo NEW MFA 3
 
 ### Enter your phone number and select "update".
 
-Insert photo NEW MFA 4 
+![](https://github.com/markmrets/photos/blob/aa046e508a023d00ad3fcb4f4f44bba215cb3799/New%20MFA%204.png)
 
 
 <br>
