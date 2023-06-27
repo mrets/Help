@@ -6,13 +6,13 @@ E-mail notifications are set to "No" by default. This default setting is to prev
 
 ## 1. Select Organization Info in the drop-down in the upper right corner:
 
-INSERT EMAIL NOTIFICATION 1 SCREENSHOT 
+![](https://github.com/markmrets/photos/blob/aa046e508a023d00ad3fcb4f4f44bba215cb3799/EMAIL%201%20.png)
 
 <br>
 
 ## 2. Select "Users" 
 
-INSERT EMAIL 2 SCREENSHOT 
+![](https://github.com/markmrets/photos/blob/aa046e508a023d00ad3fcb4f4f44bba215cb3799/EMAIL%202%20.png) 
 
 
 
@@ -20,13 +20,13 @@ INSERT EMAIL 2 SCREENSHOT
 
 ## 3. Locate the User you would like to update notification preferences and select "Edit User" from the right of the table.
 
-INSERT EMAIL 3 SCREENSHOT 
+![](https://github.com/markmrets/photos/blob/aa046e508a023d00ad3fcb4f4f44bba215cb3799/Email%203%20.png)
 
 <br>
 
 ## 4. Scroll down and locate the Notifications Module
 
-INSERT EMAIL 4 SCREENSHOT 
+![](https://github.com/markmrets/photos/blob/aa046e508a023d00ad3fcb4f4f44bba215cb3799/EMAIL%204%20.png)
 
 ### Select your notification preferences. You will receive emails even if another user triggers a transaction. For example, if another user submits a transfer, you will receive an email if your "Transfer" notifications are set to On.
 
