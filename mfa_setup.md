@@ -2,33 +2,33 @@
 
 # Enrolling in Multifactor Authentication (MFA)
 
-M-RETS is improving our security for Users and Organizations by implementing Multi-Factor Authentication (MFA). This feature will be available to all users. Multi-factor authentication (MFA) works by combining "something you know" (i.e., your credentials) with "something you have" (i.e., a time-based one-time password retrieved via a trusted mobile device) to gain access to a system.
+M-RETS has updated our multi-factor authentication (MFA) sign-in options for enhanced security. As part of this update, the use of the Authy app has been discounted. Instead, users with MFA enabled will need to request their authentication code via SMS or Voice call. This MFA method ensures secure access by combining your credentials with a time-based one-time password obtained on your trusted mobile device.
 
-MFA will be an opt-in process for Organizations for the time being. Our implementation will support receiving the MFA key via SMS, authenticator app, email, or phone call. Our goal is to make it as flexible as possible. If you have any concerns or thoughts you would like to share as we complete this work, please contact systemadmin@mrets.org. 
+MFA will be an opt-in process for Organizations for the time being. Our implementation will support receiving the MFA key via SMS or phone call. Our goal is to make it as flexible as possible. If you have any concerns or thoughts you would like to share as we complete this work, please contact systemadmin@mrets.org.
 
-Multi-factor authentication has rapidly become a security best practice, and we want to encourage all organizations and users to consider opting into its use in the M-RETS. MFA protects against the risks associated with compromised passwords by adding a layer of security to system authentication. The reality is that employees do fall for phishing scams, and they do share passwords. If you're not using multi-factor authentication (MFA), your organization is wide open to attacks. A vast, if not one of the biggest, security threat today is the risk of compromised credentials.
+In today's digital landscape, multi-factor authentication (MFA) has emerged as the gold standard for protecting against compromised passwords and security threats. By adding an extra layer of verification to system authentication, MFA significantly reduces the risk of falling victim to phishing scams and password sharing.
 
-[Authy App in App Store](https://apps.apple.com/us/app/twilio-authy/id494168017)
-
-[Authy App in Play Store](https://play.google.com/store/apps/details?id=com.authy.authy&hl=en_US)
+Don't leave your organization vulnerable to attacks. If you're not using MFA, you're exposing yourself to one of the biggest security threats - compromised credentials. We strongly encourage all organizations and users to consider opting in for MFA and take their security to the next level.
 
 ## How to Turn On Multifactor Authentication (MFA)
 
-### Once logged in, click on your name in the upper corner. Then, click 'Profile'.
+###  Once logged in, select the dropdown with your name in the upper corner. Then, select 'Profile'.
 
-![](https://github.com/mrets/photos/blob/master/MFA_setup1.png?raw=true)
-
-<br>
-
-### You will notice the new MFA field under your profile. Click on 'Edit'. Then, click on 'Update 2FA Settings'
-
-![](https://github.com/mrets/photos/blob/master/MFA_setup2.png?raw=true)
-
-![](https://github.com/mrets/photos/blob/master/MFA_setup3.png?raw=true)
+![](https://github.com/markmrets/photos/blob/aa046e508a023d00ad3fcb4f4f44bba215cb3799/New%20MFA%201.png)
 
 <br>
 
-### Now, you will choose an MFA setting. They are as follows: 
+### You will notice the MFA field under your profile. Select 'Edit'
+
+![](https://github.com/markmrets/photos/blob/aa046e508a023d00ad3fcb4f4f44bba215cb3799/New%20MFA%202.png)
+
+### Select "Update 2FA Settings". 
+
+![](https://github.com/markmrets/photos/blob/aa046e508a023d00ad3fcb4f4f44bba215cb3799/New%20MFA%203.png)
+
+<br>
+
+### You will now select an MFA setting. They are as follows: 
 
 * Disabled. Do not require a verification code.
 * Every login. Always ask for verification code.
@@ -38,12 +38,12 @@ Multi-factor authentication has rapidly become a security best practice, and we 
 
 <br>
 
-### Enter your phone number and click save. If you have previously installed the Authy app on your phone, you will see M-RETS automatically added you your account.
+### Enter your phone number and select save 'update'
 
-![](https://github.com/mrets/photos/blob/master/MFA_Authy.png?raw=true)
+![](https://github.com/markmrets/photos/blob/aa046e508a023d00ad3fcb4f4f44bba215cb3799/New%20MFA%204.png)
 
 <br>
 
-### Scroll to the bottom of your User Profile and click 'Save'. You will be automatically logged out and will be asked for a code on your next login.
+### Scroll to the bottom of your User Profile and select 'Save'. You will be automatically logged out and will be asked for a code on your next login.
 
 [Back](https://mrets.github.io/Help/index)
