@@ -14,17 +14,17 @@ Don't leave your organization vulnerable to attacks. If you're not using MFA, yo
 
 ###  Once logged in, select the dropdown with your name in the upper corner. Then, select 'Profile'.
 
-![](https://github.com/markmrets/photos/blob/aa046e508a023d00ad3fcb4f4f44bba215cb3799/New%20MFA%201.png)
+![](https://github.com/markmrets/photos/blob/aa046e508a023d00ad3fcb4f4f44bba215cb3799/New%20MFA%201.png?raw=true)
 
 <br>
 
 ### You will notice the MFA field under your profile. Select 'Edit'
 
-![](https://github.com/markmrets/photos/blob/aa046e508a023d00ad3fcb4f4f44bba215cb3799/New%20MFA%202.png)
+![](https://github.com/markmrets/photos/blob/aa046e508a023d00ad3fcb4f4f44bba215cb3799/New%20MFA%202.png?raw=true)
 
 ### Select "Update 2FA Settings". 
 
-![](https://github.com/markmrets/photos/blob/aa046e508a023d00ad3fcb4f4f44bba215cb3799/New%20MFA%203.png)
+![](https://github.com/markmrets/photos/blob/aa046e508a023d00ad3fcb4f4f44bba215cb3799/New%20MFA%203.png?raw=true)
 
 <br>
 
@@ -40,7 +40,7 @@ Don't leave your organization vulnerable to attacks. If you're not using MFA, yo
 
 ### Enter your phone number and select save 'update'
 
-![](https://github.com/markmrets/photos/blob/aa046e508a023d00ad3fcb4f4f44bba215cb3799/New%20MFA%204.png)
+![](https://github.com/markmrets/photos/blob/aa046e508a023d00ad3fcb4f4f44bba215cb3799/New%20MFA%204.png?raw=true)
 
 <br>
 
