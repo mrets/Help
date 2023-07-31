@@ -2,9 +2,6 @@
 
 # Register a New Generator
 
-
-Learn how to register a new generator or project in M-RETS.
-
 The following information will guide you through the steps necessary to register a Project in your M-RETS® organization account. M-RETS is available to assist you throughout the registration process. Please call 651-900-7891, or email at <systemadmin@mrets.org>.
 
 <br>
@@ -18,7 +15,7 @@ The Registry Operating Procedures detail the requirements and definitions of dif
 ### Register a Generator
 
 
-#### After logging in, click on the 'Generators' tab on the left.
+#### After logging in, select the 'Generators' tab on the left.
 
 ![](https://github.com/mrets/photos/blob/master/new_generator1b.png?raw=true)
 
@@ -26,22 +23,26 @@ You will now see any Active generators in your Organization.
 
 <br>
 
-#### Click on 'Add New Generator' on the right side.
+#### Select the 'Add New Generator' on the right side.
 
 ![](https://github.com/mrets/photos/blob/master/new_generator2b.png?raw=true)
 
 <br>
 
-#### Give your generator a name and click 'Save Draft'. You can change the name later in the process.
+#### Give your generator a name and select 'Save Draft'. You can change the name later in the process.
+![](https://github.com/mrets/photos/blob/2e45e4b339063f920fc2029024e3d4bcc1b855ad/generator_registration_draft.png?raw=true)
 
-Your generator is now in "Draft" mode. You can continue to update your generator, however, make sure you save changes by clicking on the save draft button. Once you have filled in all of the information required (indicated by an asterisk), you will be able to submit the generator registration to the system administrator for approval. If you are not sure what a field is asking, please consult the table at the bottom of this article. If you are still unsure please contact the M-RETS System Administrator. 
+Your generator is now in "Draft" mode. You can continue to update your generator, however, make sure you save changes by selecting the save draft button. 
+
+#### Complete the required registration fields 
+Once you have filled in all of the information required (indicated by an asterisk), you will be able to submit the generator registration to the system administrator for approval. If you are not sure what a field is asking, please consult the table at the bottom of this article. If you are still unsure please contact the M-RETS System Administrator. Please see the [Static Registration](#static-data-field-information) fields below. 
 
 The System Administrator will try and approve generators submitted with all the required information within seven days. If you need your generator approved sooner, please email <systemadmin@mrets.org> and communicate your deadline.
 
 ## Uploading Supporting Documents
 
 
-1.  You can find required documentation by the link [HERE](https://www.mrets.org/resources/documents/)
+You can find required documentation by the link [HERE](https://www.mrets.org/resources/documents/)
 
 -   Schedule A -- for projects registered by a Designated Responsible Party
 -   Documents that verify ownership and Nameplate Capacity.  (Interconnection Agreement, Power Purchase Agreements, Contracts, Engineering Reports)
@@ -49,7 +50,7 @@ The System Administrator will try and approve generators submitted with all the 
 -   Multi-fuel Report (OP Appendix B-3)
 -   State Certification documents (OH, WI)
 
-Use the Documents tab interface to upload documents. By clicking the blue "Upload Document" a local search function can be accessed. 
+Use the Documents tab interface to upload documents. By selecting the blue "Upload Document" a local search function can be accessed. 
 
 ![](https://github.com/mrets/photos/blob/master/new_generator4b.png?raw=true)
 
