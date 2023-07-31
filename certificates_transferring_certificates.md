@@ -1,47 +1,52 @@
 # Transferring Certificates
 
-How to Transfer a Certificate
+How to Transfer Certificates
 
 ## M-RETS users may transfer active Certificates to:
 
 1.  Another organization
 2.  Other active account(s)
-3.  To a compatible tracking system
+3.  Export: to a compatible tracking system
 
 <br>
 
-## How Do I Transfer Certificates?
+## How to Transfer Certificates?
 
--   Select the batch(es) of Certificates you wish to transfer from the Active tab in the RECs section, then select "Transfer". For this example, I have selected two vintages totaling 5,175 Certificates.
+Navigate to the Certificates Dashboard: Active Tab. Select the batch(es) of Certificates you wish to transfer. Once you have selected the batches select the "Transfer" button. 
 
-![](https://github.com/mrets/photos/blob/master/transferring_certificates1b.png?raw=true)
-
-<br>
-
--   Select where you would like to transfer these Certificates. For this example, I chose "Another Wind Account".
-
-![](https://github.com/mrets/photos/blob/master/transferring_certificates2b.png?raw=true)
+![](https://github.com/markmrets/photos/blob/master/transfering%20certs-%20step%201.png?raw=true)
 
 <br>
 
-## BUT WAIT!
+If you would like to change the number of certificates you are transferring, you can do so here by entering the desired quantity in the "Quantity" field. After doing so select "Next".
 
-What if I want to transfer a portion of a vintage? Simply click in the fields under "Quantity (RECs)"
-
-<br>
-
--   I agreed to transfer 50% of my vintages, so I will divide my vintage totals in half. After doing so, you can see my Total Active RECs has been reduced to 2,587.
-
-![](https://github.com/mrets/photos/blob/master/transferring_certificates4b.png?raw=true)
-
--   Review your selections for accuracy, then select "Complete Transfer".
+![](https://github.com/markmrets/photos/blob/master/Transfering%20Step%202%20.png?raw=true)
 
 <br>
 
-![](https://github.com/mrets/photos/blob/master/transferring_certificates5b.png?raw=true)
 
--   You will then see a confirmation screen with an option to download Transaction History document.
+You will then select the type of transfer you wish to perform. Note: When transferring certificates you can add an optional note in the "Notes" field, this note will appear on the transaction. 
+
+- "To active accounts": Will transfer the certificates to the Active REC account that you specify.
+- "To Another M-RETS Organization": Will transfer the certificates to another organization. You will find the organization by searching the name as it is registered in M-RETS. 
+
+  ![](https://github.com/markmrets/photos/blob/master/transfer%20external%20org%20.png?raw=true)
+
+- "Out of the M-RETS platform": Will export the certificates to the tracking system and recipient specified. 
 
 <br>
 
-![](https://github.com/mrets/photos/blob/master/transferring_certificates6.png?raw=true)
+Review your selections for accuracy, then select "Review".
+
+![](https://github.com/markmrets/photos/blob/master/transfering%20review%20.png?raw=true)
+
+You will be asked to review the transaction one final time,if everything looks correct select "Transfer".
+
+<br>
+
+![](https://github.com/markmrets/photos/blob/master/transfer_final_review.png?raw=true)
+
+<be>
+
+For external organization transfers and exports, the certificate transfer will remain in "Pending" until the receiving party accepts the transfer. You can download a transaction summary by selecting "Download a transaction summary". 
+
