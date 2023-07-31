@@ -32,23 +32,32 @@ You will now see any Active generators in your Organization.
 #### Give your generator a name and select 'Save Draft'. You can change the name later in the process.
 ![](https://github.com/mrets/photos/blob/2e45e4b339063f920fc2029024e3d4bcc1b855ad/generator_registration_draft.png?raw=true)
 
-Your generator is now in "Draft" mode. You can continue to update your generator, however, make sure you save changes by selecting the save draft button. 
+Your generator is now in "Draft" mode. You can continue to update your generator; however, make sure you save changes by selecting the save draft button. 
 
 #### Complete the required registration fields 
-Once you have filled in all of the information required (indicated by an asterisk), you will be able to submit the generator registration to the system administrator for approval. If you are not sure what a field is asking, please consult the table at the bottom of this article. If you are still unsure please contact the M-RETS System Administrator. Please see the [Static Registration](#static-data-field-information) fields below. 
+Once you have filled in all of the required information (indicated by an asterisk), you can submit the generator registration to the system administrator for approval. If you are unsure what a field asks, please consult the table at the bottom of this article. If you are still unsure, please contact the M-RETS System Administrator. Please see the [Static Registration](#static-data-field-information) fields below. The System Administrator will try and approve generators submitted with all the required information within seven days. If you need your generator approved sooner, please email <systemadmin@mrets.org> and communicate your deadline.
 
-The System Administrator will try and approve generators submitted with all the required information within seven days. If you need your generator approved sooner, please email <systemadmin@mrets.org> and communicate your deadline.
+
+### Note About Certificate Types 
+M-RETS supports various Certificate Types. The most common Certificate Type is the Renewable Energy Certificate (REC) which tracks the environmental attributes associated with reported generation (MWh) from renewable sources of electric generation. M-RETS also supports Alternative Energy Certificates (AEC) that track reported generation (MWh) from approved sources of non-renewable electric generation (e.g., Nuclear and Storage). AECs have been approved by the M-RETS Administrator as having an environmental benefit that should be tracked in M-RETS despite not being considered a renewable source.
+
 
 ## Uploading Supporting Documents
 
 
-You can find required documentation by the link [HERE](https://www.mrets.org/resources/documents/)
+You can find the required documentation  [HERE](https://www.mrets.org/resources/documents/)
 
 -   Schedule A -- for projects registered by a Designated Responsible Party
 -   Documents that verify ownership and Nameplate Capacity.  (Interconnection Agreement, Power Purchase Agreements, Contracts, Engineering Reports)
 -   MN Air Permits -- For MN Eligible Multi-fuel Projects
--   Multi-fuel Report (OP Appendix B-3)
+-   Multi-fuel Report (OP Appendix B-3) Multi-fuel Generators must submit to M-RETS a report prepared by a licensed professional engineer containing documentation for measuring and verifying the quantities of each fuel type, the method of determining the net heat content and moisture content of each fuel source, and the heat rate of the Generator. M-RETS will share this documentation with state or provincial regulators upon the regulator's request.
 -   State Certification documents (OH, WI)
+-   Line Drawings for installation identifying interconnection and installed devices
+-   PURPA Qualifying Facility approval documentation
+-   FERC Qualifying Facility certification (FERC Form 556)
+-   Providing a Generator's EIA Entity ID, which is an official, unique identification number assigned by EIA can expedite the approval process. The EIA Entity ID is required for all Generators over 1 MW in the United States
+-   If this Generator will use MISO or SPP as the reporting entity, fill out and upload the MISO or SPP Release Form in the Generator documents.
+-   Documentation supporting the capacity factor calculation and the annual output of a generator (E.g., Engineering report prepared by a licensed professional engineer; solar design tool reports such as Aurora, HelioScope, PVsyst, PV Watts, etc.)
 
 Use the Documents tab interface to upload documents. By selecting the blue "Upload Document" a local search function can be accessed. 
 
