@@ -16,7 +16,7 @@ If you prefer a different layout of columns, then click on the header and drag i
 
 ## The Table: Filtering
 
-You probably noticed the buttons labeled 'Filter...' near the top of the columns. This feature is for limiting what is shown in the column. Example: If I only wanted to see my solar RECs, I would select the filter under 'Fuel Type' and select 'Solar'.
+The Filter buttons at the top of columns limit the data displayed in the column. For example, to display solar RECs only, select the filter under Fuel Type and select Solar.
 
 ![](https://github.com/markmrets/photos/blob/master/filtering%201%20.png?raw=true)
 
