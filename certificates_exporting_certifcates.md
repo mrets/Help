@@ -12,7 +12,7 @@ M-RETS supports exporting Certificates to Compatible Tracking Systems (CTS). Cur
 
 <br>
 
-### To begin the Export process, select the Certificates that you wish to Export and click "Transfer".
+### To begin the Export process, select the Certificates that you wish to Export and select "Transfer".
 
 ![](https://github.com/markmrets/photos/blob/master/export%201%20.png?raw=true)
 
