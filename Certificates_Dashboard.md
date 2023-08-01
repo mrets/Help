@@ -4,9 +4,11 @@ Welcome to the M-RETS!
 
 In this article, we are going to look at an overview of the Certificates Dashboard. 
 
-Your Certificates Dashboard view should look something like this. ***Please note, your tabs on the left may vary.*** Each tab within the Certificates Dashboard will display relevant data and information pertaining to your certificates. 
+Your Certificates Dashboard view should look something like this. ***Please note, your tabs on the left may vary.*** 
 
-![](https://github.com/markmrets/photos/blob/master/Certificates%20Dashboard%20.png?raw=true)
+![](https://github.com/markmrets/photos/blob/master/full%20certificate%20dashboars.png?raw=true)
+
+Each tab within the Certificates Dashboard will display relevant data and information pertaining to your certificates. 
 
 <br>
 
