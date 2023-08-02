@@ -2,7 +2,7 @@
 
 # Filtering and Downloading Tables
 
-How to filter and manipulate data across the data display and report interface
+How to filter and manipulate data across the data display and user interface.
 
 <br>
 
