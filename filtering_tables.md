@@ -44,6 +44,6 @@ To download either a CSV or PDF of the table, select the below icon:
 
 <br>
 
-Note: It will download everything that is currently displayed. This means any unchecked columns will not be included in the download.
+Note: The download will display all data and columns present on the page, this means any unchecked columns will not be included in the download.
 
 [Back](https://mrets.github.io/Help/index)
