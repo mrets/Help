@@ -1,0 +1,37 @@
+[Back](https://mrets.github.io/Help/index)
+
+# Mass Certificate Transfers
+
+M-RETS has released new functionality that allows for the mass transfer of certificates via csv to either an active account or external organization. 
+
+## To Mass Transfer Certificates
+
+1. Filter the "Active" certificates dashboard by the batches you wish to transfer. In this example, I will filter by vintage range of 01/2020 to 12/2020. Once filtered, select the download button, you will need to take information from the downloaded CSV later.
+
+![](https://github.com/markmrets/photos/blob/master/mass%20transfer%201%20.png?raw=true)
+
+2. Navigate to the Registry Documents section of the M-RETS website (https://www.mrets.org/resources/documents/). Under the "Mass Certificate Transfers" section download the "Mass Certificate Transfers Template". We will then input the necessary information into the CSV.
+
+3.Column A
+Using the downloaded "Active Certificates" csv from step one, copy the serial numbers into the "Mass Certificate Transfers Template".
+
+![](https://github.com/markmrets/photos/blob/master/mass%20certificate%202.png?raw=true)
+![](https://github.com/markmrets/photos/blob/master/mass%20certificate%203%20.png?raw=true)
+
+4.Column B
+Input the quantity you are transferring, you can transfer either the full batch or a partial quantity. 
+
+5.Column C
+If transfering to an external organization: You will need to obtian the organization ID from the org, this ID will begin with "MM" followed by several numbers.
+
+6. Column D
+If transfering to an internal active account: Obtain the Account ID by navigating to "Accounts" and copying the "Account ID". 
+
+
+
+
+
+
+
+![](?raw=true)
+![](?raw=true)
