@@ -43,6 +43,8 @@ Automatic Recurring Transfers (ARTs) are now available. Here's how to use them! 
 ### [Withdrawing/Accepting/Rejecting Transfers](https://mrets.github.io/Help/transactions_withdrawing_accepting_rejecting_transfers)
 This article explains how to withdraw, accept, and reject a transfer
 
+### [Mass Certificate Transfers](https://github.com/mrets/Help/edit/markmrets-patch-14/transactions_mass_certificate_transfers?pr=%2Fmrets%2FHelp%2Fpull%2F46)
+
 <br>
 
 ## Hourly Data
