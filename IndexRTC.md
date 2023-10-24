@@ -11,3 +11,4 @@ This list contains help guides for the M-RETS, broken down by sidebar categories
 
 ## Certificates 
 
+An Introduction to RTCs (link needed)
