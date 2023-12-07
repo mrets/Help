@@ -1,22 +1,16 @@
 View the Status of Current and Past Invoices
 ============================================
 
-You can now view all of your current and past invoices right in the tracking system. To view your invoices, please follow these steps.
+To view the status of invoices: 
 
--   Click on your user name in the upper right corner, then click on 'Organization Info'.
+Select the dropdown in the top right corner, then select "Organization Info".
 
-![](https://github.com/mrets/photos/blob/master/billing_viewing_invoices1.gif?raw=true)
+![](https://github.com/markmrets/photos/blob/master/New%20User%201.png?raw=true)
 
--   Click on 'Billing Info' 
+Select "Billing Info", from here you will see the invoices section.
 
-![](https://github.com/mrets/photos/blob/master/billing_viewing_invoices2.png?raw=true)
+![](https://github.com/markmrets/photos/blob/master/invoices%201%20.png?raw=true)
 
--   You should now see your invoices at the bottom of the page.
+You can view the status of your invoice(s), by selecting "View Transactions", the system will display the billable transactions (issuance, retirements, exports, and imports) conducted during the billing period.
 
-![](https://github.com/mrets/photos/blob/master/billing_viewing_invoices3.png?raw=true)
-
-WELCOME TO:\
-RELAXATION TOWN
-
-POPULATION:\
-YOU
+For questions regarding invoices and billing please contact: business@mrets.org
