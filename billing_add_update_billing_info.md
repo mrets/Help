@@ -2,28 +2,29 @@
 
 # Update/Add your Billing Contact Information
 
-You can now view and update your organization's billing contact right in the system. To update/add your billing contact, please follow these steps.
+Any user with manage organization permissions can update their organization's billing contact information within the system. To update/add your billing contact: 
 
 <br>
 
-## Click on your user name in the upper right corner, then click on 'Organization Info'.
+## Select your name in the upper right corner, then select "Organization Info".
 
-<img src="https://github.com/mrets/photos/blob/master/add_update_billing_info1.gif?raw=true" alt="Organization Info" class="center">
-
-<br>
-
-## Click the tab for 'Billing Info', then click the box for 'Edit'.
-
-<img src="https://github.com/mrets/photos/blob/master/add_update_billing_info2.png?raw=true" alt="Billing Info" class="center">
-<br>
-
-## Enter/Update the Billing Contact information in the fields.
-
-<img src="https://github.com/mrets/photos/blob/master/add_update_billing_info3.png?raw=true" alt="Billing Contact Information" class="center">
+![](https://github.com/markmrets/photos/blob/master/billing%20contact%201.png?raw=true)
 
 <br>
 
-## Click 'Save' and cross one more thing off your to-do list!
+## Select the tab for "Billing Info", then select "Edit".
+
+![](https://github.com/markmrets/photos/blob/master/billing%20contact%202.png?raw=true)
+
+<br>
+
+## Enter/Update the Billing Contact information in the fields provided. To add multiple billing emails separate them by adding a comma "," between emails. 
+
+![](https://github.com/markmrets/photos/blob/master/billing%20contact%203%20.png?raw=true)
+
+<br>
+
+## Select "Save" your changes will now be reflected under the Billing tab. 
 
 <br>
 

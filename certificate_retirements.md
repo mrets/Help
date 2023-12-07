@@ -4,13 +4,21 @@ Every M-RETS retirement requires a Type and Reason. If you feel these reasons do
 
 ## Voluntary Retirement Types
 
-### Green Pricing Program
+### Municipal Portfolio Standard
 
--   **Green Pricing Program Retirements:** “Green-e Energy Certified” Utility Green Pricing Program Retirements should use the Green-e Energy Certified Voluntary Market Sale Retirement Reason
+-  **Municipal Renewable Portfolio Standard Retirements**
 
 ### Green-e Energy Certified Voluntary Market Sale (GRN)
 
--   **All Green-e Retirements:** In order to retire Certificates to substantiate sales made in a given calendar year as “Green-e Energy certified”, the party retiring Certificates must have a contract in place with Center for Resource Solutions to make Green-e Energy certified sales in that year of sale
+-   **All Green-e Retirements:** In order to retire Certificates to substantiate sales made in a given calendar year as “Green-e Energy certified”, the party retiring Certificates must have a contract in place with Center for Resource Solutions (CRS) to make Green-e Energy certified sales in that year of sale.
+
+### State/Provincial Requirement
+
+-    **State/Provincial Requirement:** **State/Provincial-Regulated Utility Renewable Portfolio Standard (RPS)**
+
+### Green Pricing Program
+
+-   **Green Pricing Program Retirements:** “Green-e Energy Certified” Utility Green Pricing Program Retirements should use the Green-e Energy Certified Voluntary Market Sale Retirement Reason
 
 ### Federal Renewable Energy Requirement (FDR)
 
@@ -21,9 +29,7 @@ Every M-RETS retirement requires a Type and Reason. If you feel these reasons do
 -   **Formal Definition:** With respect to any Credit, Beneficial Ownership Rights means any contractual or other right to direct or control the sale or other disposition of, or the Retirement of, such Credit or (ii) any contractual or other right to receive the benefits of such Credit or any proceeds from the sale or other disposition of such Credit.
 -   **M-RETS Uses:** All retirements for the benefit of an individual owner of for a general environmental reason (i.e. company purchasing Certificates to green their operation) An Additional Details field is provided to allow the account holder to provide specific information about the sale (i.e. customer name, retirement year) Note: Compliance or Green-e Voluntary programs should not use the Beneficial Ownership retirement type. All RPS retirement should use the State-Regulated Utility RenewablePortfolio Standard/Provincial Utility Portfolio Standard (RPS) Retirement Type. Green-e Voluntary Retirements should use the Green-e EnergyCertified Voluntary Market Sale Retirement Type 
 
-### Municipal Portfolio Standard
 
--  **Municipal Renewable Portfolio Standard Retirements**
 
 <br>
 
