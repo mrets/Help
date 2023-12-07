@@ -18,7 +18,9 @@ If you prefer a different layout of columns, then click on the header and drag i
 
 The Filter buttons at the top of columns limit the data displayed in the column. For example, to display solar RECs only, select the filter under Fuel Type and select Solar.
 
-![](https://github.com/markmrets/photos/blob/master/filtering%201%20.png?raw=true)
+
+![](https://github.com/mrets/photos/blob/dd01870125e7f8502279645c7e5548b8b5ec00ed/Filtering_2.2.png)
+
 
 <br>
 
@@ -30,7 +32,9 @@ Don't want to see all of these columns? Select the gear icon.
 
 You should see the following window:
 
-![](https://github.com/markmrets/photos/blob/master/new%20data%20table%20settings.png?raw=true)
+
+![](https://github.com/mrets/photos/blob/dd01870125e7f8502279645c7e5548b8b5ec00ed/Filtering_4.2.png)
+
 
 Un-check any columns that you do not want to be included in the table.
 
