@@ -1,29 +1,33 @@
 [Back](https://mrets.github.io/Help/index)
 
-# Add Active or Retirement Account
+# Create a new Active, Retirement, or Reserve Account
 
-This article describes how to add an active or retirement account to your organization
+This article describes how to add an active, retirement, or reserve account to your organization.
 
-Accounts act as folders for Certificates. There are two types of accounts in M-RETS; Active and Retirement. Adding an Active or Retirement account is a quick process. 
-
-<br>
-
-## In the navigation bar on the left side, click on accounts.
-
-![](https://github.com/mrets/photos/blob/master/createaccount1.png?raw=true)
+Accounts act as repositories for Certificates. There are three types of accounts in M-RETS; Active, Retirement, and Reserve. An organization can create as many accounts as they see fit.
 
 <br>
 
-## Click on  'Add New Account'
+1. Active Account(s): Where active certificates are held
+2. Retirement Account(s): Where certificates that are retired are held
+3. Reserve Account(s): Where certificates that are reserved are held
 
-![](https://github.com/mrets/photos/blob/master/createaccount2.png?raw=true)
+## From the Dashboard, select "Accounts"
+
+![](https://github.com/markmrets/photos/blob/master/accounts%201%20.png?raw=true)
 
 <br>
 
-## Select the Account Type and give the Account a snappy name like "RPS 2019". or, "Erica's Awesome RECs".
+## Select "Add New Account"
 
-![](https://github.com/mrets/photos/blob/master/createaccount3.png?raw=true)
+![](https://github.com/markmrets/photos/blob/master/accounts%202%20.png?raw=true)
 
-Once you fill in the information make sure you hit save. You can then verify that your new account is set up and ready to go!
+<br>
+
+## Select the Account Type and input a name for the account. An organization can name an account with any naming convention they see fit. 
+
+![](https://github.com/markmrets/photos/blob/master/accounts%203.png?raw=true)
+
+Once you fill in the information above select "Save". Your account is now created.
 
 [Back](https://mrets.github.io/Help/index)
