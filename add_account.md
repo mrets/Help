@@ -1,33 +1,30 @@
 [Back](https://mrets.github.io/Help/index)
 
-# Create a new Active, Retirement, or Reserve Account
 
-This article describes how to add an active, retirement, or reserve account to your organization.
+# Adding an Active, Reserve, or Retirement Account 
 
-Accounts act as repositories for Certificates. There are three types of accounts in M-RETS; Active, Retirement, and Reserve. An organization can create as many accounts as they see fit.
+This article will walk you through how to add an active, reserve, or retirement account to your organization.
 
-<br>
-
-1. Active Account(s): Where active certificates are held
-2. Retirement Account(s): Where certificates that are retired are held
-3. Reserve Account(s): Where certificates that are reserved are held
-
-## From the Dashboard, select "Accounts"
-
-![](https://github.com/markmrets/photos/blob/master/accounts%201%20.png?raw=true)
+M-RETS supports three Account types: Active Accounts Reserve Accounts and Retirement Accounts. Users can transfer Certificates to specific Accounts manually or automatically upon upload. Each Account has a unique identification number, like a banking system. Users may attach aliases to Accounts for ease of reference (e.g., by state, by product name, etc.). The User can create an unlimmited number of accounts for each type. 
 
 <br>
 
-## Select "Add New Account"
+## Navigate to the  "Accounts" dashboard from the menu
 
-![](https://github.com/markmrets/photos/blob/master/accounts%202%20.png?raw=true)
+![](https://github.com/mrets/photos/blob/c08b4844366471ff2573f7dc5f12e60838f8b8ef/account_1.png)
 
 <br>
 
-## Select the Account Type and input a name for the account. An organization can name an account with any naming convention they see fit. 
+## Select 'Add New Account'
 
-![](https://github.com/markmrets/photos/blob/master/accounts%203.png?raw=true)
+![](https://github.com/mrets/photos/blob/c08b4844366471ff2573f7dc5f12e60838f8b8ef/account_2.png)
 
-Once you fill in the information above select "Save". Your account is now created.
+<br>
+
+## Select the account type from the drop-down and fill in a name. 
+
+![](https://github.com/mrets/photos/blob/c08b4844366471ff2573f7dc5f12e60838f8b8ef/account_3.png)
+
+Once you fill in the information, select 'Save'. You can then verify that your new account is set up and ready to go!
 
 [Back](https://mrets.github.io/Help/index)
