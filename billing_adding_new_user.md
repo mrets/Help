@@ -4,23 +4,24 @@
 
 ***M-RETS requires every person that logs into the system to have their own separate user login credentials.*** M-RETS tracks the specific activities of each user through the unique user ID and password. There is no limit to the number of users an organization can have. Sharing logins is prohibited.
 
-Users can be assigned three types of permissions:
-1. None -  Inability to view or edit the topic
-2. Manage - Ability to view and edit the topic
-3. Read - Ability to solely view the topic
+
+This article will walk through how to add a user to an organization.
+
+M-RETS does not allow the sharing of user accounts. ***M-RETS requires every person that logs into the system to have their own separate user login credentials.*** M-RETS tracks the specific activities of each user through the unique user ID and password. An organization can have an unlimited number of users added to its organization. 
 
 ## Adding A User
 
 
-### 1. Select your user name in the upper right corner, and select "Organization Info".
 
-![](https://github.com/markmrets/photos/blob/master/billing%20contact%201.png?raw=true)
+### 1. Select your user name in the upper right corner, then select 'Organization Info'.
+
+![](https://github.com/markmrets/photos/blob/aa046e508a023d00ad3fcb4f4f44bba215cb3799/New%20User%201.png)
 
 <br>
 
-### 2. Select "Users" and then select "Add New User"
+### 2. Select "Users" in the interface and then Add New User
 
-![](https://github.com/markmrets/photos/blob/master/users%202%20.png?raw=true)
+![](https://github.com/markmrets/photos/blob/aa046e508a023d00ad3fcb4f4f44bba215cb3799/New%20User%202%20.png)
 
 <br>
 
@@ -29,12 +30,13 @@ Users can be assigned three types of permissions:
 
 ![](https://github.com/mrets/photos/blob/master/adding_new_user3b.png?raw=true)
 
-<br>
+User Permissions Per M-RETS Operating Procedures:
 
-### 4. Hit Send Invitation and Celebrate!
+Manage: Ability to view and edit the topic
+Read Only: Ability to solely view the topic
+No Access: Inability to view or edit the topic
 
-<br>
+### 4. Select Send Invitation
 
-## IMPORTANT: By default, email notifications are set to 'off' for users. To turn email notifications on, please follow [this guide](https://mrets.github.io/Help/billing_email_notifications).
-
+## IMPORTANT: By default, email notifications are set to 'off' for users. To turn email notifications on, please navigate [here](https://mrets.github.io/help/billing_adding_new_user)
 [Back](https://mrets.github.io/Help/index)
