@@ -1,4 +1,4 @@
-# RECs Tab: An Introduction
+# RECs Dashboard: An Introduction
 
 In this article, we are going to look at an overview of the RECs tab.
 
