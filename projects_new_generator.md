@@ -65,7 +65,7 @@ You can find the required documentation to register a generator  [HERE](https://
 ## Submission and Review
 
 
-#### PLEASE NOTE: Your generator must be submitted for review and approved before generation 
+#### PLEASE NOTE: Your generator must be submitted for review and approved before generation can be uploaded. Once all required fields have been input and the necessary documentation has been uploaded the "Submit Generator' button will be available. 
 
 The M-RETS Administrator will be notified of the New Asset Registration via email. Your project will then be put into Pending mode until the System Administrator Approves the project or asks for further information.
 
