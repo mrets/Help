@@ -2,7 +2,7 @@
 
 (Formerly known as Forward Transfers and Standing Orders)
 
-After logging in, click on 'Transactions' on the left. You will now see there are three options on this page: Pending, History, and Recurring. Click on Recurring. This is where you will see your recurring transfers.
+After logging in, select 'Transactions' on the left. You will now see there are three options on this page: Pending, History, and Recurring. Select Recurring. This is where you will see your recurring transfers.
 
 This article is broken up into steps in order to combine all possible transfers into one document.
 
