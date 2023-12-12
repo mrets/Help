@@ -2,7 +2,7 @@
 
 In this article, we are going to look at an overview of the RECs tab.
 
-Your RECs view should look something like this. Please note, your tabs on the left may vary. ***Please note, your tabs on the left may vary.***
+Your RECs view should look something like this. Please note, that your tabs on the left may vary. ***Please note, your tabs on the left may vary.***
 
 ## Certificates: Active, Retired, and Reserve
 ![](https://github.com/mrets/photos/blob/319f58f95e2e034c830f5686ccfab75a6609f8de/Certificate_Tab1.png)
@@ -21,7 +21,7 @@ You will see options to change from ‘Active’ to ‘Retired’, to 'Reserved"
 
 ## The Table
 
-The main source of data is the RECs table. In the table you will notice the following columns by default:
+The main source of data is the RECs table. In the table, you will notice the following columns by default:
 
 -   Account: Where the RECs are currently located. For more, see Accounts Tab: An Introduction
 -   M-RETS ID: The identification number of your generator.
@@ -46,7 +46,7 @@ If you prefer a different layout of columns, then click on the header and drag i
 
 ## The Table: Filtering
 
-The filter feature is used for limiting what is shown in the column. Example: If I only wanted to see my solar RECs, I would click on the filter under ‘Fuel Type’ and select ‘Solar’.
+The filter feature is used to limit what is shown in the column. Example: If I only wanted to see my solar RECs, I would click on the filter under ‘Fuel Type’ and select ‘Solar’.
 
 <br>
 
@@ -70,7 +70,7 @@ Un-check any columns that you do not want included in the table.
 
 ## Downloading your RECs: The Arrow
 
-Do you need to download your RECs? Maybe send them to colleague? Just click on this icon:
+Do you need to download your RECs? Maybe send them to a colleague? Just click on this icon:
 
 ![](https://github.com/mrets/photos/blob/4aa794fd825612352505b8406cb2aac23ff8798f/Certificate_Tab_6.2.png)
 
