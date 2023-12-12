@@ -4,9 +4,6 @@
 
 # Transactions
 
-## [Transfer to Multiple Active Accounts](https://mrets.github.io/Help/transactions_transfer_to_multiple)
-Learn how to transfer a batch of RECs to multiple active accounts
-
 ## [How-To: Automatic Recurring Transfers and Irrevocable Transfers](https://mrets.github.io/Help/transactions_automatic_recurring_transfers)
 Automatic Recurring Transfers (ARTs) are now available. Here's how to use them! (Formerly known as Forward Transfers and Standing Orders)
 
