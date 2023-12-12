@@ -11,3 +11,5 @@ Automatic Recurring Transfers (ARTs) are now available. Here's how to use them! 
 This article explains how to withdraw, accept, and reject a transfer
 
 ## [Exporting RECs](https://mrets.github.io/Help/certificates_exporting_certifcates)
+
+## [Mass Certificate Transfers] (https://github.com/mrets/Help/blob/master/transactions_mass_certificate_transfers)
