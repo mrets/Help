@@ -14,3 +14,5 @@ This article will walk you through the multi-fuel issuance split process require
 What to do if you get a feasibility analysis failure upon upload
 
 ## [Generation Upload Data Format](https://mrets.github.io/Help/generation_upload_format)
+
+## [Generation Adjustments](https://github.com/mrets/Help/blob/master/Generation%20Adjustments.md)
