@@ -9,6 +9,8 @@ Learn how to upload generation data.
 
 ## [MISO Generation Reporting](https://github.com/mrets/Help/blob/master/MISO.md)
 
+## [SPP Generation Reporting](https://github.com/mrets/Help/blob/master/SPP.md)
+
 ## [Multi-Fuel Issuance: Entering Fuel Splits for Multi-Fuel Generators](https://mrets.github.io/Help/generation_multi_fuel)
 This article will walk you through the multi-fuel issuance split process required before issuance
 
