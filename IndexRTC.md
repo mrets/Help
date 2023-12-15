@@ -21,3 +21,6 @@ An Introduction to RTCs (link needed)
 
 
 
+
+# Platform Documents 
+## [Terms of Use](https://github.com/mrets/Help/blob/master/platform_privacy_policy.md)
