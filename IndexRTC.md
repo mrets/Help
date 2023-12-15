@@ -12,3 +12,12 @@ This list contains help guides for the M-RETS, broken down by sidebar categories
 ## Certificates 
 
 An Introduction to RTCs (link needed)
+
+
+
+
+# Generation
+## [Reporting Generation](https://github.com/mrets/Help/blob/master/generation_rt_upload.md)
+
+
+
