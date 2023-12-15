@@ -1,12 +1,13 @@
 # Entering Fuel Split for Multi-Fuel Generators
 
-Multi-fuel generators require the user to enter a fuel-split(or fuel-allocation) before the certificates are issued. You can find a pending fuel split in two ways
-1) Notifications dispalyed from the main dashboard
+Multi-fuel generators require the user to enter a fuel-split(or fuel allocation) before the certificates are issued. You can find a pending fuel split in two ways:
+
+1) Notifications displayed from the main dashboard
 2) Pending tab located in the Generation dashboard 
 
 ## Pending Fuel Split Notification
-When Generation data is loaded for a multi-fuel generator, a popup notification will be displayed on the main dashboard like the one listed below. By selecting "View Pending Generations" button, the user will be taken to the Pending tab of the Generation dashboard. The user can enter the fuel split from this screen.
-![](https://github.com/mrets/photos/blob/21ed00fc9d81eb0e8d63ec4922aa094a1d539992/multifuel_1.2.png)
+When Generation data is loaded for a multi-fuel generator, a popup notification will be displayed on the main dashboard like the one listed below. By selecting the "View Pending Generations" button, the user will be taken to the Pending tab of the Generation dashboard. The user can enter the fuel split from this screen.
+![](https://github.com/mrets/photos/blob/master/multifuel_1.2.png)
 
 ## Entering a Fuel Split 
 ### From the main dashboard navigate to the "Generation" dashboard from the vertical menu and select the "Pending" tab. The User will see all generation in Pending status. Generation with the Status: "Pending: Waiting for Fuel Split", is ready for the user to report the fuel split and issue the certificates. 
