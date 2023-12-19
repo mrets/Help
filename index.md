@@ -12,9 +12,9 @@ This list contains help guides for the M-RETS, broken down by sidebar categories
 
 ## Certificates
 
-### [Certificates Dashboard: An Introduction](https://mrets.github.io/Help/certificates_tab)
+### [Certificates Dashboard: An Introduction](https://mrets.github.io/Help/Certificates_Dashboard)
 
-### [Reserve Certificates Overview](https://github.com/mrets/Help/blob/master/Reserve_Certificates_Overview.md)
+### [Reserve Certificates Overview](https://mrets.github.io/Help/Reserve_Certificates_Overview)
 
 ### [Transferring Certificates](https://mrets.github.io/Help/certificates_transferring_certificates)
 How to Transfer a Certificate
