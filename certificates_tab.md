@@ -2,7 +2,7 @@
 
 In this article, we are going to look at an overview of the RECs tab.
 
-Your RECs view should look something like this. Please note, that your tabs on the left may vary. ***Please note, your tabs on the left may vary.***
+Your RECs view should look something like this. ***Please note, your tabs on the left may vary.***
 
 ## Certificates: Active, Retired, and Reserve
 ![](https://github.com/mrets/photos/blob/319f58f95e2e034c830f5686ccfab75a6609f8de/Certificate_Tab1.png)
