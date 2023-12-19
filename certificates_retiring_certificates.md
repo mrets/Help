@@ -1,9 +1,9 @@
 # Retiring Certificates
 
-A Retirement Account is a repository for M-RETS Certificates that the Organization wants to designate as retired for a Voluntary environmental claim, for a beneficial owner, or toward a State or Provincial Compliance program. An Organization may retire Certificates for any number of reasons, including, but not limited to demonstrating compliance with a renewable mandate, retiring Certificates on behalf of green power customers, or making claims about the air quality benefits of the renewable Certificates. M-RETS Certificates in a Retirement Account are no longer transferable to another party and serve as an electronic proof of retirement. M-RETS is not responsible for ensuring that Users retire RECs for voluntary or compliance purposes. M-RETS requires all Users to initiate and complete all retirements. Please notify M-RETS if you would like to add a new type of voluntary or compliance retirement reason. 
+A Retirement Account is a repository for M-RETS Certificates that the Organization wants to designate as retired for a Voluntary environmental claim, for a beneficial owner, or toward a State/Provincial Compliance program. An Organization may retire Certificates for any number of reasons, including, but not limited to demonstrating compliance with a Renewable Portfolio Standard or a green pricing program. M-RETS Certificates in a Retirement Account are no longer transferable and serve as an electronic proof of retirement. M-RETS is not responsible for ensuring that Users retire RECs for voluntary or compliance purposes. M-RETS requires all Users to initiate and complete all retirements. Please notify M-RETS if you would like to add a new type of voluntary or compliance retirement reason. 
 
 
-### Step 1: Select the batch(es) you wish to retire from the Active Certificates table. If you do not want to retire an entire batch, you will be able to edit the REC quantity from the batches later in the process.
+### Step 1: Select the batch(es) you wish to retire from the Active Certificates table within the Certificates Dashboard. If you do not want to retire an entire batch, you will be able to edit the REC quantity from the batches later in the process.
 
 ![](https://github.com/mrets/photos/blob/9d58405d0a1e6c5ed21939fd9f1c034be68c1385/retiring_certificates2.2.png)
 

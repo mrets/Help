@@ -4,8 +4,6 @@ This list contains help guides for the M-RETS, broken down by sidebar categories
 
 ### [Enrolling in Multifactor Authentication (MFA)](https://mrets.github.io/Help/mfa_setup)
 
-### [Exporting From ERCOT to M-RETS](https://mrets.github.io/Help/ercot)
-
 ### [Annual Generator Review Process](https://mrets.github.io/Help/annual_project_review)
 
 ### [Filtering and Downloading Tables](https://mrets.github.io/Help/filtering_tables)
@@ -14,7 +12,9 @@ This list contains help guides for the M-RETS, broken down by sidebar categories
 
 ## Certificates
 
-### [Certificates Tab: An Introduction](https://mrets.github.io/Help/certificates_tab)
+### [Certificates Dashboard: An Introduction](https://mrets.github.io/Help/certificates_tab)
+
+### [Reserve Certificates Overview](https://github.com/mrets/Help/blob/master/Reserve_Certificates_Overview.md)
 
 ### [Transferring Certificates](https://mrets.github.io/Help/certificates_transferring_certificates)
 How to Transfer a Certificate
@@ -28,14 +28,10 @@ Learn how to sell RECs on M-RETS
 ### [Certificate Retirement Types](https://mrets.github.io/Help/certificate_retirements)
 Available options to select when retiring RECs
 
-### [Exporting RECs](https://mrets.github.io/Help/certificates_exporting_certifcates)
 
 <br>
 
 ## Transactions
-
-### [Transfer to Multiple Active Accounts](https://mrets.github.io/Help/transactions_transfer_to_multiple)
-Learn how to transfer a batch of RECs to multiple active accounts
 
 ### [How-To: Automatic Recurring Transfers and Irrevocable Transfers](https://mrets.github.io/Help/transactions_automatic_recurring_transfers)
 Automatic Recurring Transfers (ARTs) are now available. Here's how to use them! (Formerly known as Forward Transfers and Standing Orders)
@@ -43,7 +39,15 @@ Automatic Recurring Transfers (ARTs) are now available. Here's how to use them! 
 ### [Withdrawing/Accepting/Rejecting Transfers](https://mrets.github.io/Help/transactions_withdrawing_accepting_rejecting_transfers)
 This article explains how to withdraw, accept, and reject a transfer
 
+
 ### [Mass Certificate Transfers](https://github.com/mrets/Help/edit/markmrets-patch-14/transactions_mass_certificate_transfers?pr=%2Fmrets%2FHelp%2Fpull%2F46)
+=======
+### [Exporting RECs](https://mrets.github.io/Help/certificates_exporting_certifcates)
+
+### [Exporting from ERCOT to M-RETS](https://github.com/mrets/Help/blob/master/full_transactions.md)
+
+### [Mass Certificate Transfers](https://github.com/mrets/Help/blob/master/transactions_mass_certificate_transfers)
+
 
 <br>
 
