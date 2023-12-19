@@ -1,62 +1,61 @@
 Adding a Program
 ================
 
-This article will describe the basics of Programs
+This article will describe the basics of the Program feature. 
 
-NOTE: This article is intended for Regulators. If you received an email to participate in a program, click [here](https://mrets.github.io/Help/program_participating_programs).
+NOTE: This article is intended for Regulators. If you received an email invitation to participate in a program, navigate [here](https://mrets.github.io/Help/program_participating_programs).
 
 OVERVIEW
 --------
 
-A retirement program offers an easy way to compile retired certificates for a specific set of criteria. Users may personalize programs to only show relevant retired certificates. Programs can be set up for both compliance and voluntary use.
+The Programs feature allows for the creation of specific criteria and eligibilities to be used in order for certificates to be retired. A Program Administrator invites participants to a program and can create eligibility requirements that must be met such as vintage, fuel source, generator location, eligibilities, etc. Programs can be set up for either voluntary or compliance use. 
 
 GETTING STARTED
 ---------------
 
-In order to see the new feature and create programs, you will need to enable your permissions.
+In order to see the new feature and create programs, you will need to enable Program permissions. 
 
--   Click on your name in the upper right hand corner and click on 'Organization Info'.
+-   Select your name in the upper right-hand dropdown and then select "organization info". 
 
-![](https://github.com/mrets/photos/blob/master/adding_program1.gif?raw=true)
+![](https://github.com/markmrets/photos/blob/master/program%20admin%201.png?raw=true)
 
--   Click on 'Users'
+-   Select "Users"
 
-![](https://github.com/mrets/photos/blob/master/adding_program2.png?raw=true)
+![](https://github.com/markmrets/photos/blob/master/program%20admin%202%20.png?raw=true)
 
--   Find your user and click on 'Edit User'
--   Scroll down to Permissions and set your level to 'Manage'.
+-   Find your user and scroll to the right of the table to select "Edit User"
 
-![](https://github.com/mrets/photos/blob/master/adding_program3.png?raw=true)
+![](https://github.com/markmrets/photos/blob/master/program%20admin%203%20.png?raw=true)
 
--   Click 'Save'
+-   Scroll down to Permissions and set "Program" to manage. 
 
-You should now see 'Programs' in the taskbar
+![](https://github.com/markmrets/photos/blob/master/Program%20Admin%204%20.png?raw=true)
+
+-   Select "Save"
+
+You will now see the "Programs" tab in the dashboard
 --------------------------------------------
-
-![](https://github.com/mrets/photos/blob/master/adding_program4.png?raw=true)
 
 Adding a Program
 ----------------
 
-Let's start be clicking on the 'Programs' button in the taskbar. Any active programs will be listed in the table on this page. 
+Navigate to the Programs tab in the Dashboard. This page will display any active or closed programs under your organization. 
 
--   To add a program, click on the 'Add New Program' Button.
+-   To add a program, select "Add New Program".
 
-![](https://github.com/mrets/photos/blob/master/adding_program5.gif?raw=true)
+![](https://github.com/markmrets/photos/blob/master/program%20admin%205.png?raw=true)
 
--   We will now enter the General Information for the Program
+You will now input the General Information for the Program:
 -   Program Name
 -   Year
 -   Close Date
 -   Account Naming Convention (optional)
 
-![](https://github.com/mrets/photos/blob/master/adding_program6.png?raw=true)
+-   Enter the information required on the screen and select "Continue"
 
--   Enter your information and click 'Continue'
+![](https://github.com/markmrets/photos/blob/master/Program%20admin%206%20.png?raw=true)
 
-![](https://github.com/mrets/photos/blob/master/adding_program7.png?raw=true)
-
-This is the Ruleset page. *PLEASE NOTE THAT NO RULES ARE REQUIRED*
+This is the ruleset page. Program Administrators can establish criteria that certificates must meet in order to be counted towards the Program. *PLEASE NOTE THAT NO RULES ARE REQUIRED*
 
 -   Vintage Start
 -   Vintage End
@@ -65,12 +64,17 @@ This is the Ruleset page. *PLEASE NOTE THAT NO RULES ARE REQUIRED*
 -   Fuel Types
 -   Projects
 
-After you have applied your rules, if any, click 'Continue'. The next page will allow you to add participants to your new program. 
+In the below example, certificates can only be retired that have a vintage of Jan 2023 to Dec 2023 and they must have Minnesota eligibility applied to them. 
 
--   Click the dropdown and select the organizations who will participate in your program. N*OTE: All selected organizations will receive an invite via email. Participants must accept this invite before they can create associated accounts or do any program retirements.*
+![](https://github.com/markmrets/photos/blob/master/Program%20Admin%208.png?raw=true)
 
-![](https://github.com/mrets/photos/blob/master/adding_program8.png?raw=true)
 
--   Once you have selected organizations, click 'Save and Send Invites'.
+After you have applied your rules, if any, select "Continue". The next page will allow you to invite participants to your  program. 
 
-You should now see your Program on the Active Programs list!
+-   Select the dropdown and select the organizations to invite to your program.  NOTE: All selected organizations will receive an invite via email. Participants must accept this invite before they can create associated accounts or do any program retirements.*
+
+![](https://github.com/markmrets/photos/blob/master/program%20admin%209.png?raw=true)
+
+-   Once you have selected organizations, select "Save and Send Invites". Your program is now created. 
+
+

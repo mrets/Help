@@ -2,9 +2,6 @@
 
 # Register a New Generator
 
-
-Learn how to register a new generator or project in M-RETS.
-
 The following information will guide you through the steps necessary to register a Project in your M-RETS® organization account. M-RETS is available to assist you throughout the registration process. Please call 651-900-7891, or email at <systemadmin@mrets.org>.
 
 <br>
@@ -26,7 +23,9 @@ You will now see any Active generators in your Organization.
 
 <br>
 
+
 #### Select 'Add New Generator' on the right side.
+
 
 ![](https://github.com/mrets/photos/blob/master/new_generator2b.png?raw=true)
 
@@ -34,11 +33,13 @@ You will now see any Active generators in your Organization.
 
 #### Give your generator a name and select 'Save Draft'. You can change the name later in the process.
 
+
 Your generator is now in "Draft" mode. You can continue to update your generator, however, make sure you save changes by selecting the 'Save Draft' button. Once you have filled in all of the information required (indicated by an asterisk), you will be able to submit the generator registration to the system administrator for approval. If you are not sure what a field is asking, please consult the table at the bottom of this article. If you are still unsure please contact the M-RETS System Administrator. 
 
-The System Administrator will try and approve generators submitted with all the required information within seven days. If you need your generator approved sooner, please email <systemadmin@mrets.org> and communicate your deadline.
+
 
 ## Uploading Supporting Documents
+
 1.	A completed on-line Generator registration form containing information related to the characteristics of the Generator Asset and associated meter.
 2.	If applicable, a completed [Schedule A](https://www.mrets.org/wp-content/uploads/2017/12/MRETS-Schedule-A-Modified-12-28-2017.pdf) from the M-RETS Terms of Use outlining the Generator Owner’s Designation of Responsible Party. 
 3.	Any documentation requested by M-RETS to verify the registration information which could include:
@@ -56,6 +57,7 @@ The System Administrator will try and approve generators submitted with all the 
 
 
 Use the Documents tab interface to upload documents. By Selecting the blue "Upload Document" a local search function can be accessed. 
+
 
 ![](https://github.com/mrets/photos/blob/master/new_generator4b.png?raw=true)
 
