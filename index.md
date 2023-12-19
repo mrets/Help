@@ -43,7 +43,7 @@ This article explains how to withdraw, accept, and reject a transfer
 
 ### [Exporting from ERCOT to M-RETS](https://github.com/mrets/Help/blob/master/full_transactions.md)
 
-### [Mass Certificate Transfers](https://mrets.github.io/Help/transactions_mass_certificate_transfers)
+### [Mass Certificate Transfers](https://mrets.github.io/Help/transactions_mass_certificate_transfers.md)
 
 
 
