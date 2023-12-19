@@ -22,9 +22,6 @@ How to Transfer a Certificate
 ### [Retiring Certificates](https://mrets.github.io/Help/certificates_retiring_certificates)
 How to retire Certificates in M-RETS
 
-### [Selling Certificates](https://mrets.github.io/Help/certificates_selling_certificates)
-Learn how to sell RECs on M-RETS
-
 ### [Certificate Retirement Types](https://mrets.github.io/Help/certificate_retirements)
 Available options to select when retiring RECs
 
