@@ -52,7 +52,7 @@ The filter feature is used to limit what is shown in the column. Example: If I o
 
 ## Settings: The Gear
 
-Use the gear icon to customize the report columns. 
+Use the gear icon, located in the top right of the dachboard,  to customize the report columns. 
 
 ![](https://github.com/mrets/photos/blob/master/certificates_tab4.png?raw=true)
 
