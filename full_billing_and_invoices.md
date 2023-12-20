@@ -16,4 +16,4 @@ Learn how to add or remove email notifications as a user
 ## [Invoices](https://mrets.github.io/Help/invoices)
 Where might I find my invoice in the tracking system?
 
-## [M-RETS Admin Assisted User Permissions](https://github.com/mrets/Help/blob/master/billing_adding_users_admin_assisted.md) 
+## [M-RETS Admin Assisted User Permissions](https://mrets.github.io/Help/billing_adding_users_admin_assisted) 
