@@ -19,6 +19,6 @@ What to do if you get a feasibility analysis failure upon upload
 
 ## [Generation Upload Data Format](https://mrets.github.io/Help/generation_upload_format)
 
-## [Generation Adjustments]([SPP Generation Reporting](https://mrets.github.io/Help/Generation%20Adjustments)
+## [Generation Adjustments](https://mrets.github.io/Help/Generation%20Adjustments)
 
 
