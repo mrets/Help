@@ -11,6 +11,6 @@ Select "Billing Info", from here you will see the invoices section.
 
 ![](https://github.com/markmrets/photos/blob/master/invoices%201%20.png?raw=true)
 
-You can view the status of your invoice(s), by selecting "View Transactions", the system will display the billable transactions (issuance, retirements, exports, and imports) conducted during the billing period.
+You can view the status of your invoice(s), by selecting "View Transactions", the system will display the billable transactions (issuance, retirements, reserve, exports, and imports) conducted during the billing period.
 
 For questions regarding invoices and billing please contact: business@mrets.org
