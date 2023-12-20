@@ -16,4 +16,4 @@ Available options to select when retiring RECs
 
 ## [Exporting RECs](https://mrets.github.io/Help/certificates_exporting_certifcates)
 
-## [Reserve Certificates Overview](https://github.com/mrets/Help/blob/master/Reserve_Certificates_Overview.md)
+## [Reserve Certificates Overview](https://mrets.github.io/Help/Reserve_Certificates_Overview)
