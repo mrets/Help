@@ -21,7 +21,7 @@ A Retirement Account is a repository for M-RETS Certificates that the Organizati
 
 <br>
 
-### Step 4: On the second page of the retirement screen, once you have entered the quantity you wish to retire, select "Next". You will then be asked to provide the retirement reason. For a description of retiernment reasons, please refer [here](https://github.com/mrets/Help/blob/master/certificate_retirements.md). 
+### Step 4: On the second page of the retirement screen, once you have entered the quantity you wish to retire, select "Next". You will then be asked to provide the retirement reason. For a description of retiernment reasons, please refer [here](https://mrets.github.io/Help/certificate_retirements). 
 
 ![](https://github.com/mrets/photos/blob/f339ab399909407e23deba57519b78593d7cebb5/retiring_certificates5.2.png)
 
