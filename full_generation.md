@@ -7,9 +7,9 @@
 ## [Upload Generation Data](https://mrets.github.io/Help/generation_upload_data)
 Learn how to upload generation data.
 
-## [MISO Generation Reporting](https://github.com/mrets/Help/blob/master/MISO.md)
+## [MISO Generation Reporting](https://mrets.github.io/Help/MISO)
 
-## [SPP Generation Reporting](https://github.com/mrets/Help/blob/master/SPP.md)
+## [SPP Generation Reporting](https://mrets.github.io/Help/SPP)
 
 ## [Multi-Fuel Issuance: Entering Fuel Splits for Multi-Fuel Generators](https://mrets.github.io/Help/generation_multi_fuel)
 This article will walk you through the multi-fuel issuance split process required before issuance
@@ -19,6 +19,6 @@ What to do if you get a feasibility analysis failure upon upload
 
 ## [Generation Upload Data Format](https://mrets.github.io/Help/generation_upload_format)
 
-## [Generation Adjustments](https://github.com/mrets/Help/blob/master/Generation%20Adjustments.md)
+## [Generation Adjustments]([SPP Generation Reporting](https://mrets.github.io/Help/Generation%20Adjustments)
 
 
