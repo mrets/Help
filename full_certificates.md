@@ -1,6 +1,6 @@
 # Certificates
 
-## [Certificates Tab: An Introduction](https://mrets.github.io/Help/certificates_tab)
+## [Certificates Dashboard: An Introduction](https://mrets.github.io/Help/certificates_tab)
 
 ## [Transferring Certificates](https://mrets.github.io/Help/certificates_transferring_certificates)
 How to Transfer a Certificate
@@ -12,3 +12,5 @@ How to retire Certificates in M-RETS
 Available options to select when retiring RECs
 
 ## [Exporting RECs](https://mrets.github.io/Help/certificates_exporting_certifcates)
+
+## [Reserve Certificates Overview](https://mrets.github.io/Help/Reserve_Certificates_Overview)
