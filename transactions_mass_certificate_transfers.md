@@ -40,7 +40,8 @@ You can include any notes that you would like to appear on the certificate trans
 
 ![](https://github.com/markmrets/photos/blob/master/MCT%201.png?raw=true)
 
-3. Select "Choose file" and then "Upload" 
+3. Select "Choose file" and then "Upload"
+   
 ![](https://github.com/markmrets/photos/blob/master/MCT%202.png?raw=true)
 
 If there is an error with your upload or file you will receive an email from the M-RETS System detailing what the issue is. If the certificates are being sent to an external organization they will remain in a pending state until they are accepted. 
