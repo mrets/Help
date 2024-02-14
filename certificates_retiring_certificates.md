@@ -5,7 +5,7 @@ A Retirement Account is a repository for M-RETS Certificates that the Organizati
 
 ### Step 1: Select the batch(es) you wish to retire from the Active Certificates table within the Certificates Dashboard. If you do not want to retire an entire batch, you will be able to edit the REC quantity from the batches later in the process.
 
-![](https://raw.githubusercontent.com/mrets/photos/9d58405d0a1e6c5ed21939fd9f1c034be68c1385/retiring_certificates2.2.png)
+![](https://github.com/mrets/photos/blob/9d58405d0a1e6c5ed21939fd9f1c034be68c1385/retiring_certificates2.2.png?raw=true)
 
 <br>
 
