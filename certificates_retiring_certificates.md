@@ -59,8 +59,7 @@ A Retirement Account is a repository for M-RETS Certificates that the Organizati
 
 ### Step 6: Review the retirement. If everything looks correct, select "Retire".
 
-![](https://github.com/mrets/photos/blob/ff0187686c3ac0d7342bca232a991a05627eea3c/retiring_certificates_11.2.png)
-
+![](https://github.com/mrets/photos/blob/master/retiring_certificates_11.2.png)
 <br>
 
 ### Upon completion, you will see a confirmation screen that your retirement was successful. Here you can also select "View Transaction History" to download a retirement record document.
