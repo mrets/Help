@@ -3,7 +3,7 @@ For small (<=1 MW) customer-sited Distributed Generating Units, M-RETS will allo
 
 Aggregated units into a DGG must meet the following criteria:
 
-1. The M-RETS State/Province programs allow for aggregation if an eligibility is sought
+1. The M-RETS State/Province programs allow for aggregation if eligibility is sought
 2. The Aggregated Units do not exceed a total nameplate capacity of 1 MW
 
 M-RETS will require documentation to be submitted for each Distributed Generating Unit to verify the unit’s engineering, interconnection and ownership which may include an Interconnection Agreement, Certificate of Completion and Schedule A. Micro-Generator Project Subscriptions are only authorized to register up to 100kW of project registrations. This account type will not be permitted to register DGG registrations. 
@@ -12,7 +12,7 @@ M-RETS will require documentation to be submitted for each Distributed Generatin
 DGG functionality must first be turned on for an M-RETS Organization. Please contact systemadmin@mrets.org to request use of this feature. 
 Once the feature has been enabled by the M-RETS Administrator, please follow the below steps to register a DGG. 
 
-### Step 1 : Navigate to the "DG Groups" dashboard located in the left side menu
+### Step 1: Navigate to the "DG Groups" dashboard located in the left side menu
 
 <img src="https://github.com/mrets/photos/blob/b8d7d0fc6907589f54cfd151ce0c373f34394cd6/dgg_1.png" alt="drawing" width="800"/>
 
@@ -27,7 +27,7 @@ Once the feature has been enabled by the M-RETS Administrator, please follow the
 *General Tab*
 
 Group name: M-RETS does not require any specific naming convention, DG groups can be named at the discretion of the organization registering them. 
-DG Group Type: Groups can contain either residential, commercial, or a mix of both distributed energy resource types.
+DG Group Type: Groups can contain either residential, commercial or a mix of both distributed energy resource types.
 
 *Units Tab*
 
@@ -37,6 +37,10 @@ Expansion Indicator:  If the unit being registered is an addition to an already
 <img src="https://github.com/mrets/photos/blob/b8d7d0fc6907589f54cfd151ce0c373f34394cd6/dgg_4.png" alt="drawing" width="800"/>
 <br>
 <img src="https://github.com/mrets/photos/blob/b8d7d0fc6907589f54cfd151ce0c373f34394cd6/dgg_5.png" alt="drawing" width="800"/>
+
+DGG Units can also be bulk-added to a group using the CSV titled "Distributed Generation Groups (DGGs) Units Upload File", found under the [Registry Documents](https://www.mrets.org/resources/documents/) page of the M-RETS Website.
+
+Once the CSV Unit File is completed please email it to the M-RETS Admin and our team will upload the file. 
 
 *Documents Tab*
 

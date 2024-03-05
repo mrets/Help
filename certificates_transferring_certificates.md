@@ -1,6 +1,6 @@
 # Transferring Certificates
 
-How to Transfer Certificates
+This help document will walk through how to transfer certificates
 
 ## M-RETS users may transfer active Certificates to:
 

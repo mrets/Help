@@ -12,18 +12,15 @@ This list contains help guides for the M-RETS, broken down by sidebar categories
 
 ## Certificates
 
-### [Certificates Dashboard: An Introduction](https://mrets.github.io/Help/certificates_tab)
+### [Certificates Dashboard: An Introduction](https://mrets.github.io/Help/Certificates_Dashboard)
 
-### [Reserve Certificates Overview](https://github.com/mrets/Help/blob/master/Reserve_Certificates_Overview.md)
+### [Reserve Certificates Overview](https://mrets.github.io/Help/Reserve_Certificates_Overview)
 
 ### [Transferring Certificates](https://mrets.github.io/Help/certificates_transferring_certificates)
 How to Transfer a Certificate
 
 ### [Retiring Certificates](https://mrets.github.io/Help/certificates_retiring_certificates)
 How to retire Certificates in M-RETS
-
-### [Selling Certificates](https://mrets.github.io/Help/certificates_selling_certificates)
-Learn how to sell RECs on M-RETS
 
 ### [Certificate Retirement Types](https://mrets.github.io/Help/certificate_retirements)
 Available options to select when retiring RECs
@@ -41,9 +38,11 @@ This article explains how to withdraw, accept, and reject a transfer
 
 ### [Exporting RECs](https://mrets.github.io/Help/certificates_exporting_certifcates)
 
-### [Exporting from ERCOT to M-RETS](https://github.com/mrets/Help/blob/master/full_transactions.md)
+### [Exporting from ERCOT to M-RETS](https://mrets.github.io/Help/transactions_ercot)
 
-### [Mass Certificate Transfers](https://github.com/mrets/Help/blob/master/transactions_mass_certificate_transfers)
+### [Mass Certificate Transfers](https://mrets.github.io/Help/transactions_mass_certificate_transfers)
+
+
 
 <br>
 
@@ -86,6 +85,8 @@ This article will walk you through the multi-fuel issuance split process require
 What to do if you get a feasibility analysis failure upon upload
 
 ### [Generation Upload Data Format](https://mrets.github.io/Help/generation_upload_format)
+
+### [Generation Adjustments](https://mrets.github.io/Help/generation_adjustments)
 
 <br>
 

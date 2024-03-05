@@ -1,6 +1,6 @@
 [Back](https://mrets.github.io/Help/index)
 
-# Uploading Thermal Generation
+# Reporting Thermal Generation
 
 Any user with Generation Submittal permissions can submit Dth data into M-RETS. Each time M-RETS receives generation data for a generator, the date and quantity of Dths are posted to the Generation Log. Any
 fractional remainders will not issue certificates but will roll over to the next month of generation. Once uploaded, data will be labeled with one of the following:
@@ -57,9 +57,9 @@ M-RETS will not create certificates for the generation entered and designated as
 
 ![](https://github.com/mrets/photos/blob/master/generation_rt_7.png?raw=true)
 
-Certificates created by Generators that Self-report (i.e. Generators that do not use an IRE) must also submit with the generation information an invoice, receipt, or other official documents that identify the Dth of gas injected. *If the documentation does not use Dth, the documentation must include values that would allow the M-RETS System Administrator to determine the Dth value. If this is not possible the Generator must work this out with the M-RETS System Administrator prior to uploading.*
+Certificates created by Generators that Self-report (i.e. Generators that do not use an IRE) must also submit with the generation information an invoice, receipt, or other official documents that identify the Dth of gas injected. *If the documentation does not use Dth, the documentation must include values that would allow the M-RETS System Administrator to determine the Dth value. If this is not possible the Generator must work this out with the M-RETS System Administrator before uploading.*
 
-M-RETS reserves the right to reject the Generators documentation if there is any reason to suspect the documentation provided is altered, fraudulent, or suspicious. M-RETS also reserves the right to confirm with the entity that issues the document(s) that they are legitimate and not altered in any way. M-RETS may—but is not required to— contact the Generator Owner prior to confirming with the entity. However, M-RETS will try to work out any issues with the Generator Owner prior to
+M-RETS reserves the right to reject the Generators documentation if there is any reason to suspect the documentation provided is altered, fraudulent, or suspicious. M-RETS also reserves the right to confirm with the entity that issues the document(s) that they are legitimate and not altered in any way. M-RETS may—but is not required to— contact the Generator Owner before confirming with the entity. However, M-RETS will try to work out any issues with the Generator Owner before
 confirming the validity of the documentation with the issuing entity. 
 
 <br>
