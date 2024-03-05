@@ -1,6 +1,6 @@
 # Certificates
 
-## [Certificates Dashboard: An Introduction](https://mrets.github.io/Help/certificates_tab)
+## [Certificates Dashboard: An Introduction](https://mrets.github.io/Help/Certificates_Dashboard)
 
 ## [Transferring Certificates](https://mrets.github.io/Help/certificates_transferring_certificates)
 How to Transfer a Certificate
