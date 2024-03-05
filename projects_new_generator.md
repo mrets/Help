@@ -17,7 +17,7 @@ The Registry Operating Procedures detail the requirements and definitions of dif
 
 #### After logging in, select the 'Generators' Dashboard on the left.
 
-![](https://github.com/mrets/photos/blob/master/generator%201%20.png)
+![](https://github.com/mrets/photos/blob/master/generator%201%20.png?raw=true)
 
 This dashboard will display any Active, Pending, or Draft generators under your organization. Please note you can register a generator and save it as a draft if you intend to complete the registration later.  
 
@@ -25,13 +25,13 @@ This dashboard will display any Active, Pending, or Draft generators under your 
 
 #### Select 'Add New Generator' on the right side. 
 
-![](https://github.com/mrets/photos/blob/master/generator%202%20.png)
+![](https://github.com/mrets/photos/blob/master/generator%202%20.png?raw=true)
 
 <br>
 
 #### Give your generator a name and select 'Save Draft'. You can change the name later in the process.
 
-![](https://github.com/mrets/photos/blob/master/generator%203%20.png)
+![](https://github.com/mrets/photos/blob/master/generator%203%20.png?raw=true)
 
 Your generator is now in "Draft" status. You can continue to update your generator; however, make sure you save changes by selecting save draft. 
 
