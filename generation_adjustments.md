@@ -5,8 +5,9 @@ M-RETS has released functionality to allow users to upload generation adjustment
 Please keep in mind: 
 * Do not upload an adjustment file unless you have already uploaded generation
 * The file must be saved as a .csv to process correctly
+* **If the file does not work the first time please reach out to systemadmin@mrets.org for assistance, do not attempt to upload the file multiple times**
   
-In the adjustment file, you will always report the total generation regardless of whether generation was under or over-reported.
+**In the adjustment file, you will always report the total generation regardless of whether generation was under or over-reported.**
 
 Imagine the following scenario: For 01/2023 you uploaded a generation file of 18 Mwhs, however, later you realize you should have uploaded 20.7 Mwhs. 
 
@@ -23,10 +24,10 @@ The below screenshot is what the completed generation adjustment file will look 
 * Column C: The vintage start date 
 * Column D: The start date of the generation (mm/dd/yyyy format)
 * Column E: The end date of the generation (mm/dd/yyyy format) 
-* Column F: The total generation (please note this is not the amount under or overreported but the total generation for the entire month or reporting period)
+* Column F: The total generation **(please note this is not the amount under or overreported but the total generation for the entire month or reporting period)**
 * Column E: Will contain the word "Adjustment" 
 
-Please follow the above syntax exactly to prevent any issues with the file processing, once completed save the file as a CSV. 
+**Please follow the above syntax exactly to prevent any issues with the file processing, once completed save the file as a CSV.**
 
 # Step Two 
 
