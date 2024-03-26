@@ -2,19 +2,19 @@
 
 # Filtering and Downloading Tables
 
-How to filter and manipulate data across the data display and user interface.
+This help doc will guide you on how to filter data across dashboards and the user interface.
 
 <br>
 
-## The Table: Rearranging Columns
+## Rearranging Columns
 
-If you prefer a different layout of columns, then click on the header and drag it to a new location. 
+If you prefer a different layout of columns, select the column header and drag it to a new location. 
 
 ![](https://github.com/mrets/photos/blob/master/filtering_tables1.gif?raw=true)
 
 <br>
 
-## The Table: Filtering
+## Filtering
 
 The Filter buttons at the top of columns limit the data displayed in the column. For example, to display solar RECs only, select the filter under Fuel Type and select Solar.
 
@@ -24,7 +24,7 @@ The Filter buttons at the top of columns limit the data displayed in the column.
 
 <br>
 
-## Settings: The Gear
+## Setting
 
 Don't want to see all of these columns? Select the gear icon.
 
@@ -40,7 +40,7 @@ Un-check any columns that you do not want to be included in the table.
 
 <br>
 
-## Downloading your Table: The Arrow
+## Downloading your Table
 
 To download either a CSV or PDF of the table, select the below icon:
 
@@ -48,6 +48,6 @@ To download either a CSV or PDF of the table, select the below icon:
 
 <br>
 
-Note: The download will display all data and columns present on the page, this means any unchecked columns will not be included in the download.
+Note: The download will display all data and columns present on the page, this means any unchecked columns will not be included in the download. When downloading tables any tables larger than 100 rows of data will be sent by email. 
 
 [Back](https://mrets.github.io/Help/index)
