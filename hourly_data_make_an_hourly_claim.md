@@ -7,9 +7,9 @@ M-RETS developed a process to provide for the first hourly REC retirement in a p
 
 **M-RETS allows Hourly Claims only for intact (i.e. not subdivided after issuance) batches of Certificates. The following will render a batch of certificates ineligible for an hourly claim:**
 
-**1. Certificates that an Organization has separated into multiple active batches for any reason, even if they maintain ownership of all the RECs from the original issuance.**
-**2. Certificates in a batch where RECs from the issuance batch were transferred to another party.**
-**3. Certificates where any of the RECs from the batch as issued were retired.**
+1. Certificates that an Organization has separated into multiple active batches for any reason, even if they maintain ownership of all the RECs from the original issuance.
+2. Certificates in a batch where RECs from the issuance batch were transferred to another party.
+3. Certificates where any of the RECs from the batch as issued were retired.
 
 If you have questions about whether your Certificates qualify for Hourly Claims, please contact <systemadmin@mrets.org>.**
 
@@ -33,56 +33,8 @@ Select the eligible batch of certificates and select "retire".
 
 <br>
   
-### 4. Complete the 
-<br>
-  
-### 9.  You may view and download your hourly generation by clicking “Hourly Claim Data”. Here are a few important things to know:
+### 4. Complete the retiernment steps on screen, please refer to [Retiering Certificates](https://github.com/mrets/Help/blob/master/certificates_retiring_certificates.md) for a walkthrough.
 
-**1.The system defaults to Coordinated Universal Time. If you would like to view in a different time zone you need to select that. **
+<be>
 
-**2.MISO provides all hourly data to M-RETS based on the Eastern Time Zone, even if the generator is physically located in a different time zone. **
-
-**3.If you are retiring multiple batches of Certificates, the data points shown is aggregated (i.e., the sum of each hour) for all the generators. **
-
-**4. If you retire certificates over multiple months to see the data per hour per month you will need to use the download feature.**
-
-<p align="center">
-  <img src="https://github.com/mrets/photos/blob/master/Hourly_Claim_7.png?raw=true">
-</p>
-
-<br>
-</br>
-  
-### 10.  From this table, you can adjust your hourly data by time zone. 
-
-<p align="center">
-  <img src="https://github.com/mrets/photos/blob/master/Hourly_Claim_8.png?raw=true">
-</p>
-
-<br>
-</br>
-  
-### 11.  Once you have selected the relevant time zone, click the downward arrow icon to download a .CSV copyof your data. Your downloaded data will match the previously selected time zone. Based on the location of the Generator, you may see data outside of your selected vintage which will appear as a dash ( - ). Timesthat fall within the time zone of the generator but where there is no generation will be shown with a zero (0).
-
-<p align="center">
-  <img width="102" height="102" img src="https://github.com/mrets/photos/blob/master/Hourly_Claim_10.png?raw=true">
-</p>
-
-<br>
-</br>
-  
-### 12.  If everything looks correct, click "Complete Retirement".
-
-<br>
-</br>
-  
-### 13.  Your retirement was successful! You may download your hourly retirement data on this page. The downloadable file is a PDF and is defaulted to Coordinated Universal Time (UTC). Similar to step 9: If you are retiring multiple batches of Certificates, the data points shown is aggeregated (i.e. the sum of each hour).
-
-<p align="center">
-  <img src="https://github.com/mrets/photos/blob/master/Hourly_Claim_11.png?raw=true">
-</p>
-
-<br>
-</br>
-  
 [Back](https://mrets.github.io/Help/index)
