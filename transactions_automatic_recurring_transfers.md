@@ -92,8 +92,4 @@ Automatic Recurring Transfers can be set as Irrevocable during the confirmation 
 
 # Complete!
 
-<ul>
-  <li>You should get an email notification that the transfers are completed. If you didn't, might I suggest checking your notification preferences? Our guide to notifications preferences can be found [here](https://help.mrets.org/user-and-permissions-management/email-notifications).</li>
-  </ul>
-
 There you have it! With all that extra free time, might I suggest checking out some of our other walkthroughs like [Withdrawing/Accepting/Rejecting Transfers](https://mrets.github.io/Help/transactions_withdrawing_accepting_rejecting_transfers) or [View the Status of Current and Past Invoices](https://mrets.github.io/Help/billing_viewing_invoices)?
