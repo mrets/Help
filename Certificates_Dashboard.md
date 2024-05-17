@@ -1,4 +1,4 @@
-# Certificates Dashboard Introduction
+# Certificates Dashboard: Introduction
 
 Welcome to the M-RETS! 
 
@@ -79,4 +79,4 @@ To download the table you are currently accessing, select the below icon:
 
 Selecting the 'reset' button will reset the table to the format it was at login. 
 
-Please refer to additional help articles for how to conduct transactions within the Certificates dashboard. 
+Please refer to additional help articles found under the Transactions section for how to conduct transactions within the Certificates dashboard. 
