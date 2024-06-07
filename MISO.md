@@ -5,6 +5,10 @@
 
 M-RETS has an agreement with MISO to pull generation data from generators that are 5MW in capacity or larger and located in the MISO region. MISO Market Participants that would like to use MISO as their Qualified Reporting Entity must submit the [MISO Generator Data Release Form](https://www.mrets.org/wp-content/uploads/2018/03/M-RETS-MISO-DATA-RELEASE-2-9-2018213.pdf). MISO reports data for M-RETS Generators using the Commercial Pricing Node (CPNODE).  "The standard naming convention for CPNodes is to have the NERC Registered Balancing Authority (BA) or Local Balancing Authority (LBA) acronym followed by a “.” and then an asset name of the MP’s choosing made up of with the rest" ([MISO Business Practice Manual 10](https://www.misoenergy.org/legal/business-practice-manuals/)).  If the CPNode registered with MISO is not known, contact the MISO Helpdesk for assistance (1-866-296-6476, option 1)
 
+M-RETS pulls MISO Settlement Data on the settlement + 56 day (Example: June 2024 Settlement data is pulled on August 26th,2024)
+
+Note: M-RETS can not make data corrections to MISO reported generation. Users must first correct reported volumes with MISO' market settlement team by the settlment + 105 day. ONCE, the correction has been made with MISO, please reach out the M-RETS Administrators and request that they re-pull your MISO data.
+
 ## To use MISO as the Qualified Reporting Entity: 
 * Fill out the [MISO Generator Data Release Form](https://www.mrets.org/wp-content/uploads/2018/03/M-RETS-MISO-DATA-RELEASE-2-9-2018213.pdf) and send it to systemadmin@mrets.org 
 * In the subject line, include the M-RETS ID and "MISO Data Release". In the body of the email list the name of the generator(s)
