@@ -1,71 +1,57 @@
 [Back](https://mrets.github.io/Help/index)
 
-# Uploading Generation Data
+# Uploading Generation Data via CSV or TXT files
 
-**To encourage timely reporting, M-RETS enabled automatic validations for generation uploads. Newly registered Generator Assets can report Generation back three (3) months. If the User is aware that Generation occurred prior to three months, a variance request can be submitted to allow generation prior to three months from the Generator Asset approval date. M-RETS will want to verify that the Generator Asset has not been registered in another tracking system and will need an attestation from the Organization that the environmental attributes have not been otherwise claimed outside of a recognized tracking system. Users have up to two years (730 days) from the generation end date to upload Prior Period Adjustment generation. M-RETS must approve any generation outside of this range.**
+**To encourage timely reporting, M-RETS enabled automatic validations for generation uploads. Newly registered Generator Assets can report Generation back three (3) months. If the User is aware that Generation occurred prior to three months, a variance request can be submitted to allow generation prior to three months from the Generator Asset approval date. M-RETS will want to verify that the Generator Asset has not been registered in another tracking system and will need an attestation from the Organization that the environmental attributes have not been otherwise claimed outside of a recognized tracking system. Users have up to two years (730 days) from the generation end date to upload Prior Period Adjustment generation. M-RETS must approve any generation outside of this range.** Please reach out to the M-RETS Administrator and we will set the first eligible reporting vintage for the generator to the date your generation will start being reported. 
 
 ## Checking/Enabling Permissions
 
 Before uploading Generation data, the user will need to confirm the appropriate permissions have been granted to upload Generation. Please follow these steps.
 
-1. Select on your name in the upper-right corner of the system. Then, select 'Organization Info'
+1. Select your name in the upper-right corner of the system. Then, select 'Organization Info'.
 
-![](https://github.com/mrets/photos/blob/master/add_update_billing_info1.gif?raw=true)
+![](https://github.com/mrets/photos/blob/master/org%20info1%20.png?raw=true)
 
-2. Select the 'Users' tab
 
-3. Verify the 'Upload Generation' permission has been granted
+2. Select the 'Users' tab.
 
-![](https://github.com/mrets/photos/blob/master/generation_upload_data6.png?raw=true)
+![](https://github.com/mrets/photos/blob/master/org%20info%20users%20tab%201%20.png?raw=true)
 
-If you see "Yes", proceed to the next section. If you see "No", select "Edit User"
+4. Verify 'Upload Generations' permission has been granted
 
-4. Select "Yes" under Upload Generations. Then, select "Save"
+![](https://github.com/mrets/photos/blob/master/gen%20user%20permissions%20.png?raw=true)
 
-![](https://github.com/mrets/photos/blob/master/generation_upload_data7.png?raw=true)
+
+If you see "Yes", proceed to the next section. If you see "No", scroll to the right and select 'Edit User'.
+
+4. Select 'Yes' under Upload Generations. Then, select 'Save'. 
+
+![](https://github.com/mrets/photos/blob/29833c6534eec9c10f053a0605fcd504a1432221/upload%20gen%20permissions%20.png?raw=true)
 
 ## Uploading Generation
 
-1.  Navigate to the Generation tab in the dashboard and select "Upload"
+M-RETS supports generation uploads via CSV or TXT file. [Generation Upload File Format Guide](https://mrets.github.io/Help/generation_upload_format)
 
-![](https://github.com/mrets/photos/blob/23ed06f404d9920787beceba5d4fafc1b4b874ed/upload_generation%201.2.png)
 
-2. Under “Select File for Upload”, select ‘Choose File’, navigate to a local file on your computer and select it. You should see the file name displayed in the upload window.  You can upload generation in either MWh or KWh, however, certificates will only be issued in MWh quantities 
+1.  Navigate to the Generation dashboard, and select 'upload'. 
 
-[Check out this walkthrough on file formats!](https://mrets.github.io/Help/generation_upload_format)
+![](https://github.com/mrets/photos/blob/29833c6534eec9c10f053a0605fcd504a1432221/uploadgen1.png?raw=true)
 
-![](https://github.com/mrets/photos/blob/d53dd17e2b4ce1a3dfca41cbb0357339981a89b4/upload_generation%202.2.png)
+2. Under “Select File for Upload”, select ‘Choose File’, navigate to a local file on your computer and select it. You should see the file name displayed in the upload window.  You can upload generation in either MWh or KWh, however, certificates will only be issued in MWh quantities.
 
-3. Select your ‘Upload Granularity’. By default, Monthly will be selected. You will see examples of how your file should be formatted below
+![](https://github.com/mrets/photos/blob/29833c6534eec9c10f053a0605fcd504a1432221/uploadgen2.png?raw=true)
 
-## Monthly Generation
+3. Select your ‘Upload Granularity’. By default, Monthly will be selected. Select upload, the system will process your file. Note: When the system processes a file you may receive the below success message, this means that the file format was correct. The upload may still fail due to other errors (ex: gap in generation), check your email for an explanation explaining the error. 
 
-![](https://github.com/mrets/photos/blob/d53dd17e2b4ce1a3dfca41cbb0357339981a89b4/upload_generation%203.2.png)
+![](https://github.com/mrets/photos/blob/4f4fa83e9cedb8cd54d9b4820f31fd796f63686b/genuploadsuc1.png?raw=true)
 
-1.  Generator ID (M-RETS ID)
-2.  Reporting Unit ID (Use the M-RETS ID if your generator does not have a Reporting Unit ID)
-3.  Vintage Month
-4.  Vintage Start Date
-5.  Vintage End Date
-6.  Total MWh for Vintage
+If the file has a formatting error the system will give the following error message:
 
-Hourly Generation:
-------------------
+![](https://github.com/mrets/photos/blob/4f4fa83e9cedb8cd54d9b4820f31fd796f63686b/genuploaderror1.png?raw=true)
 
-![](https://github.com/mrets/photos/blob/d53dd17e2b4ce1a3dfca41cbb0357339981a89b4/upload_generation%204.2.png)
+In M-RETS when generation is reported the system will calculate the expected generation for the generator based on the fuel source, nameplate capacity, and capacity factor. If the reported volumes are expected the system will issue certificates immediately. There are two instances where generation enters a pending state: 
 
-1.  Generator ID (M-RETS ID)
-2.  Reporting Unit ID (Use the M-RETS ID if your generator does not have a Reporting Unit ID)
-3.  Date of Generation
-4.  Hour of Generation (1-24). ***NOTE: ALL HOURS OF EVERY DAY OF THE MONTH OF GENERATION MUST BE INCLUDED IN YOUR FILE.***
-5.  Total kWh for Hour
+** Pending Capacity Feasibility: generation fails the capacity feasibility formula. Please submit documentation to validate the volumes to systemadmin@mrets.org and we will move the generation entry to issued. 
 
-***IMPORTANT: MONTHLY GENERATION WILL BE UPLOADED IN MWH. HOURLY/MINUTE DATA WILL BE UPLOADED IN KWH.\
-***\
-3\. The file will be uploaded and the generation will be verified. If your upload file contains multiple generators, you should see the following window.
+** Pending Date Feasibility: The reported generation is outside of the three-month upload window allowed by M-RETS, the M-RETS admin will approve the entry. 
 
-![](https://github.com/mrets/photos/blob/master/generation_upload_data5.png?raw=true)
-
-Please note: This dialog box only confirms your file was uploaded correctly. A more detailed report of your file will be emailed to you. ***This report may contain detailed errors.***
-
-[Back](https://mrets.github.io/Help/index)
