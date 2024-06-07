@@ -11,19 +11,19 @@ M-RETS supports three Account types: Active Accounts Reserve Accounts and Retire
 
 ## Navigate to the  "Accounts" dashboard
 
-![](https://github.com/mrets/photos/blob/c08b4844366471ff2573f7dc5f12e60838f8b8ef/account_1.png)
+![](https://github.com/mrets/photos/blob/c08b4844366471ff2573f7dc5f12e60838f8b8ef/account_1.png?raw=true)
 
 <br>
 
 ## Select 'Add New Account'
 
-![](https://github.com/mrets/photos/blob/c08b4844366471ff2573f7dc5f12e60838f8b8ef/account_2.png)
+![](https://github.com/mrets/photos/blob/c08b4844366471ff2573f7dc5f12e60838f8b8ef/account_2.png?raw=true)
 
 <br>
 
 ## Select the account type from the drop-down and fill in a name. 
 
-![](https://github.com/mrets/photos/blob/c08b4844366471ff2573f7dc5f12e60838f8b8ef/account_3.png)
+![](https://github.com/mrets/photos/blob/c08b4844366471ff2573f7dc5f12e60838f8b8ef/account_3.png?raw=true)
 
 Once you fill in the information, select 'Save'. You can then verify that your new account is set up and ready to go!
 
