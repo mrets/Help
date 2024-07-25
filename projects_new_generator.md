@@ -8,7 +8,7 @@ The following guide will walk through the steps necessary to register a new gene
 
 ## Review Registry Operating Documents
 
-The Registry Operating Procedures detail the requirements and definitions of different types of projects. The Operating Procedures are available [here](http://www.mrets.org/resources/documents/). If you have not yet registered an M-RETS Organization, visit our Organization registration page [here.](http://app.mrets.org/register)
+The Registry Operating Procedures detail the requirements and definitions of different types of projects. The Operating Procedures are available [here](http://www.mrets.org/resources/documents/). 
 
 <br>
 
@@ -59,11 +59,12 @@ Documents are uploaded under the documents tab of the generation registration. S
     * Utility Signed Interconnection Agreement
     * Utility Certificate of Completion
     * State Air Permit
-    * State or provincial regulatory order 
-    * Providing a Generator's EIA Entity ID which is an official, unique identification numbers assigned by EIA can expedite the approval process. The EIA Entity ID is required for all Generators over 1 MW in the United States and may be found by accessing the report here. 
+    * State or provincial regulatory order
+    * As built diagram
+    * Providing a Generator's EIA Entity ID which is an official, unique identification number assigned by EIA can expedite the approval process. The EIA Entity ID is required for all Generators over 1 MW in the United States.  
     * FERC Qualifying Facility certification (FERC Form 556)
     * PURPA Qualifying Facility approval documentation
-4.	If this Generator will use MISO as the reporting entity, fill out and upload this form in the Generator documents. It is important that the form reflects the correct MISO node. 
+4.	If the Generator will use MISO or SPP as the reporting entity,[complete the appropriate data release](https://www.mrets.org/resources/documents/). The form must reflect the correct CP node. 
 5.	Documentation supporting the capacity factor calculation and annual output of a generator, (E.g., solar design tools such as Aurora, HelioScope, PVsyst, PV Watts, etc.)
 6.	Multi-fuel Generators must submit to M-RETS a report prepared by a licensed professional engineer containing documentation for measuring and verifying the quantities of each fuel type, the method of determining the net heat content and moisture content of each fuel source, and the heat rate of the Generator. M-RETS will share this documentation with state or provincial regulators upon request of the regulator.
 7.	Generator Assets with installed battery backups must provide documentation to illustrate that grid power used to charge the battery is not metered as generation from the renewable Generating Asset. 
@@ -80,8 +81,8 @@ You can find the required documentation to register a generator  [HERE](https://
 -   Line Drawings for installation identifying interconnection and installed devices
 -   PURPA Qualifying Facility approval documentation
 -   FERC Qualifying Facility certification (FERC Form 556)
--   Providing a Generator's EIA Entity ID, which is an official, unique identification number assigned by EIA can expedite the approval process. The EIA Entity ID is required for all Generators over 1 MW in the United States
--   If this Generator will use MISO or SPP as the reporting entity, complete and upload the MISO or SPP Release Form in the Generator documents.
+-   Providing a Generator's EIA Entity ID
+-   If this Generator will use MISO or SPP as the reporting entity, complete and upload the MISO or SPP Release Form. 
 -   Documentation supporting the capacity factor calculation and the annual output of a generator (E.g., Engineering report prepared by a licensed professional engineer; solar design tool reports such as Aurora, HelioScope, PVsyst, PV Watts, etc.)
 
 
