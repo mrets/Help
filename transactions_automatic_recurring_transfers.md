@@ -3,7 +3,7 @@
 
 Per the M-RETS Operating Procedures:
 
-- After a User initiates an Automatic Recurring Transfer (“Transferor”), the Automatic Recurring
+- After a User initiates an Automatic Recurring Transfer(ART) (“Transferor”), the Automatic Recurring
 Transfer enters a ‘Pending’ state. The receiving Organization (“Transferee”) then receives an email detailing
 the pending Automatic Recurring Transfer.
 - Each Automatic Recurring Transfer will be set up based on percentage of Certificates or a maximum
