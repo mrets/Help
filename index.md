@@ -65,7 +65,7 @@ This article describes how to add an active or retirement account to your organi
 
 ## Projects
 
-### [Distributed Generation Groups](https://github.com/mrets/Help/distributed_generation_group.md)
+### [Distributed Generation Groups](https://mrets.github.io/Help/distributed_generation_group)
 
 ### [Register a New Generator](https://mrets.github.io/Help/projects_new_generator)
 Learn how to register a new generator or project in M-RETS.
