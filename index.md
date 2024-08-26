@@ -13,8 +13,10 @@ This list contains help guides for the M-RETS, broken down by sidebar categories
 ## Certificates
 
 ### [Certificates Dashboard: An Introduction](https://mrets.github.io/Help/Certificates_Dashboard)
+Introduction to the Certificates Dashboard 
 
 ### [Reserve Certificates Overview](https://mrets.github.io/Help/Reserve_Certificates_Overview)
+What is a reserve ? 
 
 ### [Transferring Certificates](https://mrets.github.io/Help/certificates_transferring_certificates)
 How to Transfer a Certificate
@@ -37,8 +39,10 @@ Automatic Recurring Transfers (ARTs) are now available. Here's how to use them! 
 This article explains how to withdraw, accept, and reject a transfer
 
 ### [Exporting RECs](https://mrets.github.io/Help/certificates_exporting_certifcates)
+How to export RECs to suppoprted registries. 
 
 ### [Exporting from ERCOT to M-RETS](https://mrets.github.io/Help/transactions_ercot)
+How to export RECS from ERCOT to M-RETS. 
 
 ### [Mass Certificate Transfers](https://mrets.github.io/Help/transactions_mass_certificate_transfers)
 
@@ -88,7 +92,9 @@ What to do if you get a feasibility analysis failure upon upload
 
 ### [Generation Upload Data Format](https://mrets.github.io/Help/generation_upload_format)
 
+
 ### [Generation Adjustments](https://mrets.github.io/Help/generation_adjustments)
+How to upload a generation adjustment. 
 
 <br>
 
