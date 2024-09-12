@@ -7,7 +7,7 @@ In order to maintain data integrity, the user will be set to 'Inactive' status. 
 
 It is the organization's responsibility to make sure user lists are kept up to date. 
 
-1) Select your user name in the upper right corner, then select 'Organization Info'.
+1) Select your name in the upper right corner, then select 'Organization Info'.
 
 ![](https://github.com/markmrets/photos/blob/master/generic%20user%20name%20dropdown.png?raw=true)
  
@@ -15,7 +15,7 @@ It is the organization's responsibility to make sure user lists are kept up to d
 
 ![](https://github.com/mrets/photos/blob/20d0ac00bc88cb4a6dab668f853d44d0128be965/users%20tab.png?raw=true)
 
-3) Under the "Organization User Status" section, set the users to 'Inactive'.
+3) Under the "Organization User Status" section, set the users status to 'Inactive'.
 
 ![](https://github.com/markmrets/photos/blob/master/Org%20User%20Status.png?raw=true)
 
