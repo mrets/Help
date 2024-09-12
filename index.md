@@ -113,7 +113,7 @@ A Guide to Participating in Compliance or Voluntary Programs
 
 <br>
 
-## Billing and Invoices
+## Billing, Invoices and Organization Management
 
 ### [Adding a New User to an Organization](https://mrets.github.io/Help/billing_adding_new_user)
 This article will help you figure out how to add a new user to your organization
@@ -130,6 +130,9 @@ Learn how to add or remove email notifications as a user
 
 ## [Invoices](https://mrets.github.io/Help/invoices)
 Where might I find my invoice in the tracking system?
+
+## [Admin M-RETS Administrator Assisted User Edits](https://mrets.github.io/Help/billing_adding_users_admin_assisted)
+If you no longer have access to your M-RETS organization this help document will walkthrough what is required to regain access. 
 
 <br>
 
