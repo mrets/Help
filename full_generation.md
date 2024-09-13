@@ -4,7 +4,7 @@
 
 # Generation
 
-## [Upload Generation Data](https://mrets.github.io/Help/generation_upload_data)
+## [Uploading Generation Data](https://mrets.github.io/Help/generation_upload_data)
 Learn how to upload generation data.
 
 ## [MISO Generation Reporting](https://mrets.github.io/Help/MISO)
