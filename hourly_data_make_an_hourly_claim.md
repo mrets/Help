@@ -33,7 +33,7 @@ Select the eligible batch of certificates and select "retire".
 
 <br>
   
-### 4. Complete the retiernment steps on screen, please refer to [Retiering Certificates](https://github.com/mrets/Help/blob/master/certificates_retiring_certificates.md) for a walkthrough.
+### 4. Complete the retiernment steps on screen, please refer to [Retiring Certificates](https://github.com/mrets/Help/blob/master/certificates_retiring_certificates.md) for a walkthrough.
 
 <be>
 
