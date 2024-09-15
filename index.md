@@ -41,7 +41,7 @@ This article explains how to withdraw, accept, and reject a transfer
 ### [Exporting RECs](https://mrets.github.io/Help/certificates_exporting_certifcates)
 How to export RECs to suppoprted registries. 
 
-### [Exporting from ERCOT to M-RETS](https://mrets.github.io/Help/transactions_ercot)
+### [Exporting from ERCOT to M-RETS](https://github.com/mrets/Help/blob/c56a55c303375055ef08c70c8f6abd1a7115961e/ercot.md)
 How to export RECS from ERCOT to M-RETS. 
 
 ### [Mass Certificate Transfers](https://mrets.github.io/Help/transactions_mass_certificate_transfers)
@@ -72,7 +72,7 @@ This article will provide an overview of reserve accounts.
 
 ## Projects
 
-### [Distributed Generation Groups](https://mrets.github.io/Help/distributed_generation_group)
+### [Distributed Generation Groups(DGGs)](https://mrets.github.io/Help/distributed_generation_group)
 
 ### [Register a New Generator](https://mrets.github.io/Help/projects_new_generator)
 Learn how to register a new generator or project in M-RETS.
@@ -84,20 +84,24 @@ This article will detail how a transfer or reassign of generator/project is comp
 
 ## Generation
 
-### [Upload Generation Data](https://mrets.github.io/Help/generation_upload_data)
+### [Uploading Generation Data](https://mrets.github.io/Help/generation_upload_data)
 Learn how to upload generation data.
 
 ### [Multi-Fuel Issuance: Entering Fuel Splits for Multi-Fuel Generators](https://mrets.github.io/Help/generation_multi_fuel)
-This article will walk you through the multi-fuel issuance split process required before issuance
+This article will walk you through the multi-fuel issuance split process required before issuance.
 
 ### [Feasibility Failures](https://mrets.github.io/Help/generation_feasibility_failures)
-What to do if you get a feasibility analysis failure upon upload
+What to do if you get a feasibility analysis failure upon upload.
 
 ### [Generation Upload Data Format](https://mrets.github.io/Help/generation_upload_format)
 
 
 ### [Generation Adjustments](https://mrets.github.io/Help/generation_adjustments)
 How to upload a generation adjustment. 
+
+### [MISO Generation Reporting](https://mrets.github.io/Help/MISO)
+
+### [SPP Generation Reporting]()
 
 <br>
 
@@ -159,8 +163,7 @@ Assistance with Completing Minnesota RPS and Green Pricing Retirements in M-RETS
 # Platform Documents
 Terms of Use, Privacy Policy, and other legal documents
 
-### [M-RETS Privacy Policy](https://mrets.github.io/Help/platorm_privacy_policy)
-Policies guiding use of user information
+### [M-RETS Operating Procedures](https://www.mrets.org/wp-content/uploads/2024/02/MRETS-Operating-Procedure-2024.1.pdf)
 
 ### [Terms of Use](https://mrets.github.io/Help/platform_terms_of_use)
 Rules for using the M-RETS system
