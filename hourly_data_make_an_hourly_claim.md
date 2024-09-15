@@ -21,9 +21,9 @@ If you have questions about whether your Certificates qualify for Hourly Claims,
 
 <br>
   
-### 2. To check if certificates are eligible for an hourly retiernment: scroll to the right of the Active RECs table and find the "Generation" profile, you can select this and you will be given the hourly generation profile of the generation selected. This indicates that the batch is eligible for an hourly retirement.
+### 2. To check if certificates are eligible for an hourly retirement: scroll to the right of the Active RECs table and find the "Generation" profile, you can select this and you will be given the hourly generation profile of the generation selected. This indicates that the batch is eligible for an hourly retirement.
 
-Select the eligible batch of certificates and select "retire". 
+### Select the eligible batch of certificates and select "retire". 
 
 <br>
   
@@ -33,7 +33,7 @@ Select the eligible batch of certificates and select "retire".
 
 <br>
   
-### 4. Complete the retiernment steps on screen, please refer to [Retiering Certificates](https://github.com/mrets/Help/blob/master/certificates_retiring_certificates.md) for a walkthrough.
+### 4. Complete the retiernment steps on screen, please refer to [Retiring Certificates](https://github.com/mrets/Help/blob/master/certificates_retiring_certificates.md) for a walkthrough.
 
 <be>
 
