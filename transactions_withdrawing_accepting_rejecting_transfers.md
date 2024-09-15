@@ -3,7 +3,7 @@ Withdrawing/Accepting/Rejecting Transfers
 
 This article explains how to withdraw, accept, and reject a transfer. 
 
-The Transactions Dashboard will display all records of transactions as well as pending transactions. 
+The Transactions Dashboard will display all records of transactions as well as pending transactions. All of the below actions are completed within the Transactions dashboard- pending tab.
 
 ![](https://github.com/markmrets/photos/blob/master/pending%201%20.png?raw=true)
 
