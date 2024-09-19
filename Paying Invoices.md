@@ -5,7 +5,7 @@
 Invoice Payment Instructions:
 
   1. Fees must be paid in US dollars\
-  2. Payments may be made via wire transfer, ACH transfer or check\
+  2. Payments may be made via credit card, wire transfer, ACH transfer or check\
   3. Please include the invoice number(s), account name and M-RETS on check payments\
   4. Please include the invoice number(s) on wire transfer or ACH transfer
 
