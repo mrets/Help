@@ -13,7 +13,7 @@ Learn how to add or remove email notifications as a user
 
 ## [View the Status of Current and Past Invoices](https://mrets.github.io/Help/billing_viewing_invoices)
 
-## [Invoices](https://mrets.github.io/Help/invoices)
-Where might I find my invoice in the tracking system?
+## [Paying an Invoice](https://mrets.github.io/Help/invoices)
+How to pay an invoice. 
 
 ## [M-RETS Admin Assisted User Permissions](https://mrets.github.io/Help/billing_adding_users_admin_assisted) 

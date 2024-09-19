@@ -2,11 +2,19 @@
 
 (Formerly known as Forward Transfers and Standing Orders)
 
-After logging in, select 'Transactions' on the left. You will now see there are three options on this page: Pending, History, and Recurring. Select Recurring. This is where you will see your recurring transfers.
+Select 'Transactions' dashboard on the left. You will now see there are three options on this page: Pending, History, and Recurring.
+
+![](https://github.com/mrets/photos/blob/master/transactions%205.png?raw=true)
+
+Within the Transactions dashboard, select the "Recurring" tab. 
+
+![](https://github.com/mrets/photos/blob/master/recurring%201%20.png?raw=true)
+
 
 This article is broken up into steps in order to combine all possible transfers into one document.
 
--   Click on 'Add Recurring Transfer'
+
+Select: 'Add Recurring Transfer'
 
 ![](https://github.com/mrets/photos/blob/master/automatic_recurring_transfers1b.png?raw=true)
 
@@ -14,7 +22,7 @@ This article is broken up into steps in order to combine all possible transfers 
 
 ![](https://github.com/mrets/photos/blob/master/automatic_recurring_transfers2b.png?raw=true)
 
--   You will now see a list of your generators and a calendar. Once a generator is selected, you will see fuel(s) related to said generator.
+You will now see a list of your generators and a calendar. Once a generator is selected, you will see fuel(s) related to said generator.
 
 <br>
 
@@ -91,9 +99,5 @@ Automatic Recurring Transfers can be set as Irrevocable during the confirmation 
 <br>
 
 # Complete!
-
-<ul>
-  <li>You should get an email notification that the transfers are completed. If you didn't, might I suggest checking your notification preferences? Our guide to notifications preferences can be found [here](https://help.mrets.org/user-and-permissions-management/email-notifications).</li>
-  </ul>
 
 There you have it! With all that extra free time, might I suggest checking out some of our other walkthroughs like [Withdrawing/Accepting/Rejecting Transfers](https://mrets.github.io/Help/transactions_withdrawing_accepting_rejecting_transfers) or [View the Status of Current and Past Invoices](https://mrets.github.io/Help/billing_viewing_invoices)?

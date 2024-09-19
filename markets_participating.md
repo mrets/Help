@@ -1,17 +1,17 @@
-# Participate in a Market
+# Participating in a Market
 
 This guide will walk you through participating in a Market in M-RETS. 
 
-1. The first step to Participating in a Market is to accept your invitation. Unfortunately, there is not much you or I can do without first being invited. Once invited, you will receive an email like this:
-![](https://github.com/mrets/photos/blob/master/markets_participating1.png?raw=true)
+The first step to Participating in a Market is to accept your invitation. To accept a Market invitation a user must have "Manage" permissions for both Programs and Markets. For a guide on user permissions refer [here](https://github.com/mrets/Help/blob/master/billing_adding_new_user.md). After logging into the System you will see a message at the top of your dashboard. 
 
-2. Once you log into M-RETS, you should see the following message on your dashboard.
-![](https://github.com/mrets/photos/blob/master/markets_participating2.png?raw=true)
+1. Select 'Answer'.
 
-3. Click on "Answer". You should now see this.
-![](https://github.com/mrets/photos/blob/master/markets_participating3.png?raw=true)
+![](https://github.com/mrets/photos/blob/803cff4152f3009aef637bc742ca513d0c1df0ec/market1.png?raw=true)
 
-4. You should now see Markets on the taskbar. After clicking on Markets, you will see any Markets in which you have accepted an invitation to participate. 
-![](https://github.com/mrets/photos/blob/master/markets_participating4.png?raw=true)
+2. A dialogue box will open asking you to Accept or Reject the invitation. Select 'Accept'.
 
-Next, we are taking a look at how to put Certificates on the Market. A guide to this process can be found here.
+![](https://github.com/mrets/photos/blob/803cff4152f3009aef637bc742ca513d0c1df0ec/market2.png?raw=true)
+
+After accepting an invitation to a market you will notice that the 'Market' Dashboard has been added to your interface. 
+
+![](https://github.com/mrets/photos/blob/803cff4152f3009aef637bc742ca513d0c1df0ec/market3.png?raw=true)

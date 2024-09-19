@@ -44,5 +44,3 @@ Lastly, you may see a 'Generation' button which provides the user with a data vi
 To download the table you are currently accessing, select the below icon:
 
 ![](https://github.com/mrets/photos/blob/master/certificates_tab6.png?raw=true)
-
-Please refer to additional help articles for how to conduct transactions within the Certificates dashboard. 

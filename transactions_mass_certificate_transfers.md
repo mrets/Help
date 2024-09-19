@@ -1,8 +1,8 @@
 [Back](https://mrets.github.io/Help/index)
 
-# Mass Certificate Transfers
+# Mass Certificate Transfers(MCTs)
 
-M-RETS has released new functionality that allows for the mass transfer of certificates via CSV to either an active account or an external organization. 
+M-RETS has released new functionality that allows for the mass transfer of certificates via CSV to either an internal active account or an external organization. 
 
 ## To Mass Transfer Certificates: Creating the CSV transfer file 
 
