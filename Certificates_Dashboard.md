@@ -39,44 +39,8 @@ You will also see a 'Details' button which provides a condensed version of the i
 Lastly, you may see a 'Generation' button which provides the user with a data visualization of the generation corresponding to their RECs.
 <br>
 
-## The Table: Rearranging Columns
-
-If you prefer a different layout of columns, select the header and drag it to a new location. 
-
-![](https://github.com/mrets/photos/blob/master/certificates_tab3.gif?raw=true)
-
-<br>
-
-## The Table: Filtering
-
-You will notice inside each column label the text: 'Filter...'.This feature is for limiting what is shown in the column. Example: If I only wanted to see my solar RECs, I could select the filter under 'Fuel Type' and select 'Solar'.
-
-<br>
-
-## Settings: The Gear
-
-Don't want to see all of these columns? Click on the gear icon.
-
-![](https://github.com/mrets/photos/blob/master/certificates_tab4.png?raw=true)
-
-<br>
-
-You should see the following window:
-
-![](https://github.com/markmrets/photos/blob/master/Data%20Table%20Settings%20.png?raw=true)
-
-<br>
-
-Un-check any columns that you do not want to be included in the table.
-
-<br>
-
 ## Downloading your RECs: The Arrow
 
 To download the table you are currently accessing, select the below icon:
 
 ![](https://github.com/mrets/photos/blob/master/certificates_tab6.png?raw=true)
-
-Selecting the 'reset' button will reset the table to the format it was at login. 
-
-Please refer to additional help articles found under the Transactions section for how to conduct transactions within the Certificates dashboard. 
