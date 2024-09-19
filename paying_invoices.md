@@ -1,6 +1,6 @@
 [Back](https://mrets.github.io/Help/index)
 
-### Where do I submit payment?
+# Where do I submit payment?
 
 Invoice Payment Instructions:
 
