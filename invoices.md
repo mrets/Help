@@ -4,8 +4,6 @@
 
 M-RET's invoices are now emailed directly from M-RETS' accounting software (QuickBooksOnline).  Invoices are sent out once per month, usually within the first two weeks.  
 
-They basically look like this but will also have M-RETs' logo.
-
 ![](https://github.com/mrets/photos/blob/master/invoices.png?raw=true)
 
 Subscription invoices are sent out annually. Transaction history is available in your account in the tracking system for your review. M-RETS emails invoices for transactions equaling $50.00 or more from the month prior. End of the year invoices are an exception. We bill for the total due at the end of the calendar year no matter the balance.
@@ -29,7 +27,7 @@ When you log into your account, update your "user" credentials to include "manag
 Invoice Payment Instructions:
 
   1. Fees must be paid in US dollars\
-  2. Payments may be made via wire transfer, ACH transfer or check\
+  2. Payments may be made via credit card, wire transfer, ACH transfer or check\
   3. Please include the invoice number(s), account name and M-RETS on check payments\
   4. Please include the invoice number(s) on wire transfer or ACH transfer
 

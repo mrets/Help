@@ -29,7 +29,7 @@ This article is broken up into steps in order to combine all possible transfers 
 
 ![](https://github.com/mrets/photos/blob/master/automatic_recurring_transfers2b.png?raw=true)
 
--   You will now see a list of your generators and a calendar. Once a generator is selected, you will see fuel(s) related to said generator.
+You will now see a list of your generators and a calendar. Once a generator is selected, you will see fuel(s) related to said generator.
 
 <br>
 

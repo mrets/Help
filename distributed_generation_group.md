@@ -32,7 +32,7 @@ DG Group Type: Groups can contain either residential, commercial or a mix of bot
 
 *Units Tab*
 
-Step 4: The Units tab is where you will enter the required information for each unit that makes up a group. Select "Add", you will then be taken to the Add Unit screen. Complete the required information and select 'Save'
+### Step 4: The Units tab is where you will enter the required information for each unit that makes up a group. Select "Add", you will then be taken to the Add Unit screen. Complete the required information and select 'Save'
 Expansion Indicator:  If the unit being registered is an addition to an already registered project, check 'Yes' for this field. If it is a standalone new DGG unit check 'No'
 
 DGG Units can also be bulk-added to a group using the CSV titled "Distributed Generation Groups (DGGs) Units Upload File", found under the [Registry Documents](https://www.mrets.org/resources/documents/) page of the M-RETS Website.
@@ -41,7 +41,7 @@ Once the CSV Unit File is completed please email it to the M-RETS Admin and our 
 
 *Documents Tab*
 
-Step 5: M-RETS will require that documents are submitted to verify each unit of a DGG, including but not limited to:
+### Step 5: M-RETS will require that documents are submitted to verify each unit of a DGG, including but not limited to:
 
 * Interconnection Agreement 
 * Engineering Documents 
@@ -50,4 +50,4 @@ Step 5: M-RETS will require that documents are submitted to verify each unit of 
 
 M-RETS will require that a Schedule A is completed for units that are not owned by the Organization that is registering the units. The M-RETS System Administrator may request additional documents as needed. 
 
-Step 6: Once all the required fields are entered in, select "Submit Generator". The DGG will then be placed in a Pending status and the M-RETS Administrator will review the registration. 
+### Step 6: Once all the required fields are entered in, select "Submit Generator". The DGG will then be placed in a Pending status and the M-RETS Administrator will review the registration. 
