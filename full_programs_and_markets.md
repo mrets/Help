@@ -12,6 +12,4 @@ A Guide to Participating in Compliance or Voluntary Programs
 
 ### [Participate in a Market](https://mrets.github.io/Help/markets_participating)
 
-### [Adding Certificates to a Market](https://mrets.github.io/Help/markets_certificates)
-
 [Back](https://mrets.github.io/Help/index)
