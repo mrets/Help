@@ -35,7 +35,7 @@ DG Group Type: Groups can contain either residential, commercial or a mix of bot
 ### Step 4: The Units tab is where you will enter the required information for each unit that makes up a group. Select "Add", you will then be taken to the Add Unit screen. Complete the required information and select 'Save'
 Expansion Indicator:  If the unit being registered is an addition to an already registered project, check 'Yes' for this field. If it is a standalone new DGG unit check 'No'
 
-DGG Units can also be bulk-added to a group using the CSV titled "Distributed Generation Groups (DGGs) Units Upload File", found under the [Registry Documents](https://www.mrets.org/resources/documents/) page of the M-RETS Website.
+DGG Units can also be bulk-added to a group using the CSV titled "Distributed Generation Groups (DGGs) Units Upload File", found under [here](https://www.mrets.org/registry-document/distributed-generation-groups-dggs-units-upload-file/). 
 
 Once the CSV Unit File is completed please email it to the M-RETS Admin and our team will upload the file. 
 
