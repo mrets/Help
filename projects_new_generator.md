@@ -8,7 +8,7 @@ The following guide will walk through the steps necessary to register a new gene
 
 ## Review Registry Operating Documents
 
-The Registry Operating Procedures detail the requirements and definitions of different types of projects. The Operating Procedures are available [here](http://www.mrets.org/resources/documents/). 
+The Registry Operating Procedures detail the requirements and definitions of different types of projects. The Operating Procedures are available [here](https://www.mrets.org/wp-content/uploads/2024/10/MRETS-Operating-Procedure-2024.2.pdf). 
 
 <br>
 
@@ -54,7 +54,7 @@ M-RETS requires documentation submitted by the registering organization in order
 Documents are uploaded under the documents tab of the generation registration. Select 'upload document' to perform a local search to upload your relevant documents. 
 
 1.	A completed on-line Generator registration form containing information related to the characteristics of the Generator Asset and associated meter.
-2.	If applicable, a completed [Schedule A](https://www.mrets.org/wp-content/uploads/2017/12/MRETS-Schedule-A-Modified-12-28-2017.pdf) from the M-RETS Terms of Use outlining the Generator Owner’s Designation of Responsible Party. 
+2.	If applicable, a completed [Schedule A](https://www.mrets.org/registry-document/schedule-a-designation-of-responsible-party/) from the M-RETS Terms of Use outlining the Generator Owner’s Designation of Responsible Party. 
 3.	Any documentation requested by M-RETS to verify the registration information which could include:
     * Utility Signed Interconnection Agreement
     * Utility Certificate of Completion
@@ -72,7 +72,7 @@ Documents are uploaded under the documents tab of the generation registration. S
 
 ![](https://github.com/mrets/photos/blob/master/new_generator4b.png?raw=true)
 
-You can find the required documentation to register a generator  [HERE](https://www.mrets.org/resources/documents/). The below documents should be uploaded under the documents tab of the generator registration. 
+You can find the required documentation to register a generator  [HERE](https://www.mrets.org/subscription-costs/) under registration documents. The below documents should be uploaded under the documents tab of the generator registration. 
 
 -   Schedule A -- for projects registered by a Designated Responsible Party
 -   Documents that verify ownership and Nameplate Capacity.  (Interconnection Agreement, Power Purchase Agreements, Contracts, Engineering Reports)
