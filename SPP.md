@@ -1,6 +1,6 @@
 # Southwest Power Pool (SPP) Generation Data Reporting
 
-M-RETS Users can use Southwest Power Pool (SPP) to report their generation data (MWh). To use SPP as a reporting entity a user must have a generator located in the SPP footprint and the generator must be at least 5 MW or larger in nameplate capacity. SPP Market Participants that would like to use SPP as their Qualified Reporting Entity must submit the [SPP Generator Data Release Form](https://www.mrets.org/wp-content/uploads/2018/08/SPP-and-M-RETS-Release-2018-PDF.pdf).
+M-RETS Users can use Southwest Power Pool (SPP) to report their generation data (MWh). To use SPP as a reporting entity a user must have a generator located in the SPP footprint and the generator must be at least 5 MW or larger in nameplate capacity. SPP Market Participants that would like to use SPP as their Qualified Reporting Entity must submit the [SPP Generator Data Release Form](https://www.mrets.org/wp-content/uploads/2024/01/SPP-and-M-RETS-Release-2018-PDF.pdf).
 
 ## To use SPP as the Qualified Reporting Entity for a generator:
 
