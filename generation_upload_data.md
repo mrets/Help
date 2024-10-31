@@ -4,6 +4,8 @@
 
 **To encourage timely reporting, M-RETS enabled automatic validations for generation uploads. Newly registered Generator Assets can report Generation back three (3) months. If the User is aware that Generation occurred prior to three months, a variance request can be submitted to allow generation prior to three months from the Generator Asset approval date. M-RETS will want to verify that the Generator Asset has not been registered in another tracking system and will need an attestation from the Organization that the environmental attributes have not been otherwise claimed outside of a recognized tracking system. Users have up to two years (730 days) from the generation end date to upload Prior Period Adjustment generation. M-RETS must approve any generation outside of this range.** Please reach out to the M-RETS Administrator and we will set the first eligible reporting vintage for the generator to the date your generation will start being reported. 
 
+A sample generation csv file can be found [here](https://www.mrets.org/registry-document/monthly-sample-upload-template/).
+
 ## Checking/Enabling Permissions
 
 Before uploading Generation data, the user will need to confirm the appropriate permissions have been granted to upload Generation. Please follow these steps.
