@@ -13,7 +13,7 @@ Imagine the following scenario: For vintage month 01/2023 you uploaded a generat
 
 ![](https://github.com/markmrets/photos/blob/master/GA%201.png?raw=true)
 
-To upload an adjustment you will need to use the [Generation Adjustments](/wp-content/uploads/2023/10/Generation-Adjustments-.csv) CSV found on the M-RETS website. The file is the same file that you would use to upload generation to the M-RETS System, with a few minor exceptions. 
+To upload an adjustment you will need to use the [Generation Adjustments](https://www.mrets.org/registry-document/generation-adjustments/) CSV found on the M-RETS website. The file is the same file that you would use to upload generation to the M-RETS System, with a few minor exceptions. 
 
 # Step One: Create the adjustment file 
 The below screenshot is what the completed generation adjustment file will look like.
