@@ -2,7 +2,7 @@
 
 This guide will walk you through participating in a Market in M-RETS. 
 
-The first step to Participating in a Market is to accept your invitation. To accept a Market invitation a user must have "Manage" permissions for both Programs and Markets. For a guide on user permissions refer [here](https://github.com/mrets/Help/blob/master/billing_adding_new_user.md). After logging into the System you will see a message at the top of your dashboard. 
+The first step to Participating in a Market is to accept your invitation. To accept a Market invitation a user must have "Manage" permissions for both Programs and Markets. For a guide on user permissions refer [here](https://mrets.github.io/Help/billing_adding_new_user). After logging into the System you will see a message at the top of your dashboard. 
 
 1. Select 'Answer'.
 
