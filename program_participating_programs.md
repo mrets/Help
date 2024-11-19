@@ -16,7 +16,7 @@ Programs are here! In order to see the new feature and create programs, you will
 
 ![](https://github.com/mrets/photos/blob/master/programs%202%20.png?raw=true)
 
- ### Scroll down to the Permissions section and set your program permissions to 'Manage'.
+### Scroll down to the Permissions section and set your program permissions to 'Manage'.
 
 ![](https://github.com/mrets/photos/blob/master/programs%204.png?raw=true)
 
