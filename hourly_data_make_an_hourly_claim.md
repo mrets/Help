@@ -11,7 +11,7 @@ M-RETS developed a process to provide for the first hourly REC retirement in a p
 2. Certificates in a batch where RECs from the issuance batch were transferred to another party.
 3. Certificates where any of the RECs from the batch as issued were retired.
 
-If you have questions about whether your Certificates qualify for Hourly Claims, please contact <systemadmin@mrets.org>.**
+If you have questions about whether your Certificates qualify for Hourly Claims, please contact <systemadmin@mrets.org>.
 
 <br>
   
@@ -33,7 +33,7 @@ If you have questions about whether your Certificates qualify for Hourly Claims,
 
 <br>
   
-### 4. Complete the retiernment steps on screen, please refer to [Retiring Certificates](https://github.com/mrets/Help/blob/master/certificates_retiring_certificates.md) for a walkthrough.
+### 4. Complete the retiernment steps on screen, please refer to [Retiring Certificates](https://mrets.github.io/Help/certificates_retiring_certificates) for a walkthrough on the remaning steps.
 
 <be>
 
