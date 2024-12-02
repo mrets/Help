@@ -38,5 +38,5 @@ User Permissions Per M-RETS Operating Procedures:
 
 ### 4. Select Send Invitation
 
-#### IMPORTANT: By default, email notifications are set to 'off' for users. To turn email notifications on, please navigate [here](https://mrets.github.io/help/billing_adding_new_user).
+#### IMPORTANT: By default, email notifications are set to 'off' for users. To turn email notifications on, please navigate [here](https://mrets.github.io/Help/billing_email_notifications).
 [Back](https://mrets.github.io/Help/index)
