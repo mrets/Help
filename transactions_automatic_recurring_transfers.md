@@ -1,24 +1,31 @@
-# How-To: Automatic Recurring Transfers and Irrevocable Transfers
+# How-To: Automatic Recurring Transfers (ARTs) and Irrevocable Transfers
 
-(Formerly known as Forward Transfers and Standing Orders)
 
-Select 'Transactions' dashboard on the left. You will now see there are three options on this page: Pending, History, and Recurring.
+Per the M-RETS Operating Procedures:
 
-![](https://github.com/mrets/photos/blob/master/transactions%205.png?raw=true)
+- After a User initiates an Automatic Recurring Transfer (“Transferor”), the Automatic Recurring
+Transfer enters a ‘Pending’ state. The receiving Organization (“Transferee”) then receives an email detailing
+the pending Automatic Recurring Transfer.
+- Each Automatic Recurring Transfer will be set up based on percentage of Certificates or a maximum
+number of Certificates. If less Certificates are issued than the maximum number specified, the total number of Certificates issued will transfer. If the Certificates are transferring to multiple Accounts, Users may prioritize the receiving Accounts. If there is a remainder, the User-set priority determines where to deposit
+the remaining Certificates
 
-Within the Transactions dashboard, select the "Recurring" tab. 
+ARTs can be created to transfer certificates to :
+- One internal Account
+- Multiple internal Accounts
+- An external Organization within M-RETS
+- A Compatible Environmental Attribute Tracking System (Export)
 
-![](https://github.com/mrets/photos/blob/master/recurring%201%20.png?raw=true)
 
+After logging in, select 'Transactions' on the left. You will see three tabs on this page: Pending, History, and Recurring. Select 'Recurring'. This is where you will see your recurring transfers.
 
 This article is broken up into steps in order to combine all possible transfers into one document.
 
-
-Select: 'Add Recurring Transfer'
+## Select: 'Add Recurring Transfer'
 
 ![](https://github.com/mrets/photos/blob/master/automatic_recurring_transfers1b.png?raw=true)
 
-## Select Generator
+## Step 1: Select the Generator associated with the ART
 
 ![](https://github.com/mrets/photos/blob/master/automatic_recurring_transfers2b.png?raw=true)
 
@@ -26,19 +33,19 @@ You will now see a list of your generators and a calendar. Once a generator is s
 
 <br>
 
-## Select Vintage Dates
+## Step 2: Select Vintage Dates
 
 ![](https://github.com/mrets/photos/blob/master/automatic_recurring_transfers3b.png?raw=true)
 
 <ul>
   <li>Select your certificate vintage start date and end date. Your transfer will be sent every month during the calendar timeframe selected.</li>
   <li>If your project is a multi-fuel generator, select a fuel type for your transfer. For multi-fuel generators, the automatic recurring transfer will only pertain to one fuel type.</li>
-  <li>Click 'Next'.</li>
+  <li>Select 'Next'.</li>
   </ul>
 
 <br>
 
-## Select Transfer Option
+## Step 3: Select Transfer Option
 
 ![](https://github.com/mrets/photos/blob/master/automatic_recurring_transfers5b.png?raw=true)
 
@@ -54,7 +61,7 @@ Select your account(s) from the menu. If you select multiple, you will see them 
   <li>Enter a percentage split based on your accounts. **NOTE**: They must add up to 100%.</li>
   <li>You can drag the different accounts to reprioritize them. In the event the quantity to be transferred does not divide evenly it will send the majority to the first listed account.</li>
  <li>The system will display when a remainder has been assigned to an account.</li>
-  <li>Click 'Review Transfer'</li>
+  <li>Select 'Review Transfer'</li>
   </ul>
 
 <br>
@@ -91,13 +98,9 @@ You can set either a percentage generation or a set amount of RECs to automatica
 Automatic Recurring Transfers can be set as Irrevocable during the confirmation of the transfer. Simply check the box labeled "Set Irrevocable", and your transfer will be set this way.
 
 <ul>
-  <li>Verify all of your information is correct and click 'Complete Transfer'. More free time = more tea time!</li>
+  <li>Verify all of your information is correct and select 'Complete Transfer'. More free time = more tea time!</li>
   </ul>
 
 ***PLEASE NOTE: ONLY THE M-RETS SYSTEM ADMINISTRATOR WILL BE ALLOWED TO EDIT IRREVOCABLE TRANSFERS***
 
 <br>
-
-# Complete!
-
-There you have it! With all that extra free time, might I suggest checking out some of our other walkthroughs like [Withdrawing/Accepting/Rejecting Transfers](https://mrets.github.io/Help/transactions_withdrawing_accepting_rejecting_transfers) or [View the Status of Current and Past Invoices](https://mrets.github.io/Help/billing_viewing_invoices)?
