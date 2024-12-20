@@ -2,7 +2,7 @@
 
 # Registering a New Generator
 
-The following guide will walk through the steps necessary to register a new generatr in your M-RETS® organization. The M-RETS Admin are available to assist you throughout the registration process. Please call 651-900-7891 or email our Client Services Team at <systemadmin@mrets.org>.
+The following guide will walk through the steps necessary to register a new generatr in your M-RETS® organization. The M-RETS Admin are available to assist you throughout the registration process. Please call 651-900-7891 or email our Client Services Team at <systemadmin@mrets.org>. The M-RETS Operating Procedures-[Appendix A](https://www.mrets.org/wp-content/uploads/2024/12/Appendix-A-REC-Generator-Registration-Static-Data-Guide.pdf) provides defintions of the generator registration fields. 
 
 <br>
 
