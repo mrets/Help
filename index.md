@@ -1,6 +1,6 @@
-# Within the System
+# System Help and Educational Guides
 
-This list contains help guides for the M-RETS, broken down by sidebar categories. NOTE: Your organization may not see all of these categories.
+Effective May 2025, MRETS Inc. has rebranded as CleanCounts. You are reading FAQs for the MRETS registry, which will continue to be operated under the MRETS service name inside the CleanCounts organization.
 
 ### [Enrolling in Multifactor Authentication (MFA)](https://mrets.github.io/Help/mfa_setup)
 This article will walkthrough how to enroll in mutli factor authentication (MFA). 
