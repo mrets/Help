@@ -11,7 +11,7 @@ The CSV File can be created in Excel or Notepad. Programs (like Excel) that add 
 
 -   **Generator ID**: The M-RETS ID. Use just the number. (For example, M805 should be listed as 805)
 
--   **Reporting Unit ID**: The Reporting Unit ID in the new system. 
+-   **Reporting Unit ID**: The Reporting Unit ID in the new system. If your Generator does not have a Reporting Unit ID, please use the Generator ID.
 
 -   **Vintage**: Month and year of generation, formatted at **MM/YYYY** for any month in the current Reporting Period. *This must be 7 characters long or the upload will be rejected.*
 
